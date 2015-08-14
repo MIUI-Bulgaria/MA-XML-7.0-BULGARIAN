@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="input_method_category">Избиране на метод за въвеждане по подразбиране, който ще използвате при въвеждане на текст в имейли, бележки и др. Запомнете, че можете да си инсталирате клавиатури от трети страни по-късно.</string>
+  <string name="input_method_setting">Избор на метод за въвеждане</string>
+  <string name="other_settings">Допълнителни настройки</string>
+  <string name="other_settings_location">Достъп до местоположение</string>
+  <string name="other_settings_location_summary">Позволява на приложенията да определят точно местоположението ви</string>
+  <string name="other_settings_user_experience">Потребителски отзив</string>
+  <string name="other_settings_user_experience_summary">Помогнете да подобрим MIUI чрез изпращане на анонимни потребителски данни</string>
+  <string name="welcome">Добре дошли</string>
+</resources>
