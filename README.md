@@ -1,4 +1,4 @@
-MA-XML-6.0-BULGARIAN
+MA-XML-7.0-BULGARIAN
 ====================
 
-Bulgarian MIUIv6 Translation for MIUIAndroid multilang project. Official MIUI Page for Bulgaria www.miui.bg
+Bulgarian MIUIv7 Translation for MIUIAndroid multilang project. Official MIUI Page for Bulgaria www.miui.bg
