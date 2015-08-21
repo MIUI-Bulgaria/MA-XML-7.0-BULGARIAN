@@ -174,4 +174,10 @@
   <string name="mi_key_summary_take_photo">Натискане на Mi-Key за снимане</string>
   <string name="reset_function_msg">Ново отваряне на функцията ще предизвика грешка в %1$s</string>
   <string name="some_app_taking">(%1$s вече използва тази функция…)</string>
+  <string name="notify_device_lose_connection_text">Чукнете за разкачане на %1$s</string>
+  <string name="notify_device_lose_connection_title">Няма връзка с/ъс %1$s</string>
+  <string name="unbind_device_alert_cancel">Отказ</string>
+  <string name="unbind_device_alert_content">Няма връзка с/ъс %1$s. Разкачете това устройство, за да спестите батерия.</string>
+  <string name="unbind_device_alert_ok">Разкачи</string>
+  <string name="unbind_device_alert_title">Разкачане на устройство</string>
 </resources>

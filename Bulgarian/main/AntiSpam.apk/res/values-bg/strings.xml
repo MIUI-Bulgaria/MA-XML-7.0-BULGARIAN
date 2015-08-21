@@ -337,4 +337,24 @@
   <string name="quiet_off_mode">Текущ режим</string>
   <string name="repeated_marked_number_summary">Не блокира второ обаждане от същия номер, ако е до 3 минути след първото.</string>
   <string name="repeated_marked_number_title">Не блокирай повтарящи докладвани обаждания</string>
+  <string name="address">Адрес</string>
+  <string name="birthday">Рожден ден</string>
+  <string name="dlg_remove_whitelist_content">Да се премахнат ли от изключенията тези номера?</string>
+  <string name="dlg_remove_whitelist_title">Премахване</string>
+  <string name="email">Имейл</string>
+  <string name="empty_activity_title">" "</string>
+  <string name="im">IM</string>
+  <string name="mark_agent_block_large">Intermediary</string>
+  <string name="mark_fraud_block_large">Fraud</string>
+  <string name="mark_harass_block_large">Harassment</string>
+  <string name="mark_sell_block_large">Telemarketer</string>
+  <string name="name">Име</string>
+  <string name="nickname">Псевдоним</string>
+  <string name="note">Бележка</string>
+  <string name="organization">Фирма</string>
+  <string name="phone">Телефон</string>
+  <string name="quiet_group">Не безпокойте</string>
+  <string name="sim_not_ready_toast">"SIM картата не е готова"</string>
+  <string name="sip_phone">SIP телефон</string>
+  <string name="website">Уебсайт</string>
 </resources>

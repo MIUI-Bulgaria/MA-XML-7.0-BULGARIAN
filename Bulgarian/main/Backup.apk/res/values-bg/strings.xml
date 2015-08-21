@@ -230,4 +230,6 @@
   <string name="summary_err_restore_no_network">Няма връзка с мрежата</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="camera_summary">Настройки на камерата (без снимките)</string>
+  <string name="delete_backup_title">Изтриване на архив</string>
 </resources>
