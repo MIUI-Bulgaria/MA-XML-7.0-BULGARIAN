@@ -375,4 +375,10 @@
   <string name="mx_dspt_provision_privacy_2_sim">"Тази функция може да изисква телефонния ви номер. Вашият оператор може да ви таксува за едно SMS съобщение, използвано при активиране на функцията.
 
 Тази функция шифрова и изпраща ID на устройството ви до сървърите на Mi."</string>
+		<string name="micloud_detail_download_syncing">Изтегля се %s</string>
+		<string name="micloud_detail_upload_syncing">Качва се %s</string>
+		<string name="mx_dspt_provision_with_voip2">Политика на поверителност</string>
+		<string name="mx_voip_dspt">Mi Voice</string>
+		<string name="pref_summary_sync_video_on_wifi_only">Синхронизиране на профилните видеота само когато сте свързани към Wi-Fi мрежа</string>
+		<string name="pref_title_sync_video_on_wifi_only">Синхр. на видео само по Wi-Fi</string>
 </resources>

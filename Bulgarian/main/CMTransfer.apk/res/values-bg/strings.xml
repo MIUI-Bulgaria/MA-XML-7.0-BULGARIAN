@@ -666,4 +666,31 @@
   <string name="transfer_send_finish_contact_title_one">contact sent</string>
   <string name="transfer_share">Share CM Transfer</string>
   <string name="unmount_sdcard_txt">"Can't write SD card"</string>
+		<string name="check_upgrade">Update</string>
+		<string name="dlg_self_upgrade_progress_msg">Updating...(%1$s,%2$s total)</string>
+		<string name="dlg_self_upgrade_progress_title">Latest version:%1$s</string>
+		<string name="dlg_sendmsg_contact_title">Select recipient</string>
+		<string name="msg_self_upgrade_loading">Checking for update,</string>
+		<string name="msg_self_upgrade_loading_second">please wait...</string>
+		<string name="send_app">%1$d apps</string>
+		<string name="send_contact">%1$d contacts</string>
+		<string name="send_document">%1$d documents</string>
+		<string name="send_file">%1$d files</string>
+		<string name="send_image">%1$d photos</string>
+		<string name="send_message_content">Hey, I just sent you %s, you can receive them by installing CM Transfer.</string>
+		<string name="send_msg_finish">Please ask the recipient to check their messages</string>
+		<string name="send_msg_info_hint">You can also send to one of your contacts</string>
+		<string name="send_music">%1$d musics</string>
+		<string name="send_no_contact">"Nobody's here"</string>
+		<string name="send_package">%1$d packages</string>
+		<string name="send_video">%1$d videos</string>
+		<string name="toast_upgrade_network_problem">Network error, please check the network settings</string>
+		<string name="toast_upgrade_newest_version">You already have the latest version</string>
+		<string name="toast_upgrade_sdcard_problem">Not enough space, please check and try again</string>
+		<string name="upgrade_dialog_network_btn_continue">Continue</string>
+		<string name="upgrade_dialog_network_title">Updating on &lt;font color=#47c580 &gt;%1$s&lt;/font&gt; will cost network fees, do you want to continue updating?</string>
+		<string name="upgrade_dialog_popup_btn_notnow">Not now</string>
+		<string name="upgrade_dialog_popup_btn_rightnow">Update now</string>
+		<string name="upgrade_dialog_popup_subtitle">"What's new(%s):"</string>
+		<string name="upgrade_dialog_popup_title">Please update to the latest version!</string>
 </resources>

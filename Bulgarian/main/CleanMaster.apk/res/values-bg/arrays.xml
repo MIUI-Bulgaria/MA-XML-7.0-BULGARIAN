@@ -29,4 +29,21 @@
         <item>Почистване на заден план</item>
         <item>Известяване след почистване</item>
     </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Почистване</item>
+        <item>Файл</item>
+        <item>Изключение</item>
+        <item>Инсталиране</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Детайли</item>
+        <item>Файл</item>
+        <item>Архив и деинстал.</item>
+        <item>Деинсталиране</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Почистване</item>
+        <item>Файл</item>
+        <item>Изключение</item>
+    </string-array>
 </resources>

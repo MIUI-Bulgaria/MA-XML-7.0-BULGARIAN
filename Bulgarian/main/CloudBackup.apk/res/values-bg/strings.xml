@@ -73,4 +73,5 @@
   <string name="wait_icon_download">Изтегляне на икони на приложения</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="about_to_recover">Един момент…</string>
+  <string name="click_try_to_restore_again">Чукнете за нов опит</string>
 </resources>
