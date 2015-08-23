@@ -65,4 +65,68 @@
         <item quantity="few"> (%1$d елементи)</item>
         <item quantity="many"> (%1$d елементи)</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Преди %1$d дни</item>
+        <item quantity="zero">Преди %1$d дни</item>
+        <item quantity="one">Преди %1$d ден</item>
+        <item quantity="two">Преди %1$d дни</item>
+        <item quantity="few">Преди %1$d дни</item>
+        <item quantity="many">Преди %1$d дни</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="zero">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="one">Получен %1$d файл от прил. %2$s</item>
+        <item quantity="two">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="few">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="many">Получени %1$d файла от прил. %2$s</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Открити нови файлове: %1$d</item>
+        <item quantity="zero">Открити нови файлове: %1$d</item>
+        <item quantity="one">Открити нови файлове: %1$d</item>
+        <item quantity="two">Открити нови файлове: %1$d</item>
+        <item quantity="few">Открити нови файлове: %1$d</item>
+        <item quantity="many">Открити нови файлове: %1$d</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Преди %1$d часа</item>
+        <item quantity="zero">Преди %1$d часа</item>
+        <item quantity="one">Преди %1$d час</item>
+        <item quantity="two">Преди %1$d часа</item>
+        <item quantity="few">Преди %1$d часа</item>
+        <item quantity="many">Преди %1$d часа</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Преди %1$d мин.</item>
+        <item quantity="zero">Преди %1$d мин.</item>
+        <item quantity="one">Преди %1$d мин.</item>
+        <item quantity="two">Преди %1$d мин.</item>
+        <item quantity="few">Преди %1$d мин.</item>
+        <item quantity="many">Преди %1$d мин.</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="zero">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="one">Файл (%2$d) от прил. %1$s</item>
+        <item quantity="two">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="few">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="many">Файлове (%2$d) от прил. %1$s</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Файлове %1$s (%2$d)</item>
+        <item quantity="zero">Файлове %1$s (%2$d)</item>
+        <item quantity="one">Файл %1$s (%2$d)</item>
+        <item quantity="two">Файлове %1$s (%2$d)</item>
+        <item quantity="few">Файлове %1$s (%2$d)</item>
+        <item quantity="many">Файлове %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Файлове %1$s (%2$d)</item>
+        <item quantity="zero">Файлове %1$s (%2$d)</item>
+        <item quantity="one">Файл %1$s (%2$d)</item>
+        <item quantity="two">Файлове %1$s (%2$d)</item>
+        <item quantity="few">Файлове %1$s (%2$d)</item>
+        <item quantity="many">Файлове %1$s (%2$d)</item>
+    </plurals>
 </resources>
