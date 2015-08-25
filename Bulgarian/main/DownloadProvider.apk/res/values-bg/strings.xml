@@ -63,14 +63,14 @@
     <string name="warning_tip_content">Вече не сте свързани с Wi-Fi. Използването на мобилни данни за това изтегляне ще консумира от пакетът ви от данни. Ако превишите лимита си, е възможно начисляването на допълнителни такси.</string>
     <string name="warning_tip_ok">Пауза</string>
     <string name="warning_tip_title">Предупреждение за данни</string>
-				<string name="button_download_now">Изтегли сега</string>
-				<string name="button_wait_for_wifi">Изчакай</string>
-				<string name="enter_garbage_clean">Почистване на вътр. хранилище.</string>
-				<string name="insufficient_space">"Няма достатъчно място на вътрешното хранилище на устройството ви"</string>
-				<string name="recommended_file_more_in_mobile" formatted="false">Използването на мобилни данни за изтегляне на тези %s файла (%s ) ще консумира от пакетът ви от данни.</string>
-				<string name="recommended_file_one_in_mobile">Използването на мобилни данни за изтегляне на този файл (%s ) ще консумира от пакетът ви от данни.</string>
-				<string name="recommended_file_size_download_in_mobile" formatted="false">"В момента не сте свързани с Wi-Fi. %s
+    <string name="button_download_now">Изтегли сега</string>
+    <string name="button_wait_for_wifi">Изчакай</string>
+    <string name="enter_garbage_clean">Почистване на вътр. хранилище.</string>
+    <string name="insufficient_space">"Няма достатъчно място на вътрешното хранилище на устройството ви"</string>
+    <string name="recommended_file_more_in_mobile" formatted="false">Използването на мобилни данни за изтегляне на тези %s файла (%s ) ще консумира от пакетът ви от данни.</string>
+    <string name="recommended_file_one_in_mobile">Използването на мобилни данни за изтегляне на този файл (%s ) ще консумира от пакетът ви от данни.</string>
+    <string name="recommended_file_size_download_in_mobile" formatted="false">"В момента не сте свързани с Wi-Fi. %s
 
-	Данните за размера на файла не могат да се получат. За използване на мобилни данни за изтегляне на този файл, чукнете %s. За да изчакате за Wi-Fi връзка, чукнете %s."</string>
-				<string name="recommended_no_file_size_download_in_mobile" formatted="false">"Данните за размера на файла не могат да се получат. За използване на мобилни данни за изтегляне на този файл, чукнете %s. За да изчакате за Wi-Fi връзка, чукнете %s."</string>
+ Данните за размера на файла не могат да се получат. За използване на мобилни данни за изтегляне на този файл, чукнете %s. За да изчакате за Wi-Fi връзка, чукнете %s."</string>
+    <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Данните за размера на файла не могат да се получат. За използване на мобилни данни за изтегляне на този файл, чукнете %s. За да изчакате за Wi-Fi връзка, чукнете %s."</string>
 </resources>

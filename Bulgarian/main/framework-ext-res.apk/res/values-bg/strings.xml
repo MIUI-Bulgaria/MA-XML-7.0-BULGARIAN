@@ -87,4 +87,8 @@
   <string name="location_usage_restricted_title">Местоп. на заден план е ограничено</string>
   <string name="permdesc_manageLocationPolicy">Позволява на приложението да управлява политиките за местоположение и да дефинира специфични за него правила.</string>
   <string name="permlab_manageLocationPolicy">управление на местоположения</string>
+  <string name="fc_dialog_body">Да се изпрати ли доклад за грешка до Mi за анализ? Този доклад може да съдържа лична информация. Вашият доклад ще се използва за премахване на грешката и никога няма да се споделя с комерсиална цел.</string>
+  <string name="fc_dialog_jump_to_preview">Виж резюмето</string>
+  <string name="handy_mode_enter_dlg_msg">Влизане в режим Ползване с една ръка?</string>
+  <string name="handy_mode_enter_dlg_title">Ползване с една ръка</string>
 </resources>

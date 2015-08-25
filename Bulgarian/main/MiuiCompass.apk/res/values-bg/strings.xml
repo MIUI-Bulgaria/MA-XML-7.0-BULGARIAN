@@ -51,4 +51,11 @@
   <string name="calibrate_title">Калибриране на компаса</string>
   <string name="first_using_dialog_message">"За да работи нормално, Компас трябва да използва интернет връзка, камера и услугите за местоположение."</string>
   <string name="first_using_dialog_title">Разрешение за достъп</string>
+  <string name="altitude_uncalibrate_cancel">Отказ</string>
+  <string name="altitude_uncalibrate_msg">"Не може точно да се калибрира височината без GPS или връзка с мобилни данни."</string>
+  <string name="altitude_uncalibrate_refresh">Нов опит</string>
+  <string name="altitude_uncalibrate_tip">Не може да се калибрира височината</string>
+  <string name="dialog_body_no_network">Няма връзка с мрежата</string>
+  <string name="error_camera_unavailable">Проверете дали в момента друго приложение на използва Камера.</string>
+  <string name="error_camera_unavailable_title">Камерата е недостъпна</string>
 </resources>

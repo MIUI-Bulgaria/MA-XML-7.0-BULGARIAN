@@ -708,4 +708,12 @@
   <string name="select_voice_call_sim">Изберете SIM карта</string>
   <string name="waiting_close_airplane_mode">Изчаква изключване на самолетен режим ...</string>
   <string name="livetalk_left_minute">остават %s мин.</string>
+  <string name="description_image_button_answer">Плъзнете нагоре за отговор</string>
+  <string name="description_image_button_dialpad">Клавиатура</string>
+  <string name="description_image_button_hangup">Край</string>
+  <string name="description_image_button_message_enter">Плъзнете нагоре, за да отговорите със съобщение</string>
+  <string name="description_image_button_message_exit">Скрий съобщенията</string>
+  <string name="description_image_button_reject">Плъзнете нагоре за отказване</string>
+  <string name="description_image_button_tools">Опции</string>
+  <string name="miprofile_stranger_card">Карта на непознат</string>
 </resources>
