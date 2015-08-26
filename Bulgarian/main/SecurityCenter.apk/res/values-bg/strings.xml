@@ -39,7 +39,7 @@
   <string name="activity_title_virus_detail">Подробности за вируса</string>
   <string name="activity_title_virus_settings">Настройки</string>
   <string name="activity_title_white_list">Изключения</string>
-  <string name="antivirus_sec_support">С подкрепата на Tencent</string>
+  <string name="antivirus_sec_support">С подкрепата на %s</string>
   <string name="apk_status_damage">Повредено</string>
   <string name="apk_status_duplicate">Дубликат</string>
   <string name="apk_status_install">Инсталирано</string>
@@ -781,4 +781,19 @@
   <string name="btn_text_power_cleanup">Дълбоко почистване</string>
   <string name="history_details_title">Датайли на историята</string>
   <string name="memory_check_content_none">Празно</string>
+  <string name="antivirus_choose_engine">Използвай дефинициите от %s</string>
+  <string name="antivirus_choose_engine_dialog_title">Избор на дефиниции</string>
+  <string name="antivirus_choose_engine_disable_toast">"Не може да се сменят дефиниции докато протича сканиране"</string>
+  <string name="antivirus_choose_engine_settings">Настройки на вирусните дефиниции</string>
+  <string name="antivirus_choose_engine_title">Дефиниции</string>
+  <string name="antivirus_more_engine_dialog_summary">Използването на повече дефиниции може да забави процеса на сканиране.</string>
+  <string name="antivirus_more_engine_dialog_title">Внимание</string>
+  <string name="antivirus_none_engine_dialog_ok">OK</string>
+  <string name="antivirus_none_engine_dialog_title">Избор на дефиниции</string>
+  <string name="antivirus_privacy_dialog_cloudscan">Качване на имена и детайли за прил.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Качване и сканиране на имената и детайлите с помощта на онлайн вирусни дефиниции.</string>
+  <string name="antivirus_privacy_dialog_ok">OK</string>
+  <string name="antivirus_privacy_dialog_summary">"Тази функция криптира и изпраща ID на устройството ви до сървърите на AVL и Tencent (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary_link">виж Политиката на поверителност</string>
+  <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>
 </resources>

@@ -596,4 +596,5 @@ For more info check the message you received from your service provider"</string
   <string name="saving_conflict_restrictbackground_msg">"Спестяване на данни не може да се използва, когато данните на заден план са ограничени. Да се разрешат ли данните на заден план и да се включи Спестяване на данни?"</string>
   <string name="traffic_saving_can_optimized">Оптимизирай</string>
   <string name="traffic_setting_fragment_area_dual">%s Локално</string>
+  <string name="main_message_no_package_by_dual">Задаване на лимит от данни за %s</string>
 </resources>

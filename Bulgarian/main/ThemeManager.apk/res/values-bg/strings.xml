@@ -386,4 +386,6 @@
   <string name="theme_provision_default_theme_title">Стандартно</string>
   <string name="theme_provision_loading_tips">Един момент…</string>
   <string name="theme_provision_title">Избор на тема</string>
+  <string name="theme_precast_create_notification_content">Чукни за преглед на нови теми.</string>
+  <string name="theme_precast_create_notification_title">Обновено до MIUI 7</string>
 </resources>
