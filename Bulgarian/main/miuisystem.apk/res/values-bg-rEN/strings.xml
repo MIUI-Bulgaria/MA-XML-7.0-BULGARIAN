@@ -196,4 +196,7 @@
   <string name="loading">Зарежда се…</string>
   <string name="mibi_license">Условия за ползване на Mi Credit</string>
   <string name="policy_name">Политика:%s</string>
+  <string name="cloud_state_disabled">Синхр. с Mi Cloud : изкл.</string>
+  <string name="cloud_state_finished">Синхронизирано с Mi Cloud</string>
+  <string name="cloud_state_syncing">Синхр. се с Mi Cloud</string>
 </resources>

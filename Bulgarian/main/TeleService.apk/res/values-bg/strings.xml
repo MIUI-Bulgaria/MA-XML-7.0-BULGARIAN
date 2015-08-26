@@ -1161,4 +1161,6 @@
   <string name="msim_disable_sim_card_summary_default_card">"Понастоящем тази карта е зададена като SIM карта по подразбиране. Ако спрете да я използвате, няма да имате възможност за извършване на обаждания или връзка чрез мобилни данни. Можете да я спрете след като зададете друга SIM карта като ваша SIM карта по подразбиране."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Няма да имате възможност за извършване на обаждания или връзка чрез мобилни данни. Да се спре ли SIM картата %s?</string>
   <string name="msim_disable_sim_card_title">Спиране на SIM картата</string>
+  <string name="incoming_video_show_pref_summary">Показване на видео, зададено от обаждащия се. Включете контактни карти, за да използвате тази функция.</string>
+  <string name="incoming_video_show_pref_title">"Показвай профилно видео на обаждащия се"</string>
 </resources>

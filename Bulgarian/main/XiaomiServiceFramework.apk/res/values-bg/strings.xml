@@ -96,4 +96,7 @@
 Въведете телефонният номер на вашата нова SIM карта, за да реактивирате %s"</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Не е открит номер</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Не може да се изпрати съобщение</string>
+  <string name="activate_feature_mx_and_voip">Mi Message и Voice</string>
+  <string name="activate_popup_desc_voip_privacy">Политика на поверителност</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">". VoIP се поддържа от Weihui. Вижте тяхната "</string>
 </resources>

@@ -285,4 +285,9 @@
   <string name="recommend_apps_switch_title">Препоръчани приложения</string>
   <string name="recommend_apps_tips">Тази функция се нуждае от връзка към интернет, за да работи нормално. Ако искате да я изключите, докоснете името на тази папка.</string>
   <string name="select_all">Избери всички</string>
+  <string name="children_folder_title">Деца</string>
+  <string name="children_mode_exit">Изход</string>
+  <string name="children_mode_tips">Върнете се в Настройки и управлявайте достъпа до приложенията.</string>
+  <string name="wallpaper_auto_change_title">Закл. екран</string>
+  <string name="wallpaper_scaling_message">Мащабиране до фиксиран размер</string>
 </resources>

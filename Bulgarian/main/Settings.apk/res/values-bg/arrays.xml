@@ -50,10 +50,11 @@
         <item>30 минути</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Малък</item>
-        <item>Нормален</item>
-        <item>Голям</item>
-        <item>Огромен</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Много бавна</item>
@@ -394,6 +395,7 @@
        <item>Галерия</item>
        <item>Музика</item>
        <item>Имейл</item>
+       <item>Видео</item>
    </string-array>
    <string-array name="network_speed_slow_summary">
        <item>Връзката е бавна поради засилен трафик</item>

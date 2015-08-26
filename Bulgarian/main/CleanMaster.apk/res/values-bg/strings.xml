@@ -36,7 +36,7 @@
   <string name="button_text_install">Инсталиране</string>
   <string name="button_text_known">ОК</string>
   <string name="button_text_uninstall">Деинсталиране</string>
-  <string name="button_text_uninstall_only">Деинстал.</string>
+  <string name="button_text_uninstall_only">Деинстал. на %s</string>
   <string name="button_text_view_detail">Детайли</string>
   <string name="button_text_view_file">Файл</string>
   <string name="cache_title_empty_folder">Празна папка (%d)</string>
@@ -44,9 +44,9 @@
   <string name="cache_title_system_cache">Системен кеш</string>
   <string name="cancel">Отказ</string>
   <string name="clean_content_all">Всичко</string>
-  <string name="clean_content_one">%s</string>
-  <string name="clean_content_three">Пропусни %s</string>
-  <string name="clean_content_two">%1$s и %2$s</string>
+  <string name="clean_content_one">1 елемент</string>
+  <string name="clean_content_three">3 елемента</string>
+  <string name="clean_content_two">2 елемента</string>
   <string name="clean_content_zero">Не почиствай нищо</string>
   <string name="confirm_auto_cleaner">ОК</string>
   <string name="deepclean_cache_header_left">Кеш: %d</string>
@@ -66,11 +66,11 @@
   <string name="empty_title_large_files">празно</string>
   <string name="empty_title_residual">Няма остатъчни файлове</string>
   <string name="header_optimizer">Използвайки функцията, вие приемате %s.</string>
-  <string name="hints_ad_header_left">Рекламни файлове: %d</string>
-  <string name="hints_apk_header_left">Инсталационни файлове: %d</string>
+  <string name="hints_ad_header_left">Рекламни файлове</string>
+  <string name="hints_apk_header_left">Инсталационни файлове</string>
   <string name="hints_apk_version">Версия %s</string>
   <string name="hints_app_uninstall_residual">Ще изчистите ли остатъчните файлове?</string>
-  <string name="hints_cache_header_left">Кеш файлове: %d</string>
+  <string name="hints_cache_header_left">Кеш файлове</string>
   <string name="hints_finish_quick_cleanup">Преглед на детайлите</string>
   <string name="hints_finish_quick_cleanup_title">Почистихте %s отпадъци</string>
   <string name="hints_finish_quick_scan">Сканирането завърши</string>
@@ -94,7 +94,7 @@
   <string name="hints_quick_cleanning">Почиства се…</string>
   <string name="hints_quick_cleanuping">Оптимизира се…</string>
   <string name="hints_quick_scanning">Сканира се…</string>
-  <string name="hints_residual_header_left">Остатъци: %d</string>
+  <string name="hints_residual_header_left">Остатъци</string>
   <string name="hints_storage_free">Свободно</string>
   <string name="hints_storage_free_size">%s свободни</string>
   <string name="hints_title_garbage">отпадъци</string>

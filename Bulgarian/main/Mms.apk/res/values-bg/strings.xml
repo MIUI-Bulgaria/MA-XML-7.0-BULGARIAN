@@ -582,4 +582,23 @@
   <string name="cloud_state_sync_finished">Синхронизирано с Mi Cloud</string>
   <string name="cloud_state_syncing">Синхр. се с Mi Cloud…</string>
   <string name="mipub_messaging_entry_title">Mi Messages</string>
+  <string name="exceed_message_text_limitation">Надвишихте лимита за дължина на съобщението.</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
+  <string name="mx2_type_description">[%s]</string>
+  <string name="mx_activate_dlg_title_ex">Активиране на Mi Message и Voice</string>
+  <string name="mx_and_voip_enable">Mi Message и Voice</string>
+  <string name="mx_and_voip_enable_popup_msg">"Изпращайте съобщения и правете обаждания до други MIUI потребители без да бъдете таксувани от оператора ви. VoIP услугата се поддържа от Weihui. Вижте политиката на поверителност на Weihui."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Политика на поверителност</string>
+  <string name="mx_dspt_provision_ex">"Изпращайте съобщения и правете обаждания до други MIUI потребители без да бъдете таксувани от оператора ви. VoIP услугата се поддържа от Weihui. Вижте политиката на поверителност на Weihui."</string>
+  <string name="mx_dspt_provision_ex2">Политика на поверителност</string>
+  <string name="mx_enable_ex">Mi Message и Voice</string>
+  <string name="pref_show_sms_template_in_summary">Автоматично засичане на OTP в SMS съобщенията</string>
+  <string name="pref_time_auto_group_disabled_summary">Не се поддържа с текущия размер на шрифта</string>
+  <string name="security_alert_desc_highlight">Докладвай този номер</string>
+  <string name="title_show_sms_template_in">Проверка на SMS за OTP</string>
+  <string name="voip_enable">Mi Message и Voice</string>
+  <string name="voip_enable_popup_msg">"Правете обаждания до други MIUI потребители без да бъдете таксувани от оператора ви. VoIP услугата се поддържа от Weihui. Вижте политиката на поверителност на Weihui."</string>
+  <string name="voip_enable_popup_msg2">Политика на поверителност</string>
 </resources>

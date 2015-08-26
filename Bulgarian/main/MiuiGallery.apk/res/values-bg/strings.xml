@@ -692,7 +692,7 @@
   <string name="moman_camera_drawing">Moman Camera drawing</string>
   <string name="moman_camera_icon">Moman Camera emoticon</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
-  <string name="not_is">Не е %s?</string>
+  <string name="not_is">не е</string>
   <string name="picker_tab_camera">Камера</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="qq">QQ</string>
@@ -708,7 +708,7 @@
   <string name="wechat_timeline_title">WeChat</string>
   <string name="weibo">Weibo</string>
   <string name="wps">WPS</string>
-  <string name="is">Това %s ли е?</string>
+  <string name="is">е</string>
   <string name="recommanded_face_abandon_tip">Премахнато от предложения</string>
   <string name="recommanded_face_added_tip">Добавено към \"%s\"</string>
   <string name="download_without_wifi_msg">Използването на мобилни данни за изтегляне на снимки може да доведе до допълнително таксуване от вашия оператор.</string>

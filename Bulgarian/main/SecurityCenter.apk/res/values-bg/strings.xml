@@ -778,4 +778,7 @@
   <string name="month_report_warning_dialog_positive">Включване</string>
   <string name="month_report_warning_dialog_title">Месечен доклад за сигурността</string>
   <string name="shutdown_time_day_tomorrow">Изключване утре в/ъв %1$s</string>
+  <string name="btn_text_power_cleanup">Дълбоко почистване</string>
+  <string name="history_details_title">Датайли на историята</string>
+  <string name="memory_check_content_none">Празно</string>
 </resources>

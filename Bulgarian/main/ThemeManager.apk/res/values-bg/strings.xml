@@ -370,4 +370,20 @@
   <string name="resource_select_ringtone_audio_confirm">Избор на тази мелодия?</string>
   <string name="theme_setting">Настройки</string>
   <string name="vip_level_value">LV%d</string>
+  <string name="choose_new_themes">Теми</string>
+  <string name="lockscreen_magazine_subscribe">%1$s последователи</string>
+  <string name="lockscreen_magazine_summary">Получете всеки ден нови тапети на вашия заключен екран.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s тапети</string>
+  <string name="lockscreen_magazine_system_title">Стандартно</string>
+  <string name="lockscreen_magazine_title">Закл. екрани за деня</string>
+  <string name="present_local_themes">Изтеглени</string>
+  <string name="present_online_themes">Онлайн</string>
+  <string name="theme_apply_failured">"Тапетът не може да се приложи"</string>
+  <string name="theme_apply_success">Закл. екран е приложен</string>
+  <string name="theme_applying">Прилага се…</string>
+  <string name="theme_precast_update_notification_content">Чукни за преглед на нови теми.</string>
+  <string name="theme_precast_update_notification_title">Обновено до MIUI 7</string>
+  <string name="theme_provision_default_theme_title">Стандартно</string>
+  <string name="theme_provision_loading_tips">Един момент…</string>
+  <string name="theme_provision_title">Избор на тема</string>
 </resources>

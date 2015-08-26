@@ -565,4 +565,10 @@
   <string name="bmp_quality_mode">Picture Quality mode</string>
   <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
   <string name="empty_tv_exiting">Exiting ...</string>
+  <string name="ads_ignore">Ignore</string>
+  <string name="app_wifi_mode">Wifi auto upgrade</string>
+  <string name="app_wifi_mode_summary">When in Wifi mode, auto upgrade to latest version.</string>
+  <string name="need_upgrade_button">Check</string>
+  <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
+  <string name="need_upgrade_title">Available in new version</string>
 </resources>

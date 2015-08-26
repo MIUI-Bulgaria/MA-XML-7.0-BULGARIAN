@@ -53,4 +53,11 @@
   <string name="distance_unit_meter">м</string>
   <string name="recently_shortcut_label">Скорошни връзки</string>
   <string name="xiaomi_search_label">Онлайн</string>
+  <string name="searchable_lable_app">прил.</string>
+  <string name="searchable_lable_browser">браузър</string>
+  <string name="searchable_lable_duokan">duokan</string>
+  <string name="searchable_lable_music">музика</string>
+  <string name="searchable_lable_o2o">o2o</string>
+  <string name="searchable_lable_video">видео</string>
+  <string name="searchable_sources">Онлайн</string>
 </resources>

@@ -372,4 +372,23 @@
   <string name="exceed_binded_phone_times_notice">Този телефонен номер вече е свързан с друг Mi профил.</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="vip_level_value">LV%d</string>
+  <string name="passport_account_identity_title">Проверка на идентичността</string>
+  <string name="passport_change_phone_number">Смяна на номерата</string>
+  <string name="passport_confirm_recycle_account">Да</string>
+  <string name="passport_identitfication_expired">Кодът за проверка е изтекъл, започнете отначало</string>
+  <string name="passport_input_password_for_login">Този номер е свързан със съществуващ профил, въведете вашата парола</string>
+  <string name="passport_recycle_account_prompt">Това вашият Mi профил ли е?</string>
+  <string name="passport_register_restricted">Твърде много профили са свързани към този номер, опитайте с друг</string>
+  <string name="passport_register_restricted_title">"Този телефонен номер не може да се използва"</string>
+  <string name="passport_reject_recycle_account">Не</string>
+  <string name="passport_reset_fail_title">"Неуспешно въстановяване"</string>
+  <string name="passport_reset_password_prompt">Паролата е неправилна</string>
+  <string name="passport_reset_password_title">Възстанови паролата</string>
+  <string name="passport_restart">Започнете отначало</string>
+  <string name="passport_restart_register_prompt">Може да е необходимо друго верификационно съобщение за създаване на вашия профил.</string>
+  <string name="passport_restart_register_title">Създаване на Mi профил</string>
+  <string name="passport_send_too_many_code">Твърде много кодове за проверка бяха изпратени до този номер. Изчакайте 24 часа и опитайте отново.</string>
+  <string name="passport_setting">Настройва се…</string>
+  <string name="passport_wait_for_sms_prompt">"Да започнете ли отначало? Верификационните събщения може да отнемат до 10 минути, докато бъдат доставени."</string>
+  <string name="passport_wrong_password">Паролата е неправилна</string>
 </resources>

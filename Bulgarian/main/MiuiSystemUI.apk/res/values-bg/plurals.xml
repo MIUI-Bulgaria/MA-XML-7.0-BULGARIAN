@@ -5,4 +5,8 @@
         <item quantity="other">Последни приложения: %d</item>
         <item quantity="one">1 последно приложение</item>
     </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Скрий известията от %d прил.?</item>
+        <item quantity="one">Скрий известията от това прил.?"</item>
+    </plurals>
 </resources>

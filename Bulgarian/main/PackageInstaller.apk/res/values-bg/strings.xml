@@ -99,4 +99,9 @@
   <string name="package_delete_confirm_step_1">Да се изтрие ли %s?</string>
   <string name="package_delete_confirm_step_2">Изтриването на това приложение може да доведе до нестабилност на системата.</string>
   <string name="package_delete_confirm_step_3">След като изтриете приложението, няма да можете да го стартирате.</string>
+  <string name="app_store_install_hint">Инсталиране</string>
+  <string name="app_store_installing_message">Инсталира се…</string>
+  <string name="app_store_missing_message">"Изглежда не сте инсталирали нашия официален App Store. Да се инсталира ли сега?"</string>
+  <string name="app_store_missing_title">"App Store не е инсталиран"</string>
+  <string name="reboot_time">Подготовка за рестартиране… (%1$s)</string>
 </resources>
