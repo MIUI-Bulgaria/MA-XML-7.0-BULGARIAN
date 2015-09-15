@@ -3726,4 +3726,27 @@ Wi‑Fi асистента за Wi‑Fi"</string>
   <string name="theme_settings_title">Теми</string>
   <string name="translation_contributors_summary" />
   <string name="wifi_eap_sim_simcard">Изберете SIM</string>
+  <string name="layout_size_huge_text">Огромен</string>
+  <string name="layout_size_large_text">Голям</string>
+  <string name="layout_size_medium_text">Среден</string>
+  <string name="layout_size_normal_text">Малък</string>
+  <string name="layout_size_small_text">Миниатюрен</string>
+  <string name="music_dirac_mode_piston_color">Цветно издание</string>
+  <string name="page_layout_huge_title">Огромен</string>
+  <string name="page_layout_large_title">Голям</string>
+  <string name="page_layout_medium_title">Среден</string>
+  <string name="page_layout_normal_title">Малък</string>
+  <string name="page_layout_page2_huge_summary">Огромен</string>
+  <string name="page_layout_page2_huge_title">Огромен</string>
+  <string name="page_layout_page2_large_summary">Голям</string>
+  <string name="page_layout_page2_large_title">Голям</string>
+  <string name="page_layout_page2_medium_summary">Среден</string>
+  <string name="page_layout_page2_medium_title">Среден</string>
+  <string name="page_layout_page2_normal_summary">Малък</string>
+  <string name="page_layout_page2_normal_title">Малък</string>
+  <string name="page_layout_page2_small_summary">Миниатюрен</string>
+  <string name="page_layout_page2_small_title">Миниатюрен</string>
+  <string name="page_layout_page2_title">Преглед</string>
+  <string name="page_layout_small_title">Миниатюрен</string>
+  <string name="wifi_type_approval_dialog_title">Нормативна уредба</string>
 </resources>

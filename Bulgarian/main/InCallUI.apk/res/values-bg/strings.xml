@@ -716,4 +716,6 @@
   <string name="description_image_button_reject">Плъзнете нагоре за отказване</string>
   <string name="description_image_button_tools">Опции</string>
   <string name="miprofile_stranger_card">Карта на непознат</string>
+  <string name="call_extension_conference_mode">Конферентен режим</string>
+  <string name="onscreen_audio_mode_conference">Конференция</string>
 </resources>

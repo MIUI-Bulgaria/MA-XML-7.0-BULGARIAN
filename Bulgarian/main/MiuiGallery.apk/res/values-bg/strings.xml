@@ -800,4 +800,10 @@
   <string name="title_set_name">Задаване на име</string>
   <string name="upgrade_micloud_space">Закупуване на място</string>
   <string name="view_baby_album">Преглед на бебе албум</string>
+  <string name="associate_face_album">Изберете албум</string>
+  <string name="auto_update_face">Автоматично добавяне на снимки</string>
+  <string name="auto_update_face_summary">Автоматично сравняване и добавяне на снимките в бебе албума</string>
+  <string name="auto_update_off">Изкл.</string>
+  <string name="auto_update_on">Вкл.</string>
+  <string name="sync_ok">Синхр.</string>
 </resources>

@@ -189,4 +189,40 @@ Renew now and get 5% off."</string>
 Renew now and get 5% off."</string>
   <string name="vip_show_info">"5 million members.
 Accelerate downloads across all your devices."</string>
+  <string name="about">Относно</string>
+  <string name="action_settings">Настройки</string>
+  <string name="app_name">Файлове</string>
+  <string name="auth_fail">Не може да се получи разрешение</string>
+  <string name="cancel">Отказ</string>
+  <string name="confirm">ОК</string>
+  <string name="create_task">Създай задача</string>
+  <string name="do_not_support_url">Този вид URL адреси не се поддържа</string>
+  <string name="download_auth">Получава се разрешение…</string>
+  <string name="downloaded">Изтеглянето завърши</string>
+  <string name="downloading">Изтегля се…</string>
+  <string name="edit_hint"> Въведете URL (http или https)</string>
+  <string name="file_picker">Изберете място</string>
+  <string name="input_valid_address">Въведете път за файла</string>
+  <string name="install">Инсталиране</string>
+  <string name="installing">Инсталира се…</string>
+  <string name="invalid_address">Въведеният от вас път е невалиден</string>
+  <string name="network_error">Няма връзка с мрежата</string>
+  <string name="new_add">Нов</string>
+  <string name="open">Отвори</string>
+  <string name="paused">На пауза</string>
+  <string name="pref_download_revert_default">По подразбиране</string>
+  <string name="pref_download_storage_path">Създаване на нова папка за изтеглянията</string>
+  <string name="revert_default">Нулиране</string>
+  <string name="revert_download_path">Да се използва ли стандартната папка за изтегляния?</string>
+  <string name="save_path">"Запазвай изтеглянията в: "</string>
+  <string name="setting_close_debug">Изключване на режим за отстр. на грешки</string>
+  <string name="setting_debug_fail">Не може да влезе в режим за отстр. на грешки</string>
+  <string name="setting_open_debug">Режима за отстр. на грешки е вкл. Чукнете тук 6 пъти, за да го изключите.</string>
+  <string name="start_analysis">Привери</string>
+  <string name="start_download">Изтегли</string>
+  <string name="starting_analysis">Получава се информация…</string>
+  <string name="storage_internal">Вътрешна памет</string>
+  <string name="storage_sd_card">SD карта</string>
+  <string name="storage_usb">USB хранилище</string>
+  <string name="version">Версия %s</string>
 </resources>

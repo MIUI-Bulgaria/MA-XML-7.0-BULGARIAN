@@ -391,4 +391,6 @@
   <string name="passport_setting">Настройва се…</string>
   <string name="passport_wait_for_sms_prompt">"Да започнете ли отначало? Верификационните събщения може да отнемат до 10 минути, докато бъдат доставени."</string>
   <string name="passport_wrong_password">Паролата е неправилна</string>
+  <string name="passport_forget_password_no_underline">Забравена парола</string>
+  <string name="passport_login_short">Регистрация</string>
 </resources>

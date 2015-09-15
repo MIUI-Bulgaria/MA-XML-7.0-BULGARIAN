@@ -137,4 +137,28 @@
         <item quantity="other">%d секунди</item>
         <item quantity="one">1 секунда</item>
     </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d елементи чакат за синхронизация</item>
+        <item quantity="one">1 елемент чака за синхронизация</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d снимки чакат за синхронизация</item>
+        <item quantity="one">1 снимка за качване</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Синхр. се %1$d снимки…</item>
+        <item quantity="one">Синхр. се 1 снимка…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Синхр. се %1$d елементи…</item>
+        <item quantity="one">Синхр. се 1 елемент…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Синхр. се %1$d видеоклипа…</item>
+        <item quantity="one">Синхр. се 1 видеоклип…</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d видеота чакат за синхронизация</item>
+        <item quantity="one">1 видео за качване</item>
+    </plurals>
 </resources>
