@@ -508,7 +508,7 @@
   <string name="respond_via_sms_confirmation_format">До %s бе изпратено съобщение.</string>
   <string name="respond_via_sms_custom_message">Персонализирано съобщение...</string>
   <string name="respond_via_sms_edittext_dialog_title">Бърз отговор</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Възстанови прил. по подразбиране</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Възст. на станд. настройки</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Бързи отговори</string>
   <string name="respond_via_sms_setting_title_2">Редакт. бързи отговори</string>
@@ -615,7 +615,7 @@
   <string name="transport_title">Тип транспорт</string>
   <string name="tty_mode_option_summary">Задаване на TTY режим</string>
   <string name="tty_mode_option_title">TTY режим</string>
-  <string name="unknown">Неизвестен</string>
+  <string name="unknown">Неизвестен номер</string>
   <string name="unlock_failed">Заявката за отключване на мрежата не бе успешна.</string>
   <string name="unlock_success">Отключването на мрежата бе успешно.</string>
   <string name="updating_fdn_contact">Фиксирани номера за набиране се актуализират…</string>
@@ -704,7 +704,7 @@
   <string name="overflowMergeMenuItemText">Обединяване на обаждания</string>
   <string name="overflowResumeMenuItemText">Възобновяване на обаждането</string>
   <string name="overflowSwapMenuItemText">Размяна на обажданията</string>
-  <string name="select_account_dialog_title">Select Account</string>
+  <string name="select_account_dialog_title">Избор на профил</string>
   <string name="select_voice_call_sim">Изберете SIM карта</string>
   <string name="waiting_close_airplane_mode">Изчаква изключване на самолетен режим ...</string>
   <string name="livetalk_left_minute">остават %s мин.</string>
