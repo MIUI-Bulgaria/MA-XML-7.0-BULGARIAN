@@ -796,4 +796,5 @@
   <string name="antivirus_privacy_dialog_summary">"Тази функция криптира и изпраща ID на устройството ви до сървърите на AVL и Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">виж Политиката на поверителност</string>
   <string name="antivirus_privacy_dialog_title">Политика на поверителност</string>
+  <string name="descx_quick_scan_preparation">Един момент…</string>
 </resources>

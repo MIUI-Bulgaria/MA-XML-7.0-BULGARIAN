@@ -806,4 +806,15 @@
   <string name="auto_update_off">Изкл.</string>
   <string name="auto_update_on">Вкл.</string>
   <string name="sync_ok">Синхр.</string>
+  <string name="baby_lock_wallpaper_cancelled">Променено към стандартния тапет на закл. екран</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Да се отмени ли бебе тапета и да се нулира до стандартния тапет на закл. екран?</string>
+  <string name="need_to_turn_on_network">Свържете се към интернет</string>
+  <string name="need_to_turn_on_sync">"Включете синхр. с Mi Cloud "</string>
+  <string name="need_to_turn_on_wlan">Свържете се към Wi-Fi</string>
+  <string name="number_of_uploading_finish">Всички качени в Mi Cloud файлове</string>
+  <string name="set_baby_icon_picker_default_title">Задаване на бебе икона</string>
+  <string name="set_bg_file_exist_message">Конфликт между имената на снимките</string>
+  <string name="set_bg_picker_default_title">Set top thumbnail</string>
+  <string name="set_bg_unknow_reasons">Неизвестна грешка</string>
+  <string name="sync_cloud_space_full">Облачното хранилище е пълно</string>
 </resources>

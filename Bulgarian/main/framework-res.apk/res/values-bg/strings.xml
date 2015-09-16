@@ -1530,4 +1530,6 @@
     <string name="stk_cc_ussd_to_ussd">USSD заявката е преобразувана в нова USSD заявка.</string>
     <string name="storage_uicc">UICC хранилище</string>
     <string name="transient_navigation_confirmation_long">Плъзнете от края на екрана, за да се покаже панела за навигация</string>
+    <string name="permdesc_bindJobService">Това разрешение позволява на системата Android да изпълнява приложението на заден план при заявяване.</string>
+    <string name="permlab_bindJobService">"изпълняване на планираната за извършване на заден план работа на приложението"</string>
 </resources>

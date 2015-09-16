@@ -225,4 +225,10 @@ Accelerate downloads across all your devices."</string>
   <string name="storage_sd_card">SD карта</string>
   <string name="storage_usb">USB хранилище</string>
   <string name="version">Версия %s</string>
+  <string name="quit_btn">Изход</string>
+  <string name="rebind_btn">Добави отново</string>
+  <string name="title_tips">Внимание</string>
+  <string name="title_unbind_xunlei">Премахване на Xunlei профила ви</string>
+  <string name="xiaomi_account_not_exist_message">Този Mi профил не съществува</string>
+  <string name="xunlei_account_has_unbind_message">Xunlei профилът е премахнат</string>
 </resources>
