@@ -183,7 +183,7 @@
 		<string name="button_text_select_pic">Избери</string>
 		<string name="button_text_unselect_all">Размаркирай</string>
 		<string name="button_text_unselect_pic">Размаркирай</string>
-		<string name="deepclean_app_content">Деинсталиране на приложения, които не са използвани от 7 дни</string>
+		<string name="deepclean_app_content">Деинсталиране на приложения, които не са използвани от 30 дни</string>
 		<string name="deepclean_cache_content">Изчистване на данни, създадени от приложенията</string>
 		<string name="deepclean_large_content">Изтриване на файлове по-големи от 10 МБ</string>
 		<string name="deepclean_similar_ignore">Игнорирай</string>
@@ -240,6 +240,7 @@
 		<string name="toast_select_image_need_delete">Изберете снимки за изтриване</string>
 		<string name="toast_selecte_group_restore_succeed">Снимките са възстановени</string>
 		<string name="pref_summary_open_optimizer_memory_scan">Автоматична проверка и почистване на паметта</string>
-	    <string name="pref_title_open_optimizer_memory_scan">Почистване на паметта</string>
-	    <string name="toast_select_white_need_remove">Изберете елементи за премахване</string>
+  <string name="pref_title_open_optimizer_memory_scan">Почистване на паметта</string>
+  <string name="toast_select_white_need_remove">Изберете елементи за премахване</string>
+  <string name="hints_install_apps_else">Използвани %s</string>
 </resources>

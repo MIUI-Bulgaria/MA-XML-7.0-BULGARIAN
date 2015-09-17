@@ -817,4 +817,5 @@
   <string name="set_bg_picker_default_title">Set top thumbnail</string>
   <string name="set_bg_unknow_reasons">Неизвестна грешка</string>
   <string name="sync_cloud_space_full">Облачното хранилище е пълно</string>
+  <string name="hidden_album_display_name">Скрит албум</string>
 </resources>

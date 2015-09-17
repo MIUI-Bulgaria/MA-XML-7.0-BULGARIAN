@@ -33,4 +33,12 @@
         <item quantity="other">%1$d секунди</item>
         <item quantity="one">%1$d секунда</item>
     </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Отлагане за %d минути.</item>
+        <item quantity="one">Отлагане за %d минута.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Заглушаване след %d минути</item>
+        <item quantity="one">Заглушаване след %d минута</item>
+    </plurals>
 </resources>

@@ -601,4 +601,5 @@
   <string name="voip_enable">Mi Message и Voice</string>
   <string name="voip_enable_popup_msg">"Правете обаждания до други MIUI потребители без да бъдете таксувани от оператора ви. VoIP услугата се поддържа от Weihui. Вижте политиката на поверителност на Weihui."</string>
   <string name="voip_enable_popup_msg2">Политика на поверителност</string>
+  <string name="mx_b2c_message_desc">Известия от мрежата</string>
 </resources>

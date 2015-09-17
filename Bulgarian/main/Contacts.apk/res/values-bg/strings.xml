@@ -1274,4 +1274,5 @@
 		<string name="preview_incall_show_entry">Преглед на видеото</string>
 		<string name="quit_dialog_confirm_message">"Нямате обединени контакти"</string>
 		<string name="remove_blacklist_dialog_message">Деблокиране на този номер?</string>
+  <string name="emergency_number_label">Спешен номер</string>
 </resources>

@@ -49,4 +49,36 @@
         <item quantity="other">%d добавени песни</item>
         <item quantity="one">%d добавена песен</item>
     </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Изтриване на %d плейлисти?</item>
+        <item quantity="one">Изтриване на %d плейлист?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d изпълнители</item>
+        <item quantity="one">%d изпълнител</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d групи</item>
+        <item quantity="one">%d група</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Музиката ще спре след %d минути</item>
+        <item quantity="one">Музиката ще спре след %d минута</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Изтриване на %d песни?</item>
+        <item quantity="one">Изтриване на %d песен?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Премахване на %d песни?</item>
+        <item quantity="one">Премахване на %d песен?</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Избрани: %d елементи</item>
+        <item quantity="one">Избран %d елемент</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Песните са добавени към любими.</item>
+        <item quantity="one">Песента бе добавена към любими.</item>
+    </plurals>
 </resources>
