@@ -561,8 +561,7 @@
   <string name="width">Ширина</string>
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
-  <string name="impunity_declaration">Част от функциите в Галерия изискват връзка с интернет, за да работят нормално.</string>
-  <string name="impunity_declaration_ignore">Не показвай отново</string>
+  <string name="impunity_declaration">"By using this service, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>  <string name="impunity_declaration_ignore">Не показвай отново</string>
   <string name="impunity_declaration_settings">Известие за интернет връзка</string>
   <string name="impunity_declaration_summary">Показване на известие всеки път, когато стартирате приложението Галерия</string>
   <string name="impunity_declaration_title">Свързване с интернет</string>
