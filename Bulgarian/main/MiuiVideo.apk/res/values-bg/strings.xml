@@ -510,7 +510,7 @@
   <string name="no_sdcard_no_download">No enough storage, fail to request download.</string>
   <string name="offline_add_queue_fail">Fail to download \"%1$s\", please retry later</string>
   <string name="offline_already_in">\"%1$s\" exists in download queue</string>
-  <string name="offline_created_order">Added \"%1$s\" into download queue, order: %2$s</string>
+  <string name="offline_created_order">Added \"%1$s\" is already waiting to download</string>
   <string name="online_video_oneweek">During last week</string>
   <string name="online_video_oneweek_ago">One week ago</string>
   <string name="operator_test">Operator Settings</string>
@@ -541,7 +541,7 @@
   <string name="video_bbs">Join Us</string>
   <string name="video_bbs_url">Join us and help develop this video application</string>
   <string name="video_plugin">Video Plug-in</string>
-  <string name="video_plugin_downloading">Downloading...</string>
+  <string name="video_plugin_downloading">Downloading (%1$s)</string>
   <string name="video_plugin_prepare">Preparing video plug-in, please wait a while.</string>
   <string name="vp_app_name">Video Player</string>
   <string name="vp_mobile_network_using_negative">Cancel</string>

@@ -69,8 +69,6 @@
     <string name="insufficient_space">"Няма достатъчно място на вътрешното хранилище на устройството ви"</string>
     <string name="recommended_file_more_in_mobile" formatted="false">Използването на мобилни данни за изтегляне на тези %s файла (%s ) ще консумира от пакетът ви от данни.</string>
     <string name="recommended_file_one_in_mobile">Използването на мобилни данни за изтегляне на този файл (%s ) ще консумира от пакетът ви от данни.</string>
-    <string name="recommended_file_size_download_in_mobile" formatted="false">"В момента не сте свързани с Wi-Fi. %s
-
- Данните за размера на файла не могат да се получат. За използване на мобилни данни за изтегляне на този файл, чукнете %s. За да изчакате за Wi-Fi връзка, чукнете %s."</string>
-    <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Данните за размера на файла не могат да се получат. За използване на мобилни данни за изтегляне на този файл, чукнете %s. За да изчакате за Wi-Fi връзка, чукнете %s."</string>
+    <string name="recommended_file_size_download_in_mobile" formatted="false">Да се използват ли мобилните данни на %s за изтегляне на този файл?</string>
+    <string name="recommended_no_file_size_download_in_mobile" formatted="false">Да се използват ли мобилните ви данни за изтегляне на този файл?</string>
 </resources>

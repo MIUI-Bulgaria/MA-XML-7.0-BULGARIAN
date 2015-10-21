@@ -1263,7 +1263,7 @@ Super cheap international calls over the Internet"</string>
   <string name="not_supported_number_content">"Refueling package doesn't support service numbers. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="order_by_name">Alphabetical</string>
   <string name="order_by_recent">Frequently used</string>
-  <string name="order_id">"Order ID: "</string>
+  <string name="order_id">"Order ID:%1$s"</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Order status: failed</string>
   <string name="order_status_successful">Order status: complete</string>
