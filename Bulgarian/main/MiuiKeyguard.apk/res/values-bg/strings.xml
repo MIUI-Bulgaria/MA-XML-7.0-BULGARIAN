@@ -85,4 +85,7 @@
     <string name="click_to_enter_text">Чукнете за преглед</string>
     <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
     <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Телефон</string>
+    <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+    <string name="fingerprint_not_identified_title">"Can't read fingerprint"</string>
+    <string name="fingerprint_try_again_text">Try again</string>
 </resources>

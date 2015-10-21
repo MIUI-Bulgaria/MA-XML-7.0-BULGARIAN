@@ -86,4 +86,8 @@
         <item>Максимално</item>
         <item>Два дни</item>
     </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Получено</item>
+        <item>Изпратено</item>
+    </string-array>
 </resources>

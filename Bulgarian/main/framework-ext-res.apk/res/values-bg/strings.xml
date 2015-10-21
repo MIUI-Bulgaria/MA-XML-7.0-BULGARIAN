@@ -99,4 +99,11 @@
   <string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
   <string name="reboot_info_auto_boot">Телефона ви ще се включи в %s според графика за авт. включване</string>
   <string name="reboot_info_shutdown_alarm">Телефона ви ще се включи и ще звъни в %s</string>
+  <string name="apply_password_action">Задаване на парола</string>
+  <string name="apply_password_confirm_dlg_msg">Да се изисква ли парола за %s​?</string>
+  <string name="apply_password_confirm_dlg_title">Тази парола ще се използва за %s</string>
+  <string name="cancel_action">Отказ</string>
+  <string name="set_password_action">Задай парола</string>
+  <string name="set_password_message">Задаване на нова парола?</string>
+  <string name="set_password_title">Задаване на парола</string>
 </resources>

@@ -161,4 +161,8 @@
         <item quantity="other">%1$d видеота чакат за синхронизация</item>
         <item quantity="one">1 видео за качване</item>
     </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d последователи</item>
+        <item quantity="one">%1$d последовател</item>
+    </plurals>
 </resources>

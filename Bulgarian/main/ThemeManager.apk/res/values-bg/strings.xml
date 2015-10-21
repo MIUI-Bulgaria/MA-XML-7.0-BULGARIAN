@@ -388,4 +388,5 @@
   <string name="theme_provision_title">Избор на тема</string>
   <string name="theme_precast_create_notification_content">Чукни за преглед на нови теми.</string>
   <string name="theme_precast_create_notification_title">Обновено до MIUI 7</string>
+  <string name="theme_provision_oper_button_next">Напред</string>
 </resources>

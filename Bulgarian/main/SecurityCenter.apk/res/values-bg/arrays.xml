@@ -57,6 +57,7 @@
         <item>След 1 минута</item>
         <item>След 5 минути</item>
         <item>След 10 минути</item>
+        <item>След 30 минути</item>
         <item>Никога</item>
     </string-array>
     <string-array name="auto_process_mode">

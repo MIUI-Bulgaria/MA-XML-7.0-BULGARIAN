@@ -599,4 +599,8 @@
   <string name="confirm_recording_fail_title">Не може да се записва</string>
   <string name="pref_camera_snap_enable_summary">При изключен екран, натиснете и задръжте бутона за намаляне на звука, за влизане в режим Бързо снимане. Натиснете го отново, за да направите снимка.</string>
   <string name="pref_camera_snap_enable_title">Бързо снимане</string>
+  <string name="simple_mode_button_text_fisheye">Изключи рибешко око</string>
+  <string name="simple_mode_button_text_tilt_shift">Изключи Tilt-shift</string>
+  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
+  <string name="pref_camera_fisheye_title">Рибешко око</string>
 </resources>

@@ -597,4 +597,14 @@ For more info check the message you received from your service provider"</string
   <string name="traffic_saving_can_optimized">Оптимизирай</string>
   <string name="traffic_setting_fragment_area_dual">%s Локално</string>
   <string name="main_message_no_package_by_dual">Задаване на лимит от данни за %s</string>
+  <string name="package_change_notification_summary">Tap to learn more.</string>
+  <string name="package_change_notification_title">Adjust data limit automatically</string>
+  <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
+  <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
+  <string name="traffic_saving_detail">Details</string>
+  <string name="traffic_saving_mobile_usage">Mobile usage</string>
+  <string name="traffic_saving_notify_no_apps_saving">No apps are using Data saver</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
+  <string name="traffic_saving_wifi_usage">WLAN usage</string>
 </resources>

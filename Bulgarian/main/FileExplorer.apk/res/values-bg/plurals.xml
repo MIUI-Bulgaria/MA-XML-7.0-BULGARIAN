@@ -129,6 +129,14 @@
         <item quantity="few">Файлове %1$s (%2$d)</item>
         <item quantity="many">Файлове %1$s (%2$d)</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d елементи</item>
+        <item quantity="zero"> %1$d елементи</item>
+        <item quantity="one"> %1$d елемент</item>
+        <item quantity="two"> %1$d елементи</item>
+        <item quantity="few"> %1$d елементи</item>
+        <item quantity="many"> %1$d елементи</item>
+    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
         <item quantity="zero">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>

@@ -561,7 +561,8 @@
   <string name="width">Ширина</string>
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
-  <string name="impunity_declaration">"By using this service, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>  <string name="impunity_declaration_ignore">Не показвай отново</string>
+  <string name="impunity_declaration">Използвайки тази услуга, вие се съгласявате с/ъс %1$s и %2$s на Xiaomi. Някой от функциите изискват връзка с интернет, за да работят нормално.</string>  
+  <string name="impunity_declaration_ignore">Не показвай отново</string>
   <string name="impunity_declaration_settings">Известие за интернет връзка</string>
   <string name="impunity_declaration_summary">Показване на известие всеки път, когато стартирате приложението Галерия</string>
   <string name="impunity_declaration_title">Свързване с интернет</string>
@@ -817,4 +818,31 @@
   <string name="set_bg_unknow_reasons">Неизвестна грешка</string>
   <string name="sync_cloud_space_full">Облачното хранилище е пълно</string>
   <string name="hidden_album_display_name">Скрит албум</string>
+  <string name="app_name_edit_picture">Edit picture</string>
+  <string name="baby_album_new_photo_remind">There are new photos in your baby album.</string>
+  <string name="baby_album_no_share_user_tip">No followers currently</string>
+  <string name="buy_member_tip">become a member.</string>
+  <string name="byteShort">Б</string>
+  <string name="calculated_pictures_time_tip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually. To speed up this process, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Sorted photos from %1$s till now. Remaining photos will be sorted soon.</string>
+  <string name="cloud_full_tip_str">Not enough space in Cloud</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Are you sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Are you sure this is not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Are you sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Are you sure these are not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="edit_baby_info">View baby information</string>
+  <string name="error_link_has_expired">Link has expired</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="gigabyteShort">ГБ</string>
+  <string name="kilobyteShort">КБ</string>
+  <string name="megabyteShort">МБ</string>
+  <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
+  <string name="petabyteShort">ПБ</string>
+  <string name="sync_battery_low">Low battery</string>
+  <string name="terabyteShort">ТБ</string>
+  <string name="user_agreement">" Terms of Service"</string>
+  <string name="user_policy">Privacy Policy</string>
+  <string name="view_baby_info">Edit baby information</string>
+  <string name="view_queuing_status">Check status</string>
 </resources>

@@ -571,4 +571,23 @@
   <string name="need_upgrade_button">Check</string>
   <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
   <string name="need_upgrade_title">Available in new version</string>
+  <string name="actor">Actor</string>
+  <string name="actor_intro">About</string>
+  <string name="alertdialog_downapp_btn_back">Back</string>
+  <string name="birthday">Birthday</string>
+  <string name="download">Download</string>
+  <string name="hint_apk_download_format">Install \"%1$s\" application</string>
+  <string name="hometown">Hometown</string>
+  <string name="other_info">Other</string>
+  <string name="score_douban">Douban Score %1$s</string>
+  <string name="tv_cp_info_format">Supported by %1$s</string>
+  <string name="vp_media_type_unsported">This type of media cannot be supported</string>
+  <string name="vp_mobile_network_using_warning_line_1">Using your mobile data connection to watch videos will increase your data usage.</string>
+  <string name="vp_mobile_network_using_warning_line_2">If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="vp_mplayer_error_io">IO operation error</string>
+  <string name="vp_mplayer_error_malformed">Malformed media content</string>
+  <string name="vp_mplayer_error_server_died">Media server died</string>
+  <string name="vp_mplayer_error_timed_out">Operation timed out</string>
+  <string name="vp_play_youku_failed_get_video_info">"Couldn't get video info"</string>
+  <string name="vp_play_youku_time_out">Connection timed out</string>
 </resources>

@@ -124,4 +124,12 @@
   <string name="timer_item_picker_hour">Час</string>
   <string name="birthday_alarm">Будилник на рожден ден</string>
   <string name="birthday_alarm_summary">Пускане на \"Happy Birthday\" на вашия рожден ден вместо стандартната мелодия на будилника</string>
+  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_once_hint">Изключи еднократно на %s</string>
+  <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Чукнете екрана, за да спре звъненето</string>
+  <string name="today">Днес</string>
+  <string name="tomorrow">Утре</string>
+  <string name="turn_off_a_repeat_alarm">Изключи повтарянето на будилника</string>
+  <string name="turn_off_this_repeat_alarm">Изключи повтарянето на този будилник</string>
 </resources>

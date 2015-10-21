@@ -49,4 +49,9 @@
     <string-array name="empty_floder_clean_menu">
         <item>Почисти</item>
     </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>На всеки 7 дни</item>
+        <item>На всеки 15 дни</item>
+        <item>На всеки 30 дни</item>
+    </string-array>
 </resources>

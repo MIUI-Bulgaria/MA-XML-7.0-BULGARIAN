@@ -393,4 +393,6 @@
   <string name="passport_wrong_password">Паролата е неправилна</string>
   <string name="passport_forget_password_no_underline">Забравена парола</string>
   <string name="passport_login_short">Регистрация</string>
+  <string name="account_limit_update_birthday">съжаляваме, но в момента е невъзможно да обработим вашата заявка.</string>
+  <string name="provision_skip_login">Прескочи тази стъпка</string>
 </resources>
