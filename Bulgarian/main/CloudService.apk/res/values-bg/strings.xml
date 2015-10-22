@@ -329,7 +329,7 @@
   <string name="sync_dspt_entrance_provision_confirm_content">"Вградените MIUI приложения се нуждаят от Mi Cloud за архивиране на вашите снимки, контакти, бележки и др. Mi Cloud е безплатен и готов за употреба."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Използвай Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Да не се ли използва Mi Cloud?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Прескочи тази стъпка&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip">Прескочи тази стъпка</string>
   <string name="activate_number_change_dialog_message">Изберете телефонен номер, който да бъде видим от други устройства, когато използвате VoIP.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="deskclock_backup">Архив на часовници</string>
@@ -381,10 +381,10 @@
 		<string name="mx_voip_dspt">Mi Voice</string>
 		<string name="pref_summary_sync_video_on_wifi_only">Синхронизиране на профилните видеота само когато сте свързани към Wi-Fi мрежа</string>
 		<string name="pref_title_sync_video_on_wifi_only">Синхр. на видео само по Wi-Fi</string>
-  <string name="micloud_all_sub_1_intl_sms">"International SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_1_sms">"Regular SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 text messages (regular and international) will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_2_intl_sms">"2 international text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_2_sms">"2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="sync_dspt_provision_header">Sync</string>
+  <string name="micloud_all_sub_1_intl_sms">"Ще бъде изпратено международно SMS съобщение за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
+  <string name="micloud_all_sub_1_sms">"Ще бъде изпратено обикновено SMS съобщение за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"Ще бъдат изпратени 2 текстови съобщения (обикновено и международно) за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
+  <string name="micloud_all_sub_2_intl_sms">"Ще бъдат изпратени 2 международни текстови съобщения за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
+  <string name="micloud_all_sub_2_sms">"Ще бъдат изпратени 2 обикновени текстови съобщения за активиране на вашата SIM карта. Ще бъдете таксувани от оператора си. Ако сте включили функцията 'Открий устройството', може да бъде изпратен SMS за активиране след смяна на SIM картите."</string>
+  <string name="sync_dspt_provision_header">Синхрон</string>
 </resources>

@@ -334,11 +334,11 @@
   <string name="sync_notice_title">Заявка за синхрон</string>
   <string name="action_label">Enter</string>
   <string name="select_date">Избор на дата</string>
-  <string name="alert_reminder_expired">Expired</string>
-  <string name="event_info_reminders_label_1">Reminder</string>
-  <string name="event_info_reminders_label_more">Reminder %d</string>
-  <string name="notice_button_ok">Agree</string>
-  <string name="notice_title_request">Request</string>
+  <string name="alert_reminder_expired">Изтекло</string>
+  <string name="event_info_reminders_label_1">Напомняне</string>
+  <string name="event_info_reminders_label_more">Напомняне %d</string>
+  <string name="notice_button_ok">ОК</string>
+  <string name="notice_title_request">Заявка</string>
   <string name="travel_airport">Airport</string>
   <string name="travel_carriage_number_text">Car</string>
   <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
