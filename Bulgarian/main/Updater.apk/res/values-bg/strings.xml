@@ -233,13 +233,13 @@ Beta Feedback Program"</string>
   <string name="welcom_button">ОК</string>
   <string name="welcom_message">Готови сте да започнете</string>
   <string name="welcom_title">Добре дошли в MIUI 6</string>
-  <string name="miui_summary_slogan">"  Yours by design  "</string>
-  <string name="miui_summary_updating">"  Updating…  "</string>
-  <string name="recovery_power_not_enough_msg">Connect charger to update if less than 30% of battery is left</string>
-  <string name="recovery_power_not_enough_msg_plugged">Battery must be above 15% before device can update</string>
-  <string name="recovery_power_not_enough_title">Low battery</string>
-  <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) is no longer compatible with MIUI 7. Switch keyboards or update to a newer version of Sogou.</string>
-  <string name="sogou_uninstall_negative_button">Update Sogou</string>
-  <string name="sogou_uninstall_positive_button">Switch keyboards</string>
-  <string name="sogou_uninstall_title">Keyboard compatibility</string>
+  <string name="miui_summary_slogan">"  Създаден за вас  "</string>
+  <string name="miui_summary_updating">"  Актуализиране…  "</string>
+  <string name="recovery_power_not_enough_msg">Свържете зарядното устройство ако батерията е по-малко от 30%</string>
+  <string name="recovery_power_not_enough_msg_plugged">Батерията трябва да бъде над 15% преди да актуализирате устройството</string>
+  <string name="recovery_power_not_enough_title">Изтощена батерия</string>
+  <string name="sogou_uninstall_msg">Клавиатурата Sogou (Mi Edition) не е съвместима с MIUI 7.Сменете клавиатурата или актуализирайте Sogou към по-нова версия.</string>
+  <string name="sogou_uninstall_negative_button">Обновяване Sogou</string>
+  <string name="sogou_uninstall_positive_button">Смяна на клавиатура</string>
+  <string name="sogou_uninstall_title">Съвместимост на клавиатурата</string>
 </resources>
