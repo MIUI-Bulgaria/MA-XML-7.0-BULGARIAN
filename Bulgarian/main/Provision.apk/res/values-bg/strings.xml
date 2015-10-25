@@ -55,7 +55,7 @@
   <string name="summary_sim_card_with_operator">Карта %1$d: %2$s</string>
   <string name="sim_card_detecting_title">Проверка за SIM карта</string>
   <string name="skip_underline">&lt;u&gt;Пропусни тази стъпка&lt;/u&gt;</string>
-  <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
-  <string name="next_fingerprint">Next</string>
-  <string name="title_fingerprint">Add your fingerprint</string>
+  <string name="desc_fingerprint">Използвайте вашия пръстов отпечатък за отключване на устройството,проверка на Mi Pay транзакции, или за вход в приложения и услуги.</string>
+  <string name="next_fingerprint">Следващ</string>
+  <string name="title_fingerprint">Добавете пръстов отпечатък</string>
 </resources>
