@@ -65,7 +65,7 @@
   <string name="loading">зареждане</string>
   <string name="search_history">история на търсенията</string>
   <string name="show_more">още</string>
-  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3/hotquery</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3/sug</string>
+  <string name="xiaomi_hint"/>
+  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_suggest_base"/>
 </resources>
