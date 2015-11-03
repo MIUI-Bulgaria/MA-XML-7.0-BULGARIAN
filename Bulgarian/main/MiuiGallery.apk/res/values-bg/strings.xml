@@ -845,4 +845,6 @@
   <string name="user_policy">Privacy Policy</string>
   <string name="view_baby_info">Edit baby information</string>
   <string name="view_queuing_status">Check status</string>
+  <string name="contact_tip">Contacts</string>
+  <string name="input_a_name">Enter name</string>
 </resources>

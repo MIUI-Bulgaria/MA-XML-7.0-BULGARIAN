@@ -99,4 +99,8 @@
   <string name="activate_feature_mx_and_voip">Mi Message и Voice</string>
   <string name="activate_popup_desc_voip_privacy">Политика на поверителност</string>
   <string name="activate_popup_desc_voip_privacy_prefix">". VoIP се поддържа от Weihui. Вижте тяхната "</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS sent to activate \"Find device\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS sent from SIM card %s to activate \"Find device\"</string>
+  <string name="activate_auto_sms_notification_title">SIM card activation</string>
+  <string name="activate_popup_desc_find_device_postfix">An activation SMS may be sent after you switch SIM cards.</string>
 </resources>

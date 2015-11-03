@@ -57,4 +57,12 @@
         <item quantity="other">%d приложения предоставят условия</item>
         <item quantity="one">%d приложение предоставя условия</item>
     </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%s прил. не могат да показват известия</item>
+        <item quantity="one">1 прил. не може да показва известия</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s прил. могат да показват известия</item>
+        <item quantity="one">1 прил. може да показва известия</item>
+    </plurals>
 </resources>

@@ -86,7 +86,7 @@
   <string name="priority_storage">Изберете външната SD карта</string>
   <string name="priority_storage_summary">Автоматично изтегляне на външната SD карта,ако е налична</string>
   <string name="project_device">Mi Устройство</string>
-  <string name="qingting_logo"> | Qingting FM</string>
+  <string name="qingting_logo"> | %1$s</string>
   <string name="remaining_time">"Оставащо време: "</string>
   <string name="search_hint">Търсене</string>
   <string name="section">Представени</string>
@@ -94,7 +94,7 @@
   <string name="share">Сподели</string>
   <string name="share_button">Сподели</string>
   <string name="share_in_development"/>
-  <string name="share_text">От Радио</string>
+  <string name="share_text">От Радио [%1$s]</string>
   <string name="share_text_other">Слушам %1$s в %2$s.</string>
   <string name="similar_programs">Подобни програми</string>
   <string name="sleep_mode_canceled">Тих режим е изключен</string>
@@ -116,4 +116,8 @@
   <string name="unfavorite">Нежелани</string>
   <string name="updated">Актуализиран</string>
   <string name="use_fm_radio_failed">Това устройство не може да използва FM радио </string>
+  <string name="default_cp_name">Qingting FM</string>
+  <string name="multi_subscriptions_subtitle_title">Tap to listen %1$s/%2$s.</string>
+  <string name="multi_subscriptions_title">%1$d subscriptions updated</string>
+  <string name="one_subscription_title">%1$s updated</string>
 </resources>

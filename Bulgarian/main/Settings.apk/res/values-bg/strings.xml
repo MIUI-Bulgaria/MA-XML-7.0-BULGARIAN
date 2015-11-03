@@ -3798,4 +3798,11 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="turn_on_security_lock">Add security password</string>
   <string name="wakeup_for_keyguard_notification_title">Wake lock screen for notifications</string>
   <string name="wifi_click_share_wlan">Tap to share password</string>
+  <string name="status_bar_app_enable_floating">Floating notifications</string>
+  <string name="status_bar_app_enable_keyguard">Lock screen</string>
+  <string name="status_bar_app_enable_message">Badges</string>
+  <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
+  <string name="virtual_sim_search_title">Virtual SIM</string>
+  <string name="onekey_migrate">Експорт към ново устройство</string>
 </resources>

@@ -607,4 +607,9 @@ For more info check the message you received from your service provider"</string
   <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_wifi_usage">WLAN usage</string>
+  <string name="firewall_network_restrict_notify_mobile">mobile data</string>
+  <string name="firewall_restrict_android_dialog_content">"If you don't allow Android to connect to the internet, some key features, such as WLAN hotspot, may be affected."</string>
+  <string name="firewall_restrict_android_dialog_title">Attention</string>
+  <string name="kilobyte_per_second">К/с</string>
+  <string name="megabyte_per_second">M/с</string>
 </resources>

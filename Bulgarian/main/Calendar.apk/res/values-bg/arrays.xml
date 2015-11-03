@@ -307,4 +307,10 @@
         <item>2 дни</item>
         <item>1 седмица</item>
     </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>дни</item>
+        <item>седмици</item>
+        <item>месеци</item>
+        <item>години</item>
+    </string-array>
 </resources>

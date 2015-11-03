@@ -155,4 +155,18 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
+  <string name="dlg_remove_blacklist_ing">Removing…</string>
+  <string name="mx_choose_sim_dlg_title">Please choose phone number to activate Mi Voice</string>
+  <string name="mx_dspt_provision_3">"MIUI VoIP lets you call or video call other MIUI users by free. Your carrier may charge for your network traffic. We may need send an SMS message to verify your phone number. VoIP is supported by Weihui. View Weihui's Private Policy"</string>
+  <string name="network_unavailable">"Can't connect to the network."</string>
+  <string name="notification_activate_failed">"Couldn't activate VoIP, click to open"</string>
+  <string name="notification_missedCallTicker">Missed call from %s</string>
+  <string name="notification_missedCallsMsg">%s missed calls</string>
+  <string name="notification_missedCallsTitle">Missed calls</string>
+  <string name="unkown">Unknown</string>
+  <string name="user_agreement">Private Policy</string>
+  <string name="voip_btn_switch_camera">Switch camera</string>
+  <string name="voip_free_video_tip">Free voip video call</string>
+  <string name="voip_free_voice_tip">Free voip call</string>
+  <string name="voip_incall">"Voip call can't be set up while Voip is incall, please call later"</string>
 </resources>

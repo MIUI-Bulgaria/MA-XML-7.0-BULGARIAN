@@ -8,4 +8,7 @@
     <string name="loading">Зареждане…</string>
     <string name="mibi_license">Условия за ползване на Mi Credit</string>
     <string name="policy_name">Политика:%s</string>
+    <string name="open_wifi_connect_summary">Натиснете, за да настроите</string>
+    <string name="open_wifi_connect_title">Свързване към %1$s</string>
+    <string name="permdesc_accessDrm">Разрешава достъп на приложението до съдържание, защитено с DRM.</string>
 </resources>

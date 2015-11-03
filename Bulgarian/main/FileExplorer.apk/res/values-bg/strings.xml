@@ -459,4 +459,98 @@
   <string name="decompress_title">Разархивиране</string>
   <string name="storage_info_detail">Налични:%1$s Общо:%1$s</string>
   <string name="title_select_volume">Сила на звука</string>
+  <string name="add_private_files">Add files</string>
+  <string name="already_liked">"You've already starred this item"</string>
+  <string name="cancel_error">"Couldn't remove, try again"</string>
+  <string name="cancel_operation">Cancel operation</string>
+  <string name="cancel_success">Removed successfully, all files moved to sdcard/fileexplorer/decryption</string>
+  <string name="cancelled_by_user">Operation cancelled</string>
+  <string name="data_consumption_cancel">Exit</string>
+  <string name="data_consumption_checkbox_hint">"Don't show again"</string>
+  <string name="data_consumption_confirm">OK</string>
+  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
+  <string name="data_consumption_title">Internet connection</string>
+  <string name="decrypt">Remove</string>
+  <string name="decrypt_error">"Couldn't decrypt"</string>
+  <string name="decrypting">Decrypting…</string>
+  <string name="delete_error">"Couldn't delete files, try again"</string>
+  <string name="dir_not_support">"This folder can't be made private."</string>
+  <string name="downloaded_sticker_str">Downloaded</string>
+  <string name="encrypt_error">"Couldn't make files private, try again"</string>
+  <string name="encrypt_prefix">PRIVATE</string>
+  <string name="encrypt_success">All files made private</string>
+  <string name="encrypting">Encrypting…</string>
+  <string name="extract">Extract</string>
+  <string name="if_cancel">Cancel this operation?</string>
+  <string name="image_loading_error">"Couldn't load image"</string>
+  <string name="local_image">Photos</string>
+  <string name="local_music">Music</string>
+  <string name="local_sticker_str">Offline</string>
+  <string name="local_video">Video</string>
+  <string name="make_private">Make private</string>
+  <string name="menu_item_sort_add_time">"Created "</string>
+  <string name="move_to">Move to…</string>
+  <string name="msg_set_password">Set password first</string>
+  <string name="network_spent_reminding">Opening this page requires some traffic from your data plan.</string>
+  <string name="network_spent_reminding_title">Data usage notification</string>
+  <string name="new_function">About Private folders</string>
+  <string name="new_function_info">"Private folder is a new MIUI feature.
+You can encrypt your files and store them
+in a safe place.
+
+Pull down on the home page to check it out."</string>
+  <string name="new_function_str">"WeChat stickers can now be collected automatically.
+Download them when you want
+and never miss the cool new ones!"</string>
+  <string name="new_function_title_str">About WeChat stickers</string>
+  <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+  <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+  <string name="no_network_str">"Couldn't connect to the network. Check your network connection and try again."</string>
+  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
+  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
+  <string name="notify_private_folder_msg">Tap to learn about private folders.</string>
+  <string name="notify_private_folder_title">Protect your personal files</string>
+  <string name="open_private_folder">Creating a private folder…</string>
+  <string name="operation_like">Star</string>
+  <string name="operation_other_apps">Open in another app</string>
+  <string name="partial_cancel_successful">"Couldn't remove some files. The rest of the files moved to sdcard/fileexplorer/decryption"</string>
+  <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
+  <string name="partial_encrypt_success">"Couldn't make some files private, try again"</string>
+  <string name="partial_repair_done">Restored some files successfully</string>
+  <string name="pick_folder">Choose folder</string>
+  <string name="private_files">Private</string>
+  <string name="private_folder">Private folder</string>
+  <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
+  <string name="qq_not_installed">"QQ isn't installed"</string>
+  <string name="repair_done">Restored</string>
+  <string name="repair_error">"Couldn't restore"</string>
+  <string name="repair_file">Restore encrypted files</string>
+  <string name="reset_password">Reset password</string>
+  <string name="restoring">Restoring…</string>
+  <string name="save_to_local">Download</string>
+  <string name="search_description">Search all files on device</string>
+  <string name="search_result">Results</string>
+  <string name="select_image">Choose photos</string>
+  <string name="select_music">Choose songs</string>
+  <string name="select_video">Choose videos</string>
+  <string name="send_to_qq">Send to QQ</string>
+  <string name="send_to_weixin">Send to WeChat</string>
+  <string name="shared_sticker_network_permission_tip">"Couldn't connect to the network. Check your network connection and try again."</string>
+  <string name="shared_sticker_page_no_file">"Couldn't connect to the network. Check your network connection and try again."</string>
+  <string name="shared_sticker_str">Shared by Mi fans</string>
+  <string name="shared_sticker_suffix">Sticker at %s</string>
+  <string name="shared_sticker_use_tip">"You can send the stickers you saved in WeChat dialogs just like you send images.
+(GIFs can be added to Custom in WeChat Stickers)."</string>
+  <string name="shared_sticker_use_tip_title">How to use stickers</string>
+  <string name="shared_str">Shared by %s</string>
+  <string name="storage_internal_description">Internal storage</string>
+  <string name="storage_sd_card_description">SD card</string>
+  <string name="storage_usb_description">USB storage</string>
+  <string name="transfer_done">Files moved successfully.</string>
+  <string name="transfer_private_data">Moving private files from SD card…</string>
+  <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
+  <string name="ui_main_toast_favorite_added">Starred successfully</string>
+  <string name="user_not_login">Sign in first</string>
+  <string name="weixin_not_installed">"WeChat isn't installed"</string>
+  <string name="weixin_sticker_tag_str">WeChat stickers</string>
 </resources>
