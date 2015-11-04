@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-  <string name="action_bar_label">Sign-in to network</string>
-  <string name="action_do_not_use_network">Do not use this network</string>
-  <string name="action_use_network">Use this network as is</string>
+  <string name="action_bar_label">Вход в мрежата</string>
+  <string name="action_do_not_use_network">Без използване на тази мрежа</string>
+  <string name="action_use_network">Директно използване на тази мрежа</string>
   <string name="app_name">CaptivePortalLogin</string>
 </resources>
