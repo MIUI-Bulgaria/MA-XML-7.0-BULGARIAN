@@ -1272,10 +1272,8 @@ Super cheap international calls over the Internet"</string>
   <string name="other">Other</string>
   <string name="other_countries_and_regions">Other locales</string>
   <string name="overseas_roaming_setting">Overseas roaming</string>
-  <string name="password">Password</string>
   <string name="please_choose_the_duration">Choose a duration.</string>
   <string name="please_choose_the_refueling_package">Choose top-up package</string>
-  <string name="port">Port</string>
   <string name="provision_content">This feature needs an internet connection to work normally.</string>
   <string name="provision_title">Internet connection</string>
   <string name="purchase">Purchase</string>
@@ -1308,7 +1306,6 @@ Super cheap international calls over the Internet"</string>
   <string name="title_purchase">Top up</string>
   <string name="title_rates">Rates</string>
   <string name="title_user_config">Activate SIM card</string>
-  <string name="transport">Protocol</string>
   <string name="unable_dial_livetalk">"Can't complete call"</string>
   <string name="use_history">Activity</string>
   <string name="use_history_duration_hour">%1$h</string>

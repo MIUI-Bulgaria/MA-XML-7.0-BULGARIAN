@@ -271,7 +271,6 @@
   <string name="configure_wallpaper">Настройки</string>
   <string name="failed_to_load_image">"Изображението не може да се зареди"</string>
   <string name="mtzgadget_missing_text">"Вече не се поддържа, добавете отново"</string>
-  <string name="wallpaper_scrolling">всички</string>
   <string name="download_action">Изтегляне</string>
   <string name="loading_wallpaper">Един момент…</string>
   <string name="is_setting_wallpaper_message">Тапетът се настройва…</string>

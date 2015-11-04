@@ -880,7 +880,6 @@
     <string name="contact_edit_set_vip">VIP</string>
     <string name="contact_edit_title_permission">Права на контакта</string>
     <string name="contact_edit_title_phone_contact">Списък с контакти</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="dialog_account_auto_sync_setting_no_open">Синхр. е изключена, нови съобщения няма да се получават.</string>
     <string name="dialog_auto_sync_setting_no_open">Синхр. е изключена, нови съобщения няма да се получават</string>
     <string name="folder_list_display_all">Показвай всички папки</string>
