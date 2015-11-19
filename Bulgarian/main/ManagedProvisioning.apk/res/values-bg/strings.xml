@@ -49,4 +49,9 @@
   <string name="sure_you_want_to_delete_profile">Ако продължите, всички приложения и данни в този потребителски профил ще бъдат изтрити.</string>
   <string name="the_following_is_your_mdm">Следното приложение ще трябва да има достъп до този потребителски профил:</string>
   <string name="user_is_not_owner">Служебните потребителски профили трябва да бъдат настроени от основния потребител на устройството</string>
+  <string name="profile_owner_cancel_cancel">Не</string>
+  <string name="profile_owner_cancel_message">Наистина ли искате да спрете настройването?</string>
+  <string name="profile_owner_cancel_ok">Да</string>
+  <string name="profile_owner_cancel_title">Да се спре ли настройването?</string>
+  <string name="profile_owner_cancelling">Анулира се...</string>
 </resources>

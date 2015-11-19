@@ -72,4 +72,8 @@
     <string name="recommended_file_size_download_in_mobile" formatted="false">Да се използват ли мобилните данни на %s за изтегляне на този файл?</string>
     <string name="recommended_no_file_size_download_in_mobile" formatted="false">Да се използват ли мобилните ви данни за изтегляне на този файл?</string>
     <string name="mobile_recommended_title">Използване на мобилни данни</string>
+    <string name="download_apk_desktop_installing">Инсталира се</string>
+    <string name="download_apk_desktop_pause">На пауза</string>
+    <string name="download_apk_desktop_pending">Изчаква</string>
+    <string name="download_apk_desktop_running">Изтегля се</string>
 </resources>

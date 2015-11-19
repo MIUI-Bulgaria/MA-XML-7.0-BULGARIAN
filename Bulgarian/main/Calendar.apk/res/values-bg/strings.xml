@@ -366,4 +366,11 @@
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
+  <string name="guide_card_hint_text">Чукнете, за да отворите Mi Cloud</string>
+  <string name="internet_connection_notification">Известие за интернет връзка</string>
+  <string name="internet_connection_notification_descrip">Показване на известие за свързване към интернет при всяко отваряне на Календар</string>
+  <string name="notice_button_exit">Изход</string>
+  <string name="notice_declaration_ignore">Не показвай отново</string>
+  <string name="notice_title_agreement">Свързване към интернет</string>
+  <string name="online_notice_message">"Използвайки този продукт, вие се съгласявате с %1$s и %2$s на Xiaomi. Някой функции изискват връзка с интернет, за да работят нормално."</string>
 </resources>

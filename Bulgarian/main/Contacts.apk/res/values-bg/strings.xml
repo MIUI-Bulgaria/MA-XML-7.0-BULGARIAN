@@ -1276,4 +1276,25 @@
 		<string name="remove_blacklist_dialog_message">Деблокиране на този номер?</string>
   <string name="emergency_number_label">Спешен номер</string>
   <string name="more_call_logs">Повече записи ще откриете на i.mi.com</string>
+  <string name="contact_edit_save_error_empty">Контактът е празен</string>
+  <string name="create_voip_shortcut_success">Прекият път е създаден</string>
+  <string name="import_from_onekey_migrate">Импортиране с Трансфер</string>
+  <string name="in_call_show_filter_brannan">Dawn</string>
+  <string name="in_call_show_filter_earlybird">Autumn</string>
+  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
+  <string name="in_call_show_filter_processing">Processing...</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
+  <string name="in_call_show_preview_reshoot">Retry</string>
+  <string name="no_voip_contacts">No Mi Voice contacts</string>
+  <string name="transfer_accounts">Transfer accounts</string>
+  <string name="voip_contact_label">Mi Voice</string>
+  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_loading_contact">Just a sec…</string>
+  <string name="voip_name">Mi Voice</string>
+  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
 </resources>

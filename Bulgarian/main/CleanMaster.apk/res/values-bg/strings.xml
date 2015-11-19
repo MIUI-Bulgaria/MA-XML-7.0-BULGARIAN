@@ -324,4 +324,9 @@
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Вчера</string>
   <string name="mainbtn_text_quick_cleanup_default">Почисти</string>
+  <string name="cached_garbage">Кеш</string>
+  <string name="flow_rank_title">Използване на данни</string>
+  <string name="grabage_rank_title">Почистено днес</string>
+  <string name="total_clean_text">Почисти</string>
+  <string name="unlike">Не, благодаря</string>
 </resources>

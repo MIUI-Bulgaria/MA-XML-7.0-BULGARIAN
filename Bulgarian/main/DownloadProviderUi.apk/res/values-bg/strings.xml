@@ -288,4 +288,8 @@ Accelerate downloads across all your devices."</string>
   <string name="web_dialog_cancel">Cancel</string>
   <string name="web_dialog_confirm">OK</string>
   <string name="xunlei_open_info">Use Xunlei Engine to open such links?</string>
+  <string name="creat_task_success">Added to download queue</string>
+  <string name="sniff_search_assoicate_sizeinfo">Size: %1$s</string>
+  <string name="sniff_search_install">Install</string>
+  <string name="sniff_terms_msg_bold">Terms of Use</string>
 </resources>

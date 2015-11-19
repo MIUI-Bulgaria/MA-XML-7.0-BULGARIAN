@@ -111,4 +111,14 @@
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="default_name">Стандартно</string>
+  <string name="enable_livetalk_summary">Само за Китай</string>
+  <string name="enable_livetalk_title">Turn on Top-up package</string>
+  <string name="group_name_contacts">Контакти</string>
+  <string name="group_name_coworkers">Колеги</string>
+  <string name="group_name_family">Семейство</string>
+  <string name="group_name_friends">Приятели</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Поставете пръст на бутон Начало</string>
+  <string name="maml_component_customization_title">Настройки</string>
+  <string name="resource_select">Изберете</string>
 </resources>

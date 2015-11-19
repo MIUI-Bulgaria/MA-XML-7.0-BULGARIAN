@@ -957,4 +957,13 @@
   <string name="video_subtitle_prefix_message">Гледано:</string>
   <string name="video_title_prefix_message">Офлайн:</string>
   <string name="weather_location_confirm_message">Изключването на функцията може да засегне използването.</string>
+  <string name="action_menu_current_version">Текуща версия</string>
+  <string name="current_version_pad">Таблет</string>
+  <string name="current_version_pc">Настолна</string>
+  <string name="current_version_phone">Телефон</string>
+  <string name="more_option">Още опции</string>
+  <string name="pref_nav_mode_summary_pad">Таблет</string>
+  <string name="pref_nav_mode_summary_phone">Телефон</string>
+  <string name="pref_nav_mode_title">Режим на браузъра</string>
+  <string name="unsecurity_url_toast">Тази уеб страница е несигурна</string>
 </resources>

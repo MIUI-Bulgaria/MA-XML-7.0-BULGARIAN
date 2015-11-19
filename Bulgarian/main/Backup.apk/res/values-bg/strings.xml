@@ -278,4 +278,7 @@
   <string name="trans_waiting_ensurance">"Уверете се, че старото у-во е включено
 и Трансфер е активиран"</string>
   <string name="trans_waiting_for_sender">Изчаква се свързване със старото устройство…</string>
+  <string name="backup_empty_info_onpad">" Архивиране на вашите данни, настройки и приложения"</string>
+  <string name="backup_hint_onpad">Не изключвайте устройството си</string>
+  <string name="current_pad_location">Pad</string>
 </resources>
