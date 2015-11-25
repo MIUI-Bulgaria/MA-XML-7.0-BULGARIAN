@@ -11,4 +11,11 @@
     <string name="open_wifi_connect_summary">Натиснете, за да настроите</string>
     <string name="open_wifi_connect_title">Свързване към %1$s</string>
     <string name="permdesc_accessDrm">Разрешава достъп на приложението до съдържание, защитено с DRM.</string>
+    <string name="settings_license_activity_loading">Зарежда се…</string>
+    <string name="settings_license_activity_title">Лицензи с отворен код</string>
+    <string name="settings_license_activity_unavailable">Възникна проблем при зареждането на лицензите.</string>
+    <string name="settings_safetylegal_activity_loading">Зарежда се…</string>
+    <string name="settings_safetylegal_activity_title">Информация за безопасност</string>
+    <string name="settings_safetylegal_activity_unreachable">"Нямате връзка за данни. За да видите тази информация сега, отворете %s от всеки компютър, свързан с интернет."</string>
+    <string name="settings_safetylegal_title">Информация за безопасност</string>
 </resources>
