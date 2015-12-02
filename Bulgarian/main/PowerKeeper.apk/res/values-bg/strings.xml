@@ -144,5 +144,5 @@
   <string name="power_config_normal_description">Достъпът на заден план до връзка за данни и местоположение ще бъде ограничен</string>
   <string name="power_config_normal_title">Стандартно</string>
   <string name="power_config_ultimate_description">MIUI ще замразява приложенията на заден план</string>
-  <string name="power_config_ultimate_title">Крайно</string>
+  <string name="power_config_ultimate_title">Максимално</string>
 </resources>
