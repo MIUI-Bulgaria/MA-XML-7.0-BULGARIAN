@@ -463,7 +463,7 @@
   <string name="already_liked">Вече означихте със звезда този елемент</string>
   <string name="cancel_error">Не може да се премахне, опитайте отново</string>
   <string name="cancel_operation">Отмяна на операцията</string>
-  <string name="cancel_success">Успешно премахнато, всички файлове са преместени в sdcard/fileexplorer/decryption</string>
+  <string name="cancel_success">Успешно премахнато, всички файлове са преместени в %s</string>
   <string name="cancelled_by_user">Операцията е отменена</string>
   <string name="data_consumption_cancel">Изход</string>
   <string name="data_consumption_checkbox_hint">Не показвай отново</string>
@@ -512,7 +512,7 @@ and never miss the cool new ones!"</string>
   <string name="open_private_folder">Създава се скрита папка…</string>
   <string name="operation_like">Означи със звезда</string>
   <string name="operation_other_apps">Отвори в друго приложение</string>
-  <string name="partial_cancel_successful">Някой файлове не могат да се премахнат. Останалите файлове са преместени в sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">Някой файлове не могат да се премахнат. Останалите файлове са преместени в %s</string>
   <string name="partial_delete_failure">Някой файлове не могат да се изтрият, опитайте отново</string>
   <string name="partial_encrypt_success">Някой файлове не могат да се скрият, опитайте отново</string>
   <string name="partial_repair_done">Част от файловете са възстановени</string>
