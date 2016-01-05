@@ -37,7 +37,7 @@
   <string name="auto_start_warning_deny">Откажи</string>
   <string name="auto_start_warning_title">Разрешавате ли автостарт на %s за в бъдеще?</string>
   <string name="call_record_or">" или "</string>
-  <string name="call_record_sample_prefix_miui">Набери</string>
+  <string name="call_record_sample_prefix_miui">Разговор</string>
   <string name="caller_info_name_delimiter">" или "</string>
   <string name="copy">Копирай</string>
   <string name="cut">Изрежи</string>
