@@ -4,7 +4,6 @@
   <string name="accessibility_call_muted">Обаждането е заглушено.</string>
   <string name="accessibility_speakerphone_enabled">Високоговорителят бе активиран.</string>
   <string name="add_vm_number_str">Добавяне на номер</string>
-  <string name="default_connection_manager_component"/>
   <string name="headset_plugin_view_text">Включено е хендсфри.</string>
   <string name="headset_plugin_view_title">Хендсфри</string>
   <string name="incall_error_call_failed">Обаждането не е изпратено.</string>

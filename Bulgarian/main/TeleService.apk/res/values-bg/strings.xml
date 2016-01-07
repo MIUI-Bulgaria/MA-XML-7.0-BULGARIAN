@@ -1385,7 +1385,6 @@ Super cheap international calls over the Internet"</string>
   <string name="not_support_title">"Number isn't supported"</string>
   <string name="not_supported_number_content_title">Not supported</string>
   <string name="operation_successfully">Operation successfully!</string>
-  <string name="password">Password</string>
   <string name="phone_accounts_all_calling_accounts">All calling accounts</string>
   <string name="phone_accounts_all_calling_accounts_summary">Select which accounts can make calls</string>
   <string name="phone_accounts_settings_header">Settings</string>
