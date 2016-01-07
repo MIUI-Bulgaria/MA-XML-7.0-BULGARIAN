@@ -42,4 +42,14 @@
   <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
   <string name="voice_report_incoming_call">Повикване</string>
   <string name="voice_report_unknown_num">Неизвестен номер</string>
+  <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
+  <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
+  <string name="enable_account_preference_title">Calling accounts</string>
+  <string name="handle_restricted">RESTRICTED</string>
+  <string name="notification_missedCall_call_back_miui">Call</string>
+  <string name="outgoing_call_not_allowed_no_permission">This application cannot make outgoing calls without the Phone permission.</string>
+  <string name="outgoing_call_not_allowed_user_restriction">Only emergency calls are allowed by the device owner.</string>
+  <string name="userCallActivityLabel">Phone</string>
 </resources>

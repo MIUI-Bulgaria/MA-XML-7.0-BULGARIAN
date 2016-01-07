@@ -603,4 +603,10 @@
   <string name="simple_mode_button_text_tilt_shift">Изключи Tilt-shift</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_fisheye_title">Рибешко око</string>
+  <string name="pref_camera_snap_entry_off">Изкл</string>
+  <string name="pref_camera_snap_entry_take_movie">When the display is off, press &amp; hold the Volume Down button to start recording video. Release it to stop.</string>
+  <string name="pref_camera_snap_entry_take_picture">When the display is off, press &amp; hold the Volume Down button to start burst shooting photos. Release it to stop.</string>
+  <string name="accessibility_countdown">Count Down button</string>
+  <string name="accessibility_peak">Focus Peak button</string>
+  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
 </resources>

@@ -90,4 +90,8 @@
         <item>Получено</item>
         <item>Изпратено</item>
     </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Синхр. на всички съобщения</item>
+        <item>Синхр. на съобщ. от избрани SIM карти</item>
+    </string-array>
 </resources>

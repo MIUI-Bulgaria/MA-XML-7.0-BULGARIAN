@@ -41,4 +41,14 @@
     <string name="menu_file_size_hide">Размер на файла: Скрив.</string>
     <string name="menu_file_size_show">Размер на файла: Показв.</string>
     <string name="menu_select">Избиране на \"^1\"</string>
+    <string name="button_copy">Copy</string>
+    <string name="button_select">Select</string>
+    <string name="copy_failure_alert_content">"These files weren't copied: %1$s"</string>
+    <string name="copy_notification_title">Copying files</string>
+    <string name="copy_preparing">Preparing for copy…</string>
+    <string name="copy_remaining">%s left</string>
+    <string name="menu_copy">Copy to…</string>
+    <string name="menu_select_all">Select all</string>
+    <string name="notification_touch_for_details">Touch to view details</string>
+    <string name="retry">Retry</string>
 </resources>

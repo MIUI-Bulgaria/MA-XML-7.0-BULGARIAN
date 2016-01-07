@@ -291,4 +291,5 @@
   <string name="wallpaper_scaling_message">Мащабиране до фиксиран размер</string>
   <string name="cant_edit_lock_screen">Не може да се промени типа на закл. на екрана.</string>
   <string name="apply_negative_action">Не прилагай</string>
+  <string name="apply_as_lockwallpaper_action">Закл. екран</string>
 </resources>

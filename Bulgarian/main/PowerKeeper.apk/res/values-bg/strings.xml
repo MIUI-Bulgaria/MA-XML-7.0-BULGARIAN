@@ -145,4 +145,8 @@
   <string name="power_config_normal_title">Стандартно</string>
   <string name="power_config_ultimate_description">MIUI ще замразява приложенията на заден план</string>
   <string name="power_config_ultimate_title">Максимално</string>
+  <string name="power_checker_recent_btn_title">Setting Power</string>
+  <string name="power_checker_recent_group_title">Recently</string>
+  <string name="power_checker_running_btn_title">Kill Process</string>
+  <string name="power_checker_running_group_title">Running</string>
 </resources>

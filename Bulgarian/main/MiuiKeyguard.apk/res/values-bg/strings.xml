@@ -90,4 +90,7 @@
     <string name="fingerprint_try_again_text">Опитай отново</string>
     <string name="lock_screen_date_12">EE, dd MM</string>
     <string name="set_lock_wallpaper_failed">Няма нов тапет</string>
+    <string name="input_password_after_boot_msg">"You'll have to enter password after the device reboots."</string>
+    <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
+    <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
 </resources>

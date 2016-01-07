@@ -823,4 +823,7 @@
   <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>
   <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
   <string name="title_live_talk_purchase">Top up now</string>
+  <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
+  <string name="pm_root_success_notification_title">Root access enabled</string>
+  <string name="reject_all">Restrict all</string>
 </resources>

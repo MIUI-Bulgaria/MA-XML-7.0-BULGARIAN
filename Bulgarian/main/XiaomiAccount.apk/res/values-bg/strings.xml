@@ -395,4 +395,17 @@
   <string name="passport_login_short">Регистрация</string>
   <string name="account_limit_update_birthday">съжаляваме, но в момента е невъзможно да обработим вашата заявка.</string>
   <string name="provision_skip_login">Прескочи тази стъпка</string>
+  <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
+  <string name="change_activate_email">Change email address</string>
+  <string name="confirm_activate_email">Verified</string>
+  <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
+  <string name="passport_login_check_find_device">Checking Find device status…</string>
+  <string name="passport_login_check_find_device_failed">"Couldn't check Find device status. Check your network connection."</string>
+  <string name="passport_login_find_device_bind">This device is associated with existing Mi Account ID (%s). Sign in to activate this device.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Internet connection is required to sign in to your Mi Account. Location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
+  <string name="resend_active_email">Resend</string>
+  <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
+  <string name="resend_email_reach_limit_title">"Can't send email"</string>
+  <string name="resend_email_success">Email resent</string>
+  <string name="send_email_activate_message">Verification email sent</string>
 </resources>

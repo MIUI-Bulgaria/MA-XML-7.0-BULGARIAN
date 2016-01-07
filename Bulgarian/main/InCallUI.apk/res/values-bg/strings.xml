@@ -729,4 +729,5 @@
   <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
   <string name="not_support_title">"Number isn't supported"</string>
   <string name="purchase_now">Top up</string>
+  <string name="select_sim_hint">"Не може да използвате SIM %2$d, докато SIM %1$d е в употреба."</string>
 </resources>

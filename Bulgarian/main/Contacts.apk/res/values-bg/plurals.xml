@@ -134,4 +134,8 @@
         <item quantity="other">%1$d души</item>
         <item quantity="one">%1$d човек</item>
     </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">Остават %1$d</item>
+        <item quantity="one">Остава %1$d</item>
+    </plurals>
 </resources>

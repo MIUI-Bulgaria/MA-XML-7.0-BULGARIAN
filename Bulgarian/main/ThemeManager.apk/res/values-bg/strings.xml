@@ -389,4 +389,11 @@
   <string name="theme_precast_create_notification_content">Чукни за преглед на нови теми.</string>
   <string name="theme_precast_create_notification_title">Обновено до MIUI 7</string>
   <string name="theme_provision_oper_button_next">Напред</string>
+  <string name="resource_trial_days">(тест: %1$dд)</string>
+  <string name="resource_trial_days_hours">(тест: %1$dд %2$dч)</string>
+  <string name="resource_trial_end_time">(тест до %1$s)</string>
+  <string name="resource_trial_end_time_format">hh:mma d MMM</string>
+  <string name="resource_trial_hours">(тест: %1$dч)</string>
+  <string name="resource_trial_hours_minutes">(тест: %1$dч %2$dм)</string>
+  <string name="resource_trial_minutes">(тест: %1$dм)</string>
 </resources>

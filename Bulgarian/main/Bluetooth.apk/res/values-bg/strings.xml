@@ -180,4 +180,19 @@
   <string name="unbind_device_alert_content">Няма връзка с/ъс %1$s. Разкачете това устройство, за да спестите батерия.</string>
   <string name="unbind_device_alert_ok">Разкачи</string>
   <string name="unbind_device_alert_title">Разкачане на устройство</string>
+  <string name="bluetooth_map_settings_app_icon">Икона на приложението</string>
+  <string name="bluetooth_map_settings_cancel">Отказ</string>
+  <string name="bluetooth_map_settings_count">Оставащи слотове::</string>
+  <string name="bluetooth_map_settings_intro">Изберете профилите, които искате да споделите през Bluetooth. Пак трябва да приемете достъпа до тях при свързване.</string>
+  <string name="bluetooth_map_settings_no_account_slots_left">Не може да се избере профил. Остават 0 слота</string>
+  <string name="bluetooth_map_settings_save">Запазване</string>
+  <string name="bluetooth_map_settings_title">Настройки за споделяне на съобщения през Bluetooth</string>
+  <string name="bluetooth_sap_notif_disconnect_button">Прекратяване на връзката</string>
+  <string name="bluetooth_sap_notif_disconnecting">Изчаква се клиентската програма да прекрати връзката</string>
+  <string name="bluetooth_sap_notif_force_disconnect_button">Принудително прекратяване на връзката</string>
+  <string name="bluetooth_sap_notif_message">Искате ли да заявите клиентската програма да прекрати връзката?</string>
+  <string name="bluetooth_sap_notif_ticker">Достъп до SIM карти през Bluetooth</string>
+  <string name="bluetooth_sap_notif_title">Достъп до SIM карти през Bluetooth</string>
+  <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
+  <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
 </resources>

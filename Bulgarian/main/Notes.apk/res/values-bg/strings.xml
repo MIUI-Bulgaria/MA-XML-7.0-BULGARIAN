@@ -124,4 +124,6 @@ http://miui.bg/community/
   <string name="alert_message_delete">Да се изтрие ли %1$s?</string>
   <string name="alert_title_delete">Изтриване на бележка</string>
   <string name="all_terms">%1$s и %2$s</string>
+  <string name="dlg_delete_message">Изтрива се…</string>
+  <string name="pref_title_recover_help">Възстановяване на бележки</string>
 </resources>

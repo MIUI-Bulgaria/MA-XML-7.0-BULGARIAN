@@ -29,4 +29,8 @@
     <string name="stk_dialog_accept">Да</string>
     <string name="stk_dialog_reject">Не</string>
     <string name="stk_intent_permission">Позволи взаимодействието с STK</string>
+    <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
+    <string name="sim_type_sim_name">SIM Toolkit</string>
+    <string name="sim_type_uim_name">UIM Toolkit</string>
+    <string name="sim_type_usim_name">USIM Toolkit</string>
 </resources>

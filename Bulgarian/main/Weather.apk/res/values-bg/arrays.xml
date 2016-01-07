@@ -58,4 +58,17 @@
         <item>Намаляващ полумесец</item>
         <item>Тъмна луна</item>
     </string-array>
+    <string-array name="indices_car_wash">
+        <item>Подходящо</item>
+        <item>Неподходящо</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Подходящо</item>
+        <item>Неподходящо</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Слаб</item>
+        <item>Среден</item>
+        <item>Силен</item>
+    </string-array>
 </resources>

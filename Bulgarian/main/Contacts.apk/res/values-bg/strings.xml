@@ -1297,4 +1297,17 @@
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
+  <string name="callrecordview_item_op_video">Video</string>
+  <string name="callrecordview_menu_conference">Conference call</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Enter nickname</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Nickname will appear in call history and profile info</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Edit nickname</string>
+  <string name="multi_number_menu_call">Call</string>
+  <string name="multi_number_menu_delete">Delete</string>
+  <string name="multi_number_menu_group">New group</string>
+  <string name="multi_number_menu_message">Message</string>
+  <string name="multi_number_title">Conference call</string>
+  <string name="phone_number_too_long_toast">Number is too long</string>
+  <string name="select_done">No more to select</string>
+  <string name="video_call">Video call</string>
 </resources>

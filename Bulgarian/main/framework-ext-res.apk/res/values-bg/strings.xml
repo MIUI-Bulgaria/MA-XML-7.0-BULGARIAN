@@ -121,4 +121,8 @@
   <string name="ignore_home_when_fingerprint_enrolling_msg">Поставете пръст на бутон Начало</string>
   <string name="maml_component_customization_title">Настройки</string>
   <string name="resource_select">Изберете</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">You can go back to your Home screen by pressing the Home button. But you can choose to do that with just a tap. Customize your Home button in Settings &gt; Additional settings &gt; Buttons.</string>
+  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">No thanks</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Customize</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Customize Home button</string>
 </resources>

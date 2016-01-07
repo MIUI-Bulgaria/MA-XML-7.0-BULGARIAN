@@ -281,4 +281,18 @@
   <string name="backup_empty_info_onpad">" Архивиране на вашите данни, настройки и приложения"</string>
   <string name="backup_hint_onpad">Не изключвайте устройството си</string>
   <string name="current_pad_location">Pad</string>
+  <string name="trans_generate_qr_code_failed">"Не може да се създаде QR код"</string>
+  <string name="trans_operate_new_phone_tips">"Сканирайте QR кода с новото устройство
+Отидете на Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство
+Чукнете [Аз съм получател] за създаване на QR код"</string>
+  <string name="trans_operate_old_phone_tips1">"Метод A
+1. Инсталирайте приложението Трансфер на старото си устройство
+2. Отворете го и изберете [Аз съм изпращач]
+3. Сканирайте QR кода с вашето старо устройство"</string>
+  <string name="trans_operate_old_phone_tips2">"Метод Б
+Отидете на Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство
+Чукнете [Аз съм изпращач]"</string>
+  <string name="trans_scan_invalid_qrcode">Невалиден QR код</string>
+  <string name="trans_scan_qr_code_tips">Сканирайте QR кода с новото устройство</string>
+  <string name="trans_show_qr_code_tips">Сканирайте QR кода със старото устройство</string>
 </resources>
