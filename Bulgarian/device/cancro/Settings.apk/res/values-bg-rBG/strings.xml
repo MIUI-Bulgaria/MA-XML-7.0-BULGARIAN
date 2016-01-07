@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="battery_saver_turn_on_automatically_pct">при %1$s батерия</string>
+  <string name="power_charging">%1$s – %2$s</string>
+  <string name="power_charging_duration_ac">%1$s – %2$s до пълно зареждане при променлив ток</string>
+  <string name="power_charging_duration_usb">%1$s – %2$s до пълно зареждане през USB</string>
+  <string name="power_charging_duration_wireless">%1$s – %2$s до пълно безжично зареждане</string>
+  <string name="power_discharge_remaining">Остава: %1$s</string>
+  <string name="power_discharging_duration">%1$s – приблизително оставащо време: %2$s</string>
+  <string name="process_stats_total_duration">Използвахте %1$s от %2$s за %3$s</string>
+  <string name="process_stats_total_duration_percentage">Използвахте %1$s от оперативната памет за %2$s</string>
+</resources>

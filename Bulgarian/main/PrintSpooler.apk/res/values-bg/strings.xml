@@ -9,7 +9,7 @@
   <string name="label_paper_size">Размер на хартията</string>
   <string name="label_color">Цвят</string>
   <string name="label_orientation">Ориентация</string>
-  <string name="label_pages">Страници (%1$s)</string>
+  <string name="label_pages">Страници</string>
   <string name="pages_range_example">напр. 1–5, 8, 11–13</string>
   <string name="print_preview">Визуализация за печат</string>
   <string name="install_for_print_preview">Инсталиране на визуализатор на PDF</string>

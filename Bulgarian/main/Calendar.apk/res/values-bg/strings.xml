@@ -173,7 +173,7 @@
   <string name="monthly">Ежемесечно</string>
   <string name="monthly_on_day">Ежемесечно (същия ден)</string>
   <string name="monthly_on_day_count">Ежемесечно (всеки %1$s %2$s)</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">Описание</string>
   <string name="new_event_dialog_label">Ново събитие</string>
   <string name="new_event_dialog_option">Ново събитие</string>

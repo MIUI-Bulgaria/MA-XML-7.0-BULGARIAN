@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="activity_title_ad">Реклами</string>
@@ -96,7 +96,7 @@
   <string name="hints_quick_scanning">Сканира се…</string>
   <string name="hints_residual_header_left">Остатъци</string>
   <string name="hints_storage_free">Свободно</string>
-  <string name="hints_storage_free_size">%s свободни</string>
+  <string name="hints_storage_free_size">Общо %1$s, достъпни %2$s</string>
   <string name="hints_title_garbage">отпадъци</string>
   <string name="item_title_process_mode">Изберете действие</string>
   <string name="last_check_canceled">Предишното сканиране бе отменено</string>

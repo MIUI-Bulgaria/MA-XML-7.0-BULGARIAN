@@ -673,8 +673,8 @@
     <string name="ser_resp_err_map_certificate_validator_err">"Не може да се провери сертификата на сървъра
 \u0009 (Проверете настройката 'Авт. синхр. на времето')"</string>
     <string name="ser_resp_err_map_nouser">Няма такъв потребител</string>
-    <string name="ser_resp_err_map_or">Или</string>
-    <string name="ser_resp_err_map_serclosed">Услугата е прекратена</string>
+    <string name="ser_resp_err_map_or">%1$s или %2$s</string>
+    <string name="ser_resp_err_map_serclosed">Сървърът %s не работи</string>
     <string name="ser_resp_err_map_ssl">"Моля, опитайте да изберете 'SSL/TLS (Приемане на всички сертификати)' във 'Вид защита'"</string>
     <string name="set_network">Задаване на мрежа</string>
     <string name="settings_activity_title">Настройки</string>
