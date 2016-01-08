@@ -55,8 +55,8 @@
         <item>На всеки 30 дни</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
-        <item>Add file to exceptions</item>
+        <item>Изтрий този файл</item>
+        <item>Покажи локацията на файла</item>
+        <item>Добави файла в изключенията</item>
     </string-array>
 </resources>

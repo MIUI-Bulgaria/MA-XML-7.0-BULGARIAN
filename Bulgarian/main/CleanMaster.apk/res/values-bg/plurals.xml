@@ -46,19 +46,19 @@
         <item quantity="many">%1$d прегледа</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d apps installed, you can delete rarely used apps</item>
-        <item quantity="one">%d app installed, you can delete this one</item>
+        <item quantity="other">Инсталирани %d приложения, можете да изтриете рядко използваните приложения</item>
+        <item quantity="one">Инсталирано %d приложение, можете да го изтриете</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">You can clear unimportant data for %d apps</item>
-        <item quantity="one">You can clear unimportant data for %d app</item>
+        <item quantity="other">Можете да изчистите маловажните данни за %d приложения</item>
+        <item quantity="one">Можете да изчистите маловажните данни за %d приложение</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Found %d big files, you can delete the unimportant ones</item>
-        <item quantity="one">Found %d big file, you can delete this one</item>
+        <item quantity="other">Открити са %d големи файлове, можете да изтриете маловажните от тях</item>
+        <item quantity="one">Открит е %d голям файл, можете да го изтриете</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Found %d photos, you can delete duplicates or redundant images</item>
-        <item quantity="one">Found %d photo, you can delete duplicates or redundant images</item>
+        <item quantity="other">Открити са %d снимки, можете да изтриете дубликати и ненужни снимки</item>
+        <item quantity="one">Открита е %d снимка, можете да изтриете дубликати и ненужни снимки</item>
     </plurals>
 </resources>
