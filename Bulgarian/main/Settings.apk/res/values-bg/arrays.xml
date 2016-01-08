@@ -653,67 +653,67 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>По избор</item>
      </string-array>
      <string-array name="color_picker">
-        <item>Teal</item>
-        <item>Blue</item>
-        <item>Indigo</item>
-        <item>Purple</item>
-        <item>Pink</item>
-        <item>Red</item>
+        <item>синьо-зелено</item>
+        <item>синьо</item>
+        <item>индиго</item>
+        <item>лилаво</item>
+        <item>розово</item>
+        <item>червено</item>
      </string-array>
      <string-array name="common_password_business_names">
-        <item>Lock screen</item>
-        <item>Child mode</item>
-        <item>File Explorer</item>
+        <item>Закл. екран</item>
+        <item>Режим за деца</item>
+        <item>Файлове</item>
      </string-array>
      <string-array name="data_usage_data_range">
-        <item>Last 30 days</item>
-        <item>Set usage cycle...</item>
+        <item>Последните 30 дни</item>
+        <item>Цикъл на пренос...</item>
      </string-array>
      <string-array name="entries_color_calibration">
         <item>sRGB</item>
         <item>Native</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Няма</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (сигурно)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (сигурно)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (сигурно)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (сигурно)</item>
+        <item>4K (с увеличен мащаб)</item>
+        <item>4K (с увеличен мащаб, сигурно)</item>
+        <item>720p, 1080p (двоен екран)</item>
      </string-array>
      <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
-        <item>Moderate</item>
-        <item>Low</item>
-        <item>Critical</item>
+        <item>Нормално</item>
+        <item>Средно</item>
+        <item>Лошо</item>
+        <item>Критичнo</item>
      </string-array>
      <string-array name="proc_stats_process_states">
-        <item>Persistent</item>
-        <item>Top activity</item>
-        <item>Important (foreground)</item>
-        <item>Important (background)</item>
-        <item>Backup</item>
-        <item>Heavy weight</item>
-        <item>Service (running)</item>
-        <item>Service (restarting)</item>
-        <item>Receiver</item>
-        <item>Home</item>
-        <item>Last activity</item>
-        <item>Cached (activity)</item>
-        <item>Cached (activity client)</item>
-        <item>Cached (empty)</item>
+        <item>Постоянно</item>
+        <item>Водеща активност</item>
+        <item>Важно (на преден план)</item>
+        <item>Важно (на заден план)</item>
+        <item>Резервно копие</item>
+        <item>Голямо натоварване</item>
+        <item>Услуга (изпълнява се)</item>
+        <item>Услуга (рестартира се)</item>
+        <item>Приемник</item>
+        <item>Начален екран</item>
+        <item>Последна активност</item>
+        <item>Кеширано (активност)</item>
+        <item>Кеширано (клиентска програма за активността)</item>
+        <item>Кеширано (празно)</item>
      </string-array>
      <string-array name="ram_states">
-        <item>Normal</item>
-        <item>Moderate</item>
-        <item>Low</item>
-        <item>Critical</item>
+        <item>Нормално</item>
+        <item>Средно</item>
+        <item>Недостатъчно</item>
+        <item>Критичнo</item>
         <item>\?</item>
      </string-array>
      <string-array name="screen_resolution_entries">
@@ -721,26 +721,26 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Normal (720p)</item>
      </string-array>
      <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
      </string-array>
      <string-array name="select_logd_size_summaries">
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>Рег. буфер – 64 КБ</item>
+        <item>Рег. буфер – 256 КБ</item>
+        <item>Рег. буфер – 1 МБ</item>
+        <item>Рег. буфер – 4 МБ</item>
+        <item>Рег. буфер – 16 МБ</item>
      </string-array>
      <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
      </string-array>
      <string-array name="wifi_ssid_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
+        <item>Автоматично свързване</item>
+        <item>Ръчно свързване</item>
      </string-array>
 </resources>

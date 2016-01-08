@@ -66,40 +66,40 @@
         <item quantity="one">1 прил. може да показва известия</item>
     </plurals>
     <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d apps can open their supported links</item>
-        <item quantity="zero">No app can open any supported link</item>
-        <item quantity="one">One app can open its supported links</item>
+        <item quantity="other">%d приложения могат да отварят поддържани връзки</item>
+        <item quantity="zero">Няма приложение за отваряне на поддържани връзки</item>
+        <item quantity="one">Едно приложение може да отваря поддържани връзки</item>
     </plurals>
     <plurals name="high_power_count">
-        <item quantity="other">%d apps allowed to ignore battery optimization</item>
-        <item quantity="one">1 app allowed to ignore battery optimization</item>
+        <item quantity="other">%d приложения имат разрешение да пренебрегват оптимизирането на батерията</item>
+        <item quantity="one">1 приложение има разрешение да пренебрегва оптимизирането на батерията</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d apps used memory in the last %2$s</item>
-        <item quantity="one">1 app used memory in the last %2$s</item>
+        <item quantity="other">%1$d приложения са използвали памет през последния период от %2$s</item>
+        <item quantity="one">1 приложение е използвало памет през последния период от %2$s</item>
     </plurals>
     <plurals name="permissions_summary">
-        <item quantity="other">%d permissions granted</item>
-        <item quantity="one">%d permission granted</item>
+        <item quantity="other">Предоставени са %d разрешения</item>
+        <item quantity="one">Предоставено е %d разрешение</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d additional permissions</item>
-        <item quantity="one">%d additional permission</item>
+        <item quantity="other">%d допълнителни разрешения</item>
+        <item quantity="one">%d допълнително разрешение</item>
     </plurals>
     <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d of %2$d permissions granted</item>
-        <item quantity="one">%1$d of %2$d permission granted</item>
+        <item quantity="other">Предоставени са %1$d от %2$d разрешения</item>
+        <item quantity="one">Предоставено е %1$d от %2$d разрешение</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d fingerprints set up</item>
-        <item quantity="one">%1$d fingerprint set up</item>
+        <item quantity="other">Настроени са %1$d отпечатъка</item>
+        <item quantity="one">Настроен е %1$d отпечатък</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Change to alarms only for %1$d hours until %2$s</item>
-        <item quantity="one">Change to alarms only for one hour until %2$s</item>
+        <item quantity="other">Активиране на режима „Само будилници“ за %1$d часа до %2$s</item>
+        <item quantity="one">Активиране на режима „Само будилници“ за един час до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Change to alarms only for %1$d minutes (until %2$s)</item>
-        <item quantity="one">Change to alarms only for one minute until %2$s</item>
+        <item quantity="other">Активиране на режима „Само будилници“ за %1$d минути (до %2$s)</item>
+        <item quantity="one">Активиране на режима „Само будилници“ за една минута до %2$s</item>
     </plurals>
 </resources>
