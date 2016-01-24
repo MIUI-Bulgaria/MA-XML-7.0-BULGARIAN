@@ -266,7 +266,7 @@
   <string name="space_usage">В употреба</string>
   <string name="start_server">Стартирай FTP</string>
   <string name="start_use_xiaomi_account">Влезте</string>
-  <string name="stay_awake_summary">Забрана за изключване на екрана при FTP транфер</string>
+  <string name="stay_awake_summary">Забрана за изключване на екрана при FTP трансфер</string>
   <string name="stay_awake_title">Не изключвай екрана</string>
   <string name="stop_server">Спри FTP</string>
   <string name="storage_internal">Вътрешна памет</string>
