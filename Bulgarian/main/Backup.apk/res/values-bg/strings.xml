@@ -251,7 +251,7 @@
   <string name="trans_detail_category_sysdata">Системни данни</string>
   <string name="trans_detail_category_userdata">Приложения</string>
   <string name="trans_device_disconnected">Връзката с устройството е прекъсната</string>
-  <string name="trans_main_tutor">Трансфер на контакти, списък с повиквания, съобщения, начални екрани, прил., натройки и т.н към ново устройство</string>
+  <string name="trans_main_tutor">Трансфер на контакти, списък с повиквания, съобщения, начални екрани, прил., настройки и т.н към ново устройство</string>
   <string name="trans_my_device">Моето устройство</string>
   <string name="trans_one_key_migrate">Трансфер</string>
   <string name="trans_progress_subdescript_br_receiver">Възстановяване %1$s, %2$s завършени</string>

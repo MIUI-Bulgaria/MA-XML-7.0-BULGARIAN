@@ -569,7 +569,7 @@ and never miss the cool new ones!"</string>
   <string name="add_private">Добави файлове в скритите папки</string>
   <string name="encrypt_success_first_five">"Успешно шифровано. Плъзнете надолу в началната страница на Файлове, за да видите файловете"</string>
   <string name="private_folder_no_file_hints">Задръжте файл или папка, за да ги скриете.</string>
-  <string name="private_folder_update">Скитите папки се обновяват</string>
+  <string name="private_folder_update">Скритите папки се обновяват</string>
   <string name="backup_checkbox_msg">Always back up and show notifications</string>
   <string name="compress_fail_unknown">"Не може да се компресира. Пълно хранилище или възникнала неизвестна грешка."</string>
   <string name="make_private_msg_1">Скриване на файла?</string>

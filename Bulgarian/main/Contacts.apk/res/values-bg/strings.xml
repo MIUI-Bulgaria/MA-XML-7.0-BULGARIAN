@@ -1295,7 +1295,7 @@
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Един момент…</string>
   <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Чукнет, за да използвате Mi Voice</string>
+  <string name="voip_recommend_msg">Чукнете, за да използвате Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="callrecordview_item_op_video">Видео</string>
   <string name="callrecordview_menu_conference">Конферентно обаждане</string>
