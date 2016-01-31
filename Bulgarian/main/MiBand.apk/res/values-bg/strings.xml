@@ -749,7 +749,7 @@ by %1$s"</string>
      <string name="max_hr">Maximum heart rate</string>
      <string name="measure">Measure heart rate</string>
      <string name="measure_fail">"Couldn't measure"</string>
-     <string name="measure_reminder">&lt;b&gt;"Press the sensor against your skin, don't move"&lt;/b&gt;</string>
+     <string name="measure_reminder">"Press the sensor against your skin, don't move"</string>
      <string name="measure_reminder_small">Keep your hand at the chest level while measuring</string>
      <string name="measure_tips">Keep band sensor close to your skin</string>
      <string name="measuring">Measuring…</string>
