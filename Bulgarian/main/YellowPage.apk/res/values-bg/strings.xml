@@ -562,7 +562,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="mark_number_remove">Remove Label</string>
   <string name="network_access_denied">Network access denied</string>
   <string name="order_info">Order info</string>
-  <string name="phone_event_setting_notice_text">"Yellow pages wants to upload verified service numbers (like your cell service provider) to Mi's servers, so that you can receive service-related updates."</string>
+  <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
   <string name="recharge_follow_name">Top up</string>
   <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="rmb">RMB</string>

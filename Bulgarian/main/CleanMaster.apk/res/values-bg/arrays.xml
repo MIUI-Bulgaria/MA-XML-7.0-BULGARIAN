@@ -36,15 +36,13 @@
         <item>Инсталиране</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Детайли</item>
-        <item>Файл</item>
-        <item>Архив и деинстал.</item>
         <item>Деинсталиране</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Почистване</item>
-        <item>Файл</item>
-        <item>Изключение</item>
+        <item>Почисти файла</item>
+        <item>Виж локацията на файла</item>
+        <item>Добави файла в изключения</item>
+        <item>Добави приложението в изключения</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Почисти</item>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <string name="prompt">%s прави опит за създаване на връзка с VPN.</string>
-    <string name="warning">С продължаването си давате на приложението разрешение да прехваща целия трафик от мрежата. <b>НЕ приемайте, ако нямате доверие на приложението.</b> В противен случай съществува риск от компрометиране на данните ви от злонамерен софтуер.</string>
+    <string name="prompt">Заявка за свързване</string>
+    <string name="warning">%s иска да настрои връзка с виртуална частна мрежа (VPN), за да може да наблюдава мрежовия трафик. Приемете само ако източникът е надежден. Иконата &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; се показва в долната част на екрана при активирана VPN.</string>
     <string name="accept">Имам доверие на това приложение.</string>
     <string name="legacy_title">VPN е свързана</string>
     <string name="configure">Конфигуриране</string>

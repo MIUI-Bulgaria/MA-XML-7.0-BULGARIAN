@@ -88,12 +88,22 @@
         <item>Оставяне в будно състояние</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
+        <item>Trying to get usage stats</item>
+        <item>Trying to mute microphone</item>
+        <item>Trying to toast window</item>
+        <item>Trying to project media</item>
+        <item>Trying to activate vpn</item>
         <item>Вкл./изкл. на Wi-Fi</item>
         <item>Вкл./изкл. на Bluetooth</item>
-        <item>Вкл./изкл. на мобилните данни</item>
         <item>Изпращане на MMS</item>
         <item>Четене на MMS</item>
         <item>Писане на MMS</item>
         <item>Автоматично стартиране</item>
+        <item>Вкл./изкл. на NFC</item>
+        <item>Изтриване на SMS</item>
+        <item>Изтриване на MMS</item>
+        <item>Изтриване на контакти</item>
+        <item>Изтриване на списък с повиквания</item>
+        <item>Вкл./изкл. на мобилните данни</item>
     </string-array>
 </resources>

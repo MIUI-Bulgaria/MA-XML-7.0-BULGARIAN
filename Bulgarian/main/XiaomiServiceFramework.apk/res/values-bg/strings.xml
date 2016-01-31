@@ -114,4 +114,10 @@
   <string name="activate_popup_title_error_device_id">Invalid IMEI</string>
   <string name="activate_status_desc_completed_with_sms_sent">Sent SMS to activate SIM</string>
   <string name="activate_status_desc_device_id_error">Invalid IMEI</string>
+  <string name="activate_history_cancelled">cancelled</string>
+  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by feature \"%2$s\".</string>
+  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by feature \"%2$s\".</string>
+  <string name="activate_history_sms">An SMS has been sent during the activation.</string>
+  <string name="activate_history_success">succeeded</string>
+  <string name="activate_history_title">SIM Card Activation</string>
 </resources>

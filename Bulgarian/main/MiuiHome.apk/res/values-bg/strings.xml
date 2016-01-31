@@ -292,4 +292,12 @@
   <string name="cant_edit_lock_screen">Не може да се промени типа на закл. на екрана.</string>
   <string name="apply_negative_action">Не прилагай</string>
   <string name="apply_as_lockwallpaper_action">Закл. екран</string>
+  <string name="add_screen">Добави бутон за екрани</string>
+  <string name="apply">Приложи</string>
+  <string name="delete_screen">Изтрий бутон за екрани</string>
+  <string name="like">Харесвам</string>
+  <string name="liked">Харесано</string>
+  <string name="screen_number">Екран %d</string>
+  <string name="settings">Настройки</string>
+  <string name="share">Сподели</string>
 </resources>

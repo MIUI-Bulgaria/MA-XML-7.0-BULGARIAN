@@ -13,4 +13,8 @@
         <item quantity="other">%d минути</item>
         <item quantity="one">%d минута</item>
     </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d елементи</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
 </resources>

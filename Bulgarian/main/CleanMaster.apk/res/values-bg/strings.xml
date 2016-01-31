@@ -360,4 +360,22 @@
   <string name="label_preserve_the_best_image">Запазете най-качествените снимки</string>
   <string name="see_more">Още</string>
   <string name="sponsored">Спонсорирани</string>
+  <string name="activity_title_deep_apk">Изтриване на APK</string>
+  <string name="activity_title_video">Изтриване на видео</string>
+  <string name="deepclean_apk_content">Изтрива APK файлове или ненужни приложения</string>
+  <string name="deepclean_apk_summary_empty">Всичко изглежда добре, няма APK за изтриване</string>
+  <string name="deepclean_apk_version_error">Неизвестно</string>
+  <string name="deepclean_video_content">Изтрива вече гледани или ненужни видеота</string>
+  <string name="deepclean_video_summary_empty">Всичко изглежда добре</string>
+  <string name="empty_title_video">Няма видео за изтриване​</string>
+  <string name="hints_cache_msd_desc">"Изтриването на делта актуализациите не се отразяван на ползването на приложения"</string>
+  <string name="hints_cache_msd_title">Делта актуализации</string>
+  <string name="hints_installed_app_fewer">Рядко</string>
+  <string name="hints_installed_app_near">Скоро</string>
+  <string name="hints_installed_app_never">Никога</string>
+  <string name="hints_video_camera">Captured videos</string>
+  <string name="hints_video_download">Downloaded videos</string>
+  <string name="summary_delete_apk">Да се изтрият ли избраните APK за постоянно?</string>
+  <string name="summary_delete_video">&gt;Да се изтрият ли избраните видеота за постоянно?</string>
+  <string name="title_delete_deepclean">Изтрий</string>
 </resources>

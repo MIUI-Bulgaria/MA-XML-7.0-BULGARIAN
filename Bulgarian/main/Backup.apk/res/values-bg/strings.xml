@@ -254,12 +254,12 @@
   <string name="trans_main_tutor">Трансфер на контакти, списък с повиквания, съобщения, начални екрани, прил., натройки и т.н към ново устройство</string>
   <string name="trans_my_device">Моето устройство</string>
   <string name="trans_one_key_migrate">Трансфер</string>
-  <string name="trans_progress_subdescript_br_receiver">Получава се %s</string>
-  <string name="trans_progress_subdescript_br_sender">Архивира се %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Получава се %s</string>
-  <string name="trans_progress_subdescript_transing_sender">Изпраща се %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Получаване на файлове…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Изпращане на файлове…</string>
+  <string name="trans_progress_subdescript_br_receiver">Възстановяване %1$s, %2$s завършени</string>
+  <string name="trans_progress_subdescript_br_sender">Архивира се %1$s, %2$s завършени</string>
+  <string name="trans_progress_subdescript_transing_receiver">Получава се %1$s, %2$s завършени</string>
+  <string name="trans_progress_subdescript_transing_sender">Изпраща се %1$s, %2$s завършени</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Получаване на файлове, %s завършени</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Изпращане на файлове, %s завършени</string>
   <string name="trans_progress_subdescript_waiting">Изчаква за получаване %s</string>
   <string name="trans_receiver">Аз съм получател</string>
   <string name="trans_receiving_completed">Получени данни</string>
@@ -295,4 +295,31 @@
   <string name="trans_scan_invalid_qrcode">Невалиден QR код</string>
   <string name="trans_scan_qr_code_tips">Сканирайте QR кода с новото устройство</string>
   <string name="trans_show_qr_code_tips">Сканирайте QR кода със старото устройство</string>
+  <string name="button_send">Изпрати</string>
+  <string name="local_select_audio">Аудио файлове</string>
+  <string name="local_select_doc">Документи</string>
+  <string name="local_select_image">Снимки</string>
+  <string name="local_select_video">Видео</string>
+  <string name="size_byte">Б</string>
+  <string name="size_giga_byte">ГБ</string>
+  <string name="size_kilo_byte">КБ</string>
+  <string name="size_mega_byte">МБ</string>
+  <string name="trans_operate_func_one">Метод A</string>
+  <string name="trans_operate_func_two">Метод Б</string>
+  <string name="trans_receiver_time_remained">"Остават %s.
+Не изключвайте Wi-Fi VPN.
+Дръжте устройствата на близко разстояние."</string>
+  <string name="trans_select_data">Избор на елементи за изпращане</string>
+  <string name="trans_select_data_no_space">"%s налични на новото устройство
+Изберете файлове отново или освободете място"</string>
+  <string name="trans_select_data_tips">"Изберете елементи за трансфер
+Подобните файлове на новото устройство ще бъдат презаписани"</string>
+  <string name="trans_sender_time_remained">"Остават %s.
+Не изключвайте Wi-Fi.
+Дръжте устройствата на близко разстояние."</string>
+  <string name="trans_show_qr_code_label">Свързване на старо устройство</string>
+  <string name="trans_time_spent">"
+Изтекло време: %s"</string>
+  <string name="trans_wait_trans_data">"Свързано към старото устройство.
+В очакване за трансфер…"</string>
 </resources>

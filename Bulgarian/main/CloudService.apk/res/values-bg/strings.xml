@@ -471,21 +471,24 @@
 Тази функция шифрова и изпраща ID на вашето устройство до сървърите на Mi."</string>
   <string name="user_agreement_p5">"
 "</string>
-  <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
-  <string name="cloud_restore_title">Restore from backup</string>
-  <string name="header_cloud_backup_settings">Back up and restore</string>
-  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
-  <string name="header_find_device_settings">Find device</string>
-  <string name="micloud_main_message_not_synced">%s data not synced</string>
-  <string name="micloud_main_title_not_synced">Not synced</string>
-  <string name="micloud_notif_content_battery_low">Battery is too low.</string>
-  <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
-  <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
-  <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
-  <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
-  <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
-  <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
-  <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
+  <string name="cloud_back_up_summary">Архивиране ако сте свързани с Wi-Fi</string>
+  <string name="cloud_backup_have_data">Открит архив в Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Изберете архив от Mi Cloud</string>
+  <string name="cloud_restore_title">Възстановяване от рез. копие</string>
+  <string name="header_cloud_backup_settings">Архив и възстановяване</string>
+  <string name="header_cloud_restore_summary">Възстановяване на приложения, начален екран и системни настройки от резервно копие в Mi Cloud</string>
+  <string name="header_find_device_settings">Открий устройството</string>
+  <string name="micloud_main_message_not_synced">%s несинхр.</string>
+  <string name="micloud_main_title_not_synced">Несинхр.</string>
+  <string name="micloud_notif_content_battery_low">Изтощена батерия.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Първо се свържете с Wi-Fi.</string>
+  <string name="micloud_notif_content_memory_low">Недостатъчно място в хранилището.</string>
+  <string name="micloud_notif_content_sync_with_off">Чукнете за синхронизиране.</string>
+  <string name="micloud_notif_title_battery_low">"Не може да се синхр. с Mi Cloud"</string>
+  <string name="micloud_notif_title_master_depend_wifi">"Не може да се синхр. с Mi Cloud"</string>
+  <string name="micloud_notif_title_memory_low">"Не може да се синхр. с Mi Cloud"</string>
+  <string name="micloud_notif_title_sync_with_off">Синхр. с Mi Cloud</string>
+  <string name="soundrecorder_sync_only_in_wifi">Синхр. само чрез Wi-Fi</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Звукозапис няма да използва мобилни данни за изтегляне и качване на записи</string>
+  <string name="soundrecorder_sync_records">Синхр. с Mi Cloud</string>
 </resources>

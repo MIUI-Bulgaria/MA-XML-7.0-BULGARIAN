@@ -161,6 +161,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Няма</item>
         <item>Ръчно</item>
+        <item>Прокси: Автоконфиг.</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Изключено</item>
@@ -403,59 +404,77 @@
        <item>Връзката е бавна поради слаб сигнал</item>
        <item>Прехвърля се…</item>
    </string-array>
-    <string-array name="app_ops_categories">
+   <string-array name="app_ops_categories">
         <item>Местоположение</item>
         <item>Лични</item>
         <item>Съобщения</item>
         <item>Мултимедия</item>
         <item>Устройство</item>
-    </string-array>
-    <string-array name="app_ops_summaries">
-        <item>местоположение с ниска точност</item>
-        <item>местоположение с висока точност</item>
+        <item>Стартиране</item>
+   </string-array>
+   <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
         <item>GPS</item>
-        <item>вибриране</item>
-        <item>четене на контактите</item>
-        <item>промяна на контактите</item>
-        <item>четене на списъка с обажданията</item>
-        <item>промяна на списъка с обажданията</item>
-        <item>четене на календара</item>
-        <item>промяна на календара</item>
-        <item>сканиране за Wi-Fi</item>
-        <item>известие</item>
-        <item>сканиране за сигнал</item>
-        <item>обаждане по телефона</item>
-        <item>четене на SMS</item>
-        <item>запис на SMS</item>
-        <item>получаване на SMS</item>
-        <item>получаване на спешен SMS</item>
-        <item>получаване на MMS</item>
-        <item>получаване на насочено WAP съобщение</item>
-        <item>изпращане на SMS</item>
-        <item>четене на ICC SMS</item>
-        <item>запис на ICC SMS</item>
-        <item>промяна на настройките</item>
-        <item>рисуване върху елемент</item>
-        <item>достъп до известията</item>
-        <item>камера</item>
-        <item>запис на звук</item>
-        <item>възпроизвеждане на звук</item>
-        <item>четене на буферната памет</item>
-        <item>промяна на буферната памет</item>
-        <item>бутони за мултимедия</item>
-        <item>фокусиране на звука</item>
-        <item>основна сила на звука</item>
-        <item>сила на звука за глас</item>
-        <item>сила на звука при звънене</item>
-        <item>сила на звука за мултимедия</item>
-        <item>сила на звука на будилника</item>
-        <item>сила на звука за известия</item>
-        <item>сила на звука за Bluetooth</item>
-        <item>оставяне в будно състояние</item>
-        <item>наблюдение на местоположението</item>
-        <item>наблюдение на заявките за местоположение, изразходващи много енергия</item>
-    </string-array>
-    <string-array name="app_ops_labels">
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>write contacts</item>
+        <item>read call log</item>
+        <item>write call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>toast window</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>wlan change</item>
+        <item>bluetooth change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+        <item>nfc change</item>
+        <item>delete SMS</item>
+        <item>delete MMS</item>
+        <item>delete contacts</item>
+        <item>delete call log</item>
+        <item>data change</item>
+   </string-array>
+   <string-array name="app_ops_labels">
         <item>Местоположение</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
@@ -499,19 +518,35 @@
         <item>Оставяне в будно състояние</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
+        <item>Trying to get usage stats</item>
+        <item>Trying to mute microphone</item>
+        <item>Trying to toast window</item>
+        <item>Trying to project media</item>
+        <item>Trying to activate vpn</item>
+        <item>Вкл./изкл. на Wi-Fi</item>
+        <item>Вкл./изкл. на Bluetooth</item>
+        <item>Изпращане на MMS</item>
+        <item>Четене на MMS</item>
+        <item>Писане на MMS</item>
+        <item>Автоматично стартиране</item>
+        <item>Вкл./изкл. на NFC</item>
+        <item>Изтриване на SMS</item>
+        <item>Изтриване на MMS</item>
+        <item>Изтриване на контакти</item>
+        <item>Изтриване на списък с повиквания</item>
+        <item>Вкл./изкл. на мобилните данни</item>
+   </string-array>
+   <string-array name="show_non_rect_clip_entries">
         <item>Изключено</item>
         <item>Начертаване в синьо на неправоъгълна област</item>
         <item>Зелено за тест. команди за начерт.</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
+   </string-array>
+   <string-array name="track_frame_time_entries">
         <item>Изкл.</item>
         <item>На екрана като чертички</item>
-        <item>На екрана като линии</item>
         <item>В adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="captioning_font_size_selector_titles">
+   </string-array>
+   <string-array name="captioning_font_size_selector_titles">
         <item>Много малък</item>
         <item>Малък</item>
         <item>Нормален</item>
@@ -519,16 +554,20 @@
         <item>Много голям</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Без</item>
-        <item>Контур</item>
-        <item>Падаща сянка</item>
+        <item>Стандартни</item>
+        <item>Няма</item>
+        <item>С контур</item>
+        <item>Със сянка</item>
+        <item>Изпъкнали</item>
+        <item>Вдлъбнати</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Стандартен за приложението</item>
         <item>Бяло върху черно</item>
         <item>Черно върху бяло</item>
         <item>Жълто върху черно</item>
         <item>Жълто върху синьо</item>
-        <item>Персонализирано</item>
+        <item>Персонализиран</item>
     </string-array>
     <string-array name="select_runtime_titles">
         <item>Dalvik</item>
@@ -544,7 +583,6 @@
         <item>Изключено</item>
         <item>Области за преизчертаване: Показв.</item>
         <item>Показване на областите за деутеранопия</item>
-        <item>Показване на брояча на преизчертаване</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Вътрешно хранилище</item>
@@ -563,8 +601,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Стандартни</item>
         <item>Безсерифни</item>
         <item>Безсерифни сбити</item>
+        <item>Безсерифни непропорционални</item>
         <item>Серифни</item>
-        <item>Непропорционални</item>
+        <item>Серифни непропорционални</item>
+        <item>Неформални</item>
+        <item>Курсивни</item>
+        <item>Малки главни букви</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Нищо</item>
@@ -675,17 +717,13 @@ Note: Only for Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Няма</item>
-        <item>480p</item>
-        <item>480p (сигурно)</item>
-        <item>720p</item>
-        <item>720p (сигурно)</item>
-        <item>1080p</item>
-        <item>1080p (сигурно)</item>
-        <item>4K</item>
-        <item>4K (сигурно)</item>
-        <item>4K (с увеличен мащаб)</item>
-        <item>4K (с увеличен мащаб, сигурно)</item>
-        <item>720p, 1080p (двоен екран)</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (secure)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (secure)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
      </string-array>
      <string-array name="proc_stats_memory_states">
         <item>Нормално</item>
@@ -708,13 +746,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Кеширано (активност)</item>
         <item>Кеширано (клиентска програма за активността)</item>
         <item>Кеширано (празно)</item>
-     </string-array>
-     <string-array name="ram_states">
-        <item>Нормално</item>
-        <item>Средно</item>
-        <item>Недостатъчно</item>
-        <item>Критичнo</item>
-        <item>\?</item>
      </string-array>
      <string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>

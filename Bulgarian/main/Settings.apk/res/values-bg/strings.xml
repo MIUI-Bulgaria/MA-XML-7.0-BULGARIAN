@@ -372,9 +372,9 @@
   <string name="bluetooth_empty_list_bluetooth_off">Включете Bluetooth, за да видите устройствата.</string>
   <string name="bluetooth_enable">Включи Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">ПИН кодът съдържа букви или символи</string>
-  <string name="bluetooth_enter_passkey_msg">За сдвояване със: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> Въведете необходимия код за достъп на устройството:</string>
+  <string name="bluetooth_enter_passkey_msg">Въведете необходимия код и натиснете Return или Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Възможно е също така да се наложи да въведете този код за достъп на другото устройство.</string>
-  <string name="bluetooth_enter_pin_msg">За сдвояване със:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Въведете задължителния ПИН на устройството:</string>
+  <string name="bluetooth_enter_pin_msg">Устройство</string>
   <string name="bluetooth_enter_pin_other_device">Възможно е също така да се наложи да въведете този ПИН на другото устройство.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Връзка със звука на телефона</string>

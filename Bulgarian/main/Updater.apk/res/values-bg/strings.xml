@@ -272,4 +272,6 @@ Beta Feedback Program"</string>
   <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
   <string name="updater_service_busy_msg">This app uses the Updater Service to obtain root access to the required source files.</string>
   <string name="updater_service_busy_title">Updater service is busy</string>
+  <string name="continue_update_negative_btn">Continue</string>
+  <string name="continue_update_positive_btn">Stop</string>
 </resources>

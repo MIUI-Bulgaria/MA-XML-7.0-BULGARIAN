@@ -22,4 +22,9 @@
   <string name="hour_3">3 часа</string>
   <string name="setting_head">Настройки</string>
   <string name="wlan_download">Само по Wi-Fi</string>
+  <string name="at_least_one">Моля, изберете поне една категория</string>
+  <string name="declaration_lockscreen_title">Активиране на Daily lock screens</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Приемам и активирам Daily lock screens</string>
+  <string name="summary">"Приемете нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика на поверителност&lt;/a&gt;, за да започнете. Изисква се интернет връзка.​"</string>
 </resources>

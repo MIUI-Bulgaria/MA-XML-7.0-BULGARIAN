@@ -19,7 +19,6 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Последните %d дни</item>
-        <item quantity="one">Последният %d ден</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">Преди %d дни</item>

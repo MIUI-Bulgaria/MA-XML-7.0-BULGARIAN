@@ -239,4 +239,7 @@
   <string name="message_block_confirmation">Confirm to not receive messages?</string>
   <string name="message_block_processing">processing</string>
   <string name="message_block_reminder">Reminder</string>
+  <string name="low_memory">"Device's memory is low"</string>
+  <string name="scan_result">Results</string>
+  <string name="view_hms_details_download">Download</string>
 </resources>

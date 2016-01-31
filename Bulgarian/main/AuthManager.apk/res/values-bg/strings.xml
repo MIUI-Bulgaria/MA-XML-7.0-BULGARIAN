@@ -282,4 +282,8 @@
   <string name="screen_overlay_button">Отваряне на настройки</string>
   <string name="screen_overlay_message">За да промените тази настройка, първо трябва да изключите слоеве на екрана от Настройки - Приложения</string>
   <string name="screen_overlay_title">Открит е слой на екрана</string>
+  <string name="HIPS_Perm_install_shortcut">Преки пътища на нач. екран</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Добавяне на преки пътища на началния екран</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Достъп до NFC хардуер</string>
 </resources>

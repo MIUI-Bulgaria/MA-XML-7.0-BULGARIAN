@@ -847,4 +847,8 @@
   <string name="view_queuing_status">Check status</string>
   <string name="contact_tip">Contacts</string>
   <string name="input_a_name">Enter name</string>
+  <string name="input_or_select_a_name">Enter or choose a name</string>
+  <string name="operation_add_secret_button">Hide</string>
+  <string name="operation_remove_from_face_album_button">Remove</string>
+  <string name="operation_remove_secret_button">Unhide</string>
 </resources>
