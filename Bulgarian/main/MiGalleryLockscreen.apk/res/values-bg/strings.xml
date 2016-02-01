@@ -2,10 +2,10 @@
 <resources>
   <string name="app_name">галерия</string>
   <string name="cancel">Изход</string>
-  <string name="declaration">"Използвайки този продукт, вие приемате нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика за поверителност&lt;/a&gt;. Приложението се нуждае от връзка към интернет, за да работи нормално."</string>
+  <string name="declaration">Услугата се нуждае от връзка към интернет, за да работи нормално.</string>
   <string name="declaration_title">Условия на ползване</string>
   <string name="lockscreen_magazine_subscribe">%1$s последователи</string>
-  <string name="lockscreen_magazine_summary">Вземете тапети, доставени директно на вашия заключен екран всеки ден.</string>
+  <string name="lockscreen_magazine_summary">Получавате всеки ден нови тапети за вашия заключен екран.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s тапети</string>
   <string name="lockscreen_magazine_system_title">Стандартно</string>
   <string name="lockscreen_magazine_title">Закл. екрани днес</string>
@@ -16,7 +16,7 @@
   <string name="theme_apply_failured">Тапетът не може да се приложи</string>
   <string name="theme_apply_success">Тапетът е приложен</string>
   <string name="theme_applying">Прилага се…</string>
-  <string name="change_time">Смяна на интервала</string>
+  <string name="change_time">Интервал на промяна</string>
   <string name="day">1 ден</string>
   <string name="hour_1">1 час</string>
   <string name="hour_3">3 часа</string>
@@ -26,5 +26,5 @@
   <string name="declaration_lockscreen_title">Активиране на Daily lock screens</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Приемам и активирам Daily lock screens</string>
-  <string name="summary">"Приемете нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика на поверителност&lt;/a&gt;, за да започнете. Изисква се интернет връзка.​"</string>
+  <string name="summary">"Използвайки тази функция се съгласявате с Потребителското споразумение и Политиката на поверителност.​"</string>
 </resources>
