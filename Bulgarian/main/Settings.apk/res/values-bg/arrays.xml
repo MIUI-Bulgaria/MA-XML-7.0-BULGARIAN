@@ -702,11 +702,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>розово</item>
         <item>червено</item>
      </string-array>
-     <string-array name="common_password_business_names">
-        <item>Закл. екран</item>
-        <item>Режим за деца</item>
-        <item>Файлове</item>
-     </string-array>
      <string-array name="data_usage_data_range">
         <item>Последните 30 дни</item>
         <item>Цикъл на пренос...</item>
