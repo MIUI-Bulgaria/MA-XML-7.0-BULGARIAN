@@ -69,4 +69,7 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_suggest_base"/>
   <string name="default_hint">Търсете приложения, музика, видео, книги…</string>
+  <string name="connect_and_retry">Connect to the internet and try again</string>
+  <string name="network_unavailable">"Couldn't connect to the network"</string>
+  <string name="web_search_results">Web search results</string>
 </resources>

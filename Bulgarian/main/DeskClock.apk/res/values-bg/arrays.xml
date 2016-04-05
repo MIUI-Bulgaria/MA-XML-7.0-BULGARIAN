@@ -54,6 +54,7 @@
         <item>Веднъж</item>
         <item>Ежедневно</item>
         <item>Работни дни (в Китай)</item>
+        <item>Почивни дни (в Китай)</item> 
         <item>Понеделник-Петък</item>
         <item>По избор</item>
     </string-array>

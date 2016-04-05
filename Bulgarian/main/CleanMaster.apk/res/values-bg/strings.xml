@@ -378,4 +378,16 @@
   <string name="summary_delete_apk">Да се изтрият ли избраните APK за постоянно?</string>
   <string name="summary_delete_video">&gt;Да се изтрият ли избраните видеота за постоянно?</string>
   <string name="title_delete_deepclean">Изтрий</string>
+  <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
+  <string name="dialog_title_stop_scan">Stop scanning</string>
+  <string name="information_setting">News feed settings</string>
+  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
+  <string name="long_click_dialog_summary">Long press to add to exceptions.</string>
+  <string name="long_click_dialog_title">Notice</string>
+  <string name="news_change">Change</string>
+  <string name="pref_section_auto_clean_and_alert">Clean automatically</string>
+  <string name="recommend_news">Recommended sources</string>
+  <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
+  <string name="tips_of_app_manage">Delete rarely used apps to save storage</string>
+  <string name="title_of_app_manage">Apps</string>
 </resources>

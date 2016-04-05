@@ -102,4 +102,12 @@
         <item quantity="other">Активиране на режима „Само будилници“ за %1$d минути (до %2$s)</item>
         <item quantity="one">Активиране на режима „Само будилници“ за една минута до %2$s</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+       <item quantity="other">Never disable for %d apps</item>
+       <item quantity="one">Never disable for 1 app</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+       <item quantity="other">Always disable for %d apps</item>
+       <item quantity="one">Always disable for 1 app</item>
+    </plurals>
 </resources>

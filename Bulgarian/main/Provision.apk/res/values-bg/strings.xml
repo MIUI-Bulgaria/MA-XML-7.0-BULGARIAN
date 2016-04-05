@@ -58,4 +58,5 @@
   <string name="desc_fingerprint">Използвайте вашия пръстов отпечатък за отключване на устройството,проверка на Mi Pay транзакции, или за вход в приложения и услуги.</string>
   <string name="next_fingerprint">Следващ</string>
   <string name="title_fingerprint">Добавете пръстов отпечатък</string>
+  <string name="desc_international_fingerprint">Използвайте вашия пръстов отпечатък за отключване на устройството или за вход в приложения и услуги.</string>
 </resources>

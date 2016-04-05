@@ -631,4 +631,14 @@
   <string name="wild_msg_processing">Processing...</string>
   <string name="wild_msg_title">Enable cloud syncing</string>
   <string name="yellowpage_recommend_msg">"Try out MIUI's SMS message features"</string>
+  <string name="add_redpackage">Red Package</string>
+  <string name="call_sender">Call sender</string>
+  <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
+  <string name="mx_msg_pageview_setting_title">Mi Message settings</string>
+  <string name="pref_cell_broadcast">Cell Broadcasts</string>
+  <string name="red_package_btn">Open</string>
+  <string name="show_sender">Show sender info</string>
+  <string name="title_recv_red_package">Get Red Package</string>
+  <string name="title_red_package">Getting rich and good luck</string>
+  <string name="title_send_red_package">Check Red Package</string>
 </resources>

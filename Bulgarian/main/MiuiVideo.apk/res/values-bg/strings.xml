@@ -618,4 +618,13 @@
   <string name="vp_download_apk_from_video_ad">Install the application</string>
   <string name="vp_downloading_apk_title">Downloading %1$s</string>
   <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
+  <string name="detail">Detail</string>
+  <string name="open_in_browser">Open in Browser</string>
+  <string name="receive_follow">New episode notifications</string>
+  <string name="receive_follow_summary">Receive notifications when new episode is available</string>
+  <string name="subscribe">Subscribe</string>
+  <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
+  <string name="vp_ad_countdown_s">AD %1$s</string>
+  <string name="vp_ad_skip">Skip AD</string>
+  <string name="vp_ad_skip_at">Skip AD after %1$d</string>
 </resources>

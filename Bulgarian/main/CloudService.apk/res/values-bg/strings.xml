@@ -491,4 +491,11 @@
   <string name="soundrecorder_sync_only_in_wifi">Синхр. само чрез Wi-Fi</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Звукозапис няма да използва мобилни данни за изтегляне и качване на записи</string>
   <string name="soundrecorder_sync_records">Синхр. с Mi Cloud</string>
+  <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
+  <string name="activate_finddevice">Connect to the network to activate device</string>
+  <string name="connect_network">Connect to WLAN or insert a SIM card</string>
+  <string name="connect_wlan">Connect to WLAN</string>
+  <string name="detect_sim_card">Search for SIM card again</string>
+  <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
+  <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
 </resources>

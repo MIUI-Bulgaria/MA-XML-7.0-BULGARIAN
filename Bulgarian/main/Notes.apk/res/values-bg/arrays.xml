@@ -21,18 +21,14 @@
         <item>Огромен</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Сега можете да лесно да нахвърляте идеи, известия и мисли с помощта на
+        <item>"Tap to create a note
 "</item>
-        <item>"Прикачите снимки или контакти
+        <item>"To add a picture or show checkboxes, tap the button below
 "</item>
-        <item>"Отмятате задачи с прокарване на пръст
+        <item>"Press and hold a note to pin, move, or delete it
 "</item>
-        <item>"И още много функции!
-  - Синхронизация с Mi Cloud
-  - Създаване на напомняния
-
-За да научите повече, посетете
-http://miui.bg/community/
-"</item>
+        <item>"And more great features!
+  - Sync with Mi Cloud
+  - Set reminders"</item>
     </string-array>
 </resources>

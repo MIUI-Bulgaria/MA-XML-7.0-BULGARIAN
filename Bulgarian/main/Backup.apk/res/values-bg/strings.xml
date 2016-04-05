@@ -322,4 +322,39 @@
 Изтекло време: %s"</string>
   <string name="trans_wait_trans_data">"Свързано към старото устройство.
 В очакване за трансфер…"</string>
+  <string name="guarded_mode_dialog_backup_message">"Backups aren't allowed in Guest mode."</string>
+  <string name="guarded_mode_dialog_transfer_message">"Can't use Mi Mover in Guest mode."</string>
+  <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
+  <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
+  <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_sending_completed">Data sent successfully</string>
+  <string name="trans_calculating">Calculating…</string>
+  <string name="trans_calculating_app_sd_size">Calculating size: %s</string>
+  <string name="trans_calculating_base_size">Calculating data size</string>
+  <string name="trans_connect_failed_message">"Couldn't connect, try again or reboot device. On the other device, go to Settings &gt; Additional Settings &gt; Mi Mover, tap [I'm a sender], or launch Mi Mover again after reboot."</string>
+  <string name="trans_connect_failed_title">"Couldn't connect"</string>
+  <string name="trans_connection_failed">Device disconnected</string>
+  <string name="trans_native_no_space">"Not enough space on this device.
+Clear at least %s."</string>
+  <string name="trans_please_waiting">Just a sec…</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Backed up %s, waiting to send…</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Received %s, waiting to restore…</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving %1$s SD card files, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Sending %1$s SD card files, %2$s completed</string>
+  <string name="trans_retry">Retry</string>
+  <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
+  <string name="trans_start_failed_title">"Couldn't start transfer"</string>
+  <string name="user_notice_declaration_ignore">"Don't show again"</string>
+  <string name="user_notice_message">Some features require internet connection to work normally.</string>
+  <string name="user_notice_title">Attention</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">New version available!</string>
 </resources>

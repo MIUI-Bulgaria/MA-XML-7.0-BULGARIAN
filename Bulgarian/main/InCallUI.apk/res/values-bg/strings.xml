@@ -748,4 +748,20 @@
   <string name="picking_participant">Getting contact info…</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
   <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
+  <string name="areacode_set_default">Set as default</string>
+  <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
+  <string name="call_recording_deny_permission_msg">"You denied record permission, can't record."</string>
+  <string name="can_not_call_oneself">"Can't call this number"</string>
+  <string name="default_area_code_setting">Default area code</string>
+  <string name="dialog_activate_livetalk">Verify number</string>
+  <string name="dialog_call_ordinary_telephone">Regular call</string>
+  <string name="dialog_purchase">Top up</string>
+  <string name="do_not_ask">Dont show again</string>
+  <string name="keep_wait_call_back">Keep waiting</string>
+  <string name="livetalk_hangup">Hang up</string>
+  <string name="no_call_back_message">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="no_call_back_title">Attention</string>
+  <string name="not_activate_sim_card_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="not_activate_sim_card_content_title">Phone number isnt verified</string>
+  <string name="not_activate_sim_card_content_with_operator">Verify SIM %1$s (%2$s) to make a call using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
 </resources>
