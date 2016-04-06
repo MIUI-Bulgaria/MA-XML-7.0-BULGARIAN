@@ -987,11 +987,9 @@
     <string name="contact_edit_set_black_list_title">Add to blocklist</string>
     <string name="contact_in_filter_call_phone_str">Call from %s</string>
     <string name="contact_in_filter_title">Sender</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
     <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
     <string name="disturb_switch">Do not disturb</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="fail_get_email_message">Get message failed.</string>
     <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
     <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
@@ -1022,7 +1020,6 @@
     <string name="network_try_again">Please check the network</string>
     <string name="network_unavailable">Network not available</string>
     <string name="outbox_alert_description_fail_network">"Couldn't connect to the network."</string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="pull_up_to_load_more">Load on get more</string>
     <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
     <string name="questionnair_confirm_delete">Remove</string>
