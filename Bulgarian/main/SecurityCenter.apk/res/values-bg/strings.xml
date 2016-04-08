@@ -51,7 +51,7 @@
   <string name="apps_sort_type_title">Сортиране</string>
   <string name="battery_desc_apps">Батерия, използвана от приложението</string>
   <string name="battery_desc_bluetooth">Батерия, използвана от Bluetooth</string>
-  <string name="battery_desc_display">Батерия, използвана от дисплея и фоновото осветление</string>
+  <string name="battery_desc_display">Батерия, използвана от дисплея и подсветката</string>
   <string name="battery_desc_other_apps">Разход на батерия от други приложения</string>
   <string name="battery_desc_radio">Батерия, използване от клетъчно радио</string>
   <string name="battery_desc_standby">Използвана при неактивно устройство батерия</string>
