@@ -399,6 +399,6 @@
   <string name="user_notice_title">Предупреждение</string>
   <string name="user_notification">Предупреждение</string>
   <string name="user_notification_descrip">Показване на предупреждение при всяко отваряне на Календар</string>
-  <string name="image_content">Image</string>
-  <string name="set_as_wallpaper">Set as wallpaper</string>
+  <string name="image_content">Изображение</string>
+  <string name="set_as_wallpaper">Задаване като тапет</string>
 </resources>

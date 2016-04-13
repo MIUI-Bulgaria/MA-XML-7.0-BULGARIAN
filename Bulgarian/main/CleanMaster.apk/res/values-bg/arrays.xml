@@ -54,13 +54,13 @@
         <item>Покажи локацията на файла</item>
     </string-array>
     <string-array name="long_add_app_menu">
-        <item>Add app to exceptions</item>
+        <item>Добавяне на прил. към изключения</item>
     </string-array>
     <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
+        <item>Добавяне към изключения</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Clean up this file</item>
-        <item>Open</item>
+        <item>Почисти този файл</item>
+        <item>Отвори</item>
     </string-array>
 </resources>

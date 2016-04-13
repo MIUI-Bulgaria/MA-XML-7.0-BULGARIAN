@@ -21,12 +21,12 @@
         <item>Баба по майчина линия</item>
     </string-array>
     <string-array name="relation_with_me">
-        <item>Me</item>
-        <item>Child</item>
-        <item>Family</item>
-        <item>Collegues</item>
-        <item>Classmates</item>
-        <item>Friends</item>
-        <item>Unknown</item>
+        <item>Аз</item>
+        <item>Дете</item>
+        <item>Семейство</item>
+        <item>Колеги</item>
+        <item>Съученици</item>
+        <item>Приятели</item>
+        <item>Неизвестни</item>
     </string-array>
 </resources>
