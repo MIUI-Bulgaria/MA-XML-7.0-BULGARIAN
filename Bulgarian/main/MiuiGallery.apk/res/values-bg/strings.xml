@@ -1049,4 +1049,22 @@
   <string name="view_by_gallery_tip">MIUI Gallery</string>
   <string name="welcome">Добре дошли в Mi Cloud</string>
   <string name="xiaomi_account_not_exists_toast">"Не съществува Mi профил"</string>
+  <string name="auto_backup_introduce">Backup photos and videos automatically(Xiaomi account is needed)</string>
+  <string name="cloud_guide_login_title">Backup photos and videos automatically</string>
+  <string name="cloud_guide_slim_text">Backup automatically. Save more than 90% space by slimming.</string>
+  <string name="cloud_guide_slim_title">Enable album slimming to save %1$s</string>
+  <string name="enable_slim_title">Enable album slimming</string>
+  <string name="login_and_enable_service">Start to login and use MiCloud</string>
+  <string name="micloud_introduce">Backup photos and videos automatically(Xiaomi account is needed)</string>
+  <string name="share">Share</string>
+  <string name="slim_introduce">Replace full-resolution photos/videos in local with optimized versions after they have been backuped to Mi Cloud. Full-resolution ones are still stored in Mi Cloud. This can save more than 90% space(Xiaomi account is needed).</string>
+  <string name="slim_introduce_with_specific_size">Replace full-resolution photos/videos in local with optimized versions after they have been backuped to Mi Cloud. Full-resolution ones are still stored in Mi Cloud. This can save %1$s(Xiaomi account is needed).</string>
+  <string name="slim_now">Slim now</string>
+  <string name="slim_result_size">saved %1$s</string>
+  <string name="slim_result_title">Slimmed successfully</string>
+  <string name="slim_tip_msg">Albums will be slimmed automatically when WLAN is connected. Download full-resolution files by clicking \"Download photo\" menu in photo detail page.</string>
+  <string name="slim_tip_title">Slim tip</string>
+  <string name="slimming">Slimming…</string>
+  <string name="welcome_to_micloud">Welcome to MiCloud</string>
+  <string name="welcome_to_slim">Welcome to album slimming</string>
 </resources>

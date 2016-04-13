@@ -162,4 +162,9 @@
        <item>"WLAN usage "</item>
        <item>"Data saved "</item>
     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Always</item>
+        <item>For exceptions only</item>
+        <item>Never</item>
+    </string-array>
 </resources>

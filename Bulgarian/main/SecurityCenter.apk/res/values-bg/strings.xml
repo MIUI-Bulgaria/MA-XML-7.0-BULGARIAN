@@ -1544,4 +1544,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_exception_summary">Test available WLAN networks</string>
   <string name="wifi_exception_title">Test WLAN network</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
+  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms of Service&lt;/a&gt;."</string>
+  <string name="roaming_allow_network_dialog_title">Allow mobile data roaming?</string>
+  <string name="summary_app_lock_disable">Lock apps to protect your privacy</string>
+  <string name="title_app_lock_disable">Lock apps</string>
 </resources>
