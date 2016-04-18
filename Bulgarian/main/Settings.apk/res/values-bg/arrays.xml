@@ -412,66 +412,66 @@
         <item>Стартиране</item>
    </string-array>
    <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>местоположение с ниска точност</item>
+        <item>местоположение с висока точност</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>write contacts</item>
-        <item>read call log</item>
-        <item>write call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
-        <item>get usage stats</item>
-        <item>mute/unmute microphone</item>
+        <item>вибриране</item>
+        <item>четене на контактите</item>
+        <item>промяна на контактите</item>
+        <item>четене на списъка с обажданията</item>
+        <item>промяна на списъка с обажданията</item>
+        <item>четене на календара</item>
+        <item>промяна на календара</item>
+        <item>сканиране за Wi-Fi</item>
+        <item>известие</item>
+        <item>сканиране за сигнал</item>
+        <item>обаждане по телефона</item>
+        <item>четене на SMS</item>
+        <item>запис на SMS</item>
+        <item>получаване на SMS</item>
+        <item>получаване на спешен SMS</item>
+        <item>получаване на MMS</item>
+        <item>получаване на насочено WAP съобщение</item>
+        <item>изпращане на SMS</item>
+        <item>четене на ICC SMS</item>
+        <item>запис на ICC SMS</item>
+        <item>промяна на настройките</item>
+        <item>рисуване върху елемент</item>
+        <item>достъп до известията</item>
+        <item>камера</item>
+        <item>запис на звук</item>
+        <item>възпроизвеждане на звук</item>
+        <item>четене на буферната памет</item>
+        <item>промяна на буферната памет</item>
+        <item>бутони за мултимедия</item>
+        <item>фокусиране на звука</item>
+        <item>основна сила на звука</item>
+        <item>сила на звука за глас</item>
+        <item>сила на звука при звънене</item>
+        <item>сила на звука за мултимедия</item>
+        <item>сила на звука на будилника</item>
+        <item>сила на звука за известия</item>
+        <item>сила на звука за Bluetooth</item>
+        <item>оставяне в будно състояние</item>
+        <item>наблюдение на местоположението</item>
+        <item>наблюдение на заявките за местоположение, изразходващи много енергия</item>
+        <item>получаване на статистически данни за употребата</item>
+        <item>заглушаване/включване на микрофона</item>
         <item>toast window</item>
-        <item>project media</item>
-        <item>activate VPN</item>
-        <item>wlan change</item>
-        <item>bluetooth change</item>
-        <item>send MMS</item>
-        <item>read MMS</item>
-        <item>write MMS</item>
-        <item>auto start</item>
-        <item>nfc change</item>
-        <item>delete SMS</item>
-        <item>delete MMS</item>
-        <item>delete contacts</item>
-        <item>delete call log</item>
-        <item>data change</item>
+        <item>прожектиране на мултимедия</item>
+        <item>активиране на виртуална частна мрежа (VPN)</item>
+        <item>промяна на Wi-Fi</item>
+        <item>промяна на Bluetooth</item>
+        <item>изпращане на MMS</item>
+        <item>четене на MMS</item>
+        <item>запис на MMS</item>
+        <item>автоматично стартиране</item>
+        <item>промяна на NFC</item>
+        <item>изтриване на SMS</item>
+        <item>изтриване на MMS</item>
+        <item>изтриване на контактите</item>
+        <item>изтриване на списъка с обаждания</item>
+        <item>промяна на връзката за данни</item>
    </string-array>
    <string-array name="app_ops_labels">
         <item>Местоположение</item>
@@ -588,13 +588,13 @@
         <item>Външно хранилище</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Create a directory: mkdir /media/mtp</item>
-        <item>Confirm user group permissions in the current fuse user group</item>
-        <item>Sign in again</item>
-        <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
-        <item>"Uninstall device: fusermount -u /media/mtp
-Note: Only for Ubuntu 8.04!"</item>
+        <item>Инсталирайте инструмента: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Създайте директория: mkdir /media/mtp</item>
+        <item>Потвърдете груповите разрешения в текущата fuse потребителска група</item>
+        <item>Впишете се отново</item>
+        <item>Достъпете монтираната директория: mtpfs /media/mtp чрез файлове; също както локална директория</item>
+        <item>"Деинсталирайте устройството: fusermount -u /media/mtp
+Забележка: Само за Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Стандартни</item>
