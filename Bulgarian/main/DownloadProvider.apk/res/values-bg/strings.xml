@@ -76,8 +76,8 @@
     <string name="download_apk_desktop_pause">На пауза</string>
     <string name="download_apk_desktop_pending">Изчаква</string>
     <string name="download_apk_desktop_running">Изтегля се</string>
-    <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
-    <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
-    <string name="xl_speedup_notify_button_experience">Try for free</string>
-    <string name="xl_speedup_notify_button_member">Become a member</string>
+    <string name="xl_speedup_experience_notify_context">Скоростта е усилена за всяко изтегляне, ако сте Xunlei член</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei членство</string>
+    <string name="xl_speedup_notify_button_experience">Тествай пробен период</string>
+    <string name="xl_speedup_notify_button_member">Стани член</string>
 </resources>
