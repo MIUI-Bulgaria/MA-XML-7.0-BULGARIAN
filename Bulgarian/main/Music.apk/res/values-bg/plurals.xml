@@ -82,9 +82,9 @@
         <item quantity="one">Песента бе добавена към любими.</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">You can download %d Premium songs this month. Download selected songs?</item>
+        <item quantity="other">Можете да изтеглите  %d платени песни този месец. Изтегляне на избраните песни?</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">You can download %d Premium songs this month. Update your Premium subscription to download more.</item>
+        <item quantity="other">Можете да изтеглите %d платени песни този месец. Надстройте  вашия профил до Премиум абонамент за изтегляне на още.</item>
     </plurals>
 </resources>
