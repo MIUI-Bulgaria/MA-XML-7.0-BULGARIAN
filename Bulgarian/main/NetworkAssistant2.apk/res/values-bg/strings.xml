@@ -205,7 +205,7 @@ For more info check the message you received from your service provider"</string
   <string name="pref_special_traffic_limit_warn">Праг на предупреждение</string>
   <string name="pref_specified_adjust">Лимит за данни по избор</string>
   <string name="pref_specified_traffic_settings">Настройка на лимита за данни</string>
-  <string name="pref_title_declaration">Важно предупреждение</string>
+  <string name="pref_title_declaration">Отказ от отговорност</string>
   <string name="pref_title_mobile_traffic">Показване на трафика при закл. екран</string>
   <string name="pref_title_network_diagnostics">Диагностика на мрежата</string>
   <string name="pref_title_traffic_speed_state">Показване на скороста на мрежата</string>
@@ -368,7 +368,7 @@ For more info check the message you received from your service provider"</string
   <string name="alter_dialog_message">Свързването към услуги за данни в условия на международен роуминг може да доведе до високи такси от мобилния ви оператор. Разрешавате ли на приложенията в списъка на изключения да се свързват с услуги за данни при международен роуминг?</string>
   <string name="daily_limit_network_available_body">Докоснете за преглед на използваните данни.</string>
   <string name="daily_limit_over_message">Превишихте дневния си лимит за данни.</string>
-  <string name="dialog_app_roaming_message">Когато сте в усовия на международен роуминг, само добавените в списъка с изключения приложения ще могат да използват услугите за данни. %1$s не е добавено към списъка на изключенията. Преглед на списъка сега?</string>
+  <string name="dialog_app_roaming_message">Когато сте в условия на международен роуминг, само добавените в списъка с изключения приложения ще могат да използват услугите за данни. %1$s не е добавено към списъка на изключенията. Преглед на списъка сега?</string>
   <string name="dialog_app_roaming_title">Междунардният роуминг не е активиран за %1$s</string>
   <string name="dialog_roaming_message">Приложенията в списъка с изключения ще бъдат в състояние да се свързват към услугите за данни при международен роуминг. Да се добави ли приложението към списъка с изключения?</string>
   <string name="dialog_roaming_title">Международен роуминг</string>

@@ -89,82 +89,82 @@
         <item>Имейл</item>
     </string-array>
     <string-array name="date_of_app">
-       <item>Mobile data yesterday</item>
-       <item>Mobile data today</item>
-       <item>Mobile data this month</item>
+       <item>Мобилни данни вчера</item>
+       <item>Мобилни данни днес</item>
+       <item>Мобилни данни този месец</item>
     </string-array>
     <string-array name="date_of_app_all">
-       <item>Mobile data yesterday</item>
-       <item>Mobile data today</item>
-       <item>Mobile data this month</item>
-       <item>WLAN yesterday</item>
-       <item>WLAN today</item>
-       <item>WLAN this month</item>
+       <item>Мобилни данни вчера</item>
+       <item>Мобилни данни днес</item>
+       <item>Мобилни данни този месец</item>
+       <item>Wi-Fi вчера</item>
+       <item>Wi-Fi днес</item>
+       <item>Wi-Fi този месец</item>
     </string-array>
     <string-array name="date_of_traffic">
-       <item>"Yesterday "</item>
-       <item>"Today "</item>
-       <item>"This month "</item>
+       <item>"Вчера "</item>
+       <item>"Днес "</item>
+       <item>"Този месец "</item>
     </string-array>
     <string-array name="date_of_traffic_cmcc">
-       <item>"This week "</item>
-       <item>"Today "</item>
-       <item>"This month "</item>
+       <item>"Тази седмица "</item>
+       <item>"Днес "</item>
+       <item>"Този месец "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-       <item>"Yesterday: "</item>
-       <item>"Today: "</item>
-       <item>"This month: "</item>
+       <item>"Вчера: "</item>
+       <item>"Днес: "</item>
+       <item>"Този месец: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
-       <item>"This week: "</item>
-       <item>"Today: "</item>
-       <item>"This month: "</item>
+       <item>"Тази седмица: "</item>
+       <item>"Днес: "</item>
+       <item>"Този месец: "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-       <item>"Mobile usage "</item>
-       <item>"WLAN usage "</item>
+       <item>"Мобилни данни "</item>
+       <item>"Използване на Wi-Fi "</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-       <item>3 secs</item>
-       <item>4 secs</item>
-       <item>5 secs</item>
-       <item>6 secs</item>
-       <item>7 secs</item>
-       <item>8 secs</item>
-       <item>9 secs</item>
+       <item>3 сек</item>
+       <item>4 сек</item>
+       <item>5 сек</item>
+       <item>6 сек</item>
+       <item>7 сек</item>
+       <item>8 сек</item>
+       <item>9 сек</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-       <item>Show warning</item>
-       <item>Warn and turn off mobile data</item>
+       <item>Показване на предупреждение</item>
+       <item>Предупреждение и изкл. на моб. данни</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
-       <item>Most used</item>
-       <item>Name</item>
+       <item>Най-използвани</item>
+       <item>Име</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
-       <item>None</item>
-       <item>Low</item>
-       <item>Medium</item>
-       <item>High</item>
+       <item>Няма</item>
+       <item>Ниско</item>
+       <item>Средно</item>
+       <item>Високо</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-       <item>Get automatically</item>
-       <item>Set manually</item>
+       <item>Вземи автоматично</item>
+       <item>Задай ръчно</item>
     </string-array>
     <string-array name="traffic_sort_type">
-       <item>"Mobile data usage "</item>
-       <item>"WLAN usage "</item>
-       <item>"Data saved "</item>
+       <item>"Изп. мобилни данни "</item>
+       <item>"Изп. Wi-Fi "</item>
+       <item>"Спестени данни "</item>
     </string-array>
     <string-array name="traffic_type">
-       <item>"Mobile usage "</item>
-       <item>"WLAN usage "</item>
-       <item>"Data saved "</item>
+       <item>"Изп. мобилни данни "</item>
+       <item>"Изп. Wi-Fi "</item>
+       <item>"Спестени данни "</item>
     </string-array>
     <string-array name="roaming_network_type">
-        <item>Always</item>
-        <item>For exceptions only</item>
-        <item>Never</item>
+        <item>Винаги</item>
+        <item>Само за изключения</item>
+        <item>Никога</item>
     </string-array>
 </resources>
