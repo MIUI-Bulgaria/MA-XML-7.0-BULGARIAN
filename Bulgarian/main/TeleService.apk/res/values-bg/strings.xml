@@ -1395,7 +1395,6 @@ Use it for Top-up package?"</string>
   <string name="use_current_account_creat_livetalk_button">Use</string>
   <string name="use_history">Activity</string>
   <string name="use_history_duration_min">%1$s mins</string>
-  <string name="username">UserName</string>
   <string name="verified">Verified</string>
   <string name="verify_fialed">"Couldn't verify"</string>
   <string name="verifying">Verifying…</string>
