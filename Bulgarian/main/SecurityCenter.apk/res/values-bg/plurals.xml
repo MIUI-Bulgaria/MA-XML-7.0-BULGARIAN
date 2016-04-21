@@ -126,4 +126,8 @@
        <item quantity="other">Търсене на %d прил.</item>
        <item quantity="one">Търсене на %d прил.</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d прил. съдържат риск за поверителността</item>
+        <item quantity="one">%d прил. съдържа риск за поверителността</item>
+    </plurals>
 </resources>

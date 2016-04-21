@@ -390,4 +390,10 @@
   <string name="recommend_the_following">Направете следните действия, за да получите повече от вашето устройство</string>
   <string name="tips_of_app_manage">Изтриване на рядко използвани приложения за спестяване на място</string>
   <string name="title_of_app_manage">Приложения</string>
+  <string name="dialog_msg_esc_cleanmaster">Спиране на протичащото сканиране?</string>
+  <string name="dialog_title_esc_cleanmaster">Затвори cleanmaster</string>
+  <string name="optimizecenter_data_support_cm">С подкрепата на Clean Master</string>
+  <string name="optimizecenter_data_support_tc">С подкрепата на Tencent</string>
+  <string name="pref_category_title_engine_settings">Настройки на дефиниции за сканиране</string>
+  <string name="pref_title_choose_engine">Дефиниции</string>
 </resources>

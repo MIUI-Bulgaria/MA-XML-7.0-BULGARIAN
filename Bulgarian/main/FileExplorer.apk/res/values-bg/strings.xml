@@ -697,4 +697,12 @@
   <string name="video_replay">Пусни отново</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wxcircle_platform">Moments</string>
+  <string name="hottest_sticker_str">Популярни</string>
+  <string name="no_new_content_tip">Всички елементи са актуални</string>
+  <string name="share_title_1">Открит е пакет със стикери!</string>
+  <string name="system_sticker_control">Показване на популярни стикери</string>
+  <string name="system_sticker_control_tip">Показване на популярни стикери във Файлове</string>
+  <string name="system_video_control">Показване на популярни видеоклипове</string>
+  <string name="system_video_control_tip">Показване на популярни видеоклипове във Файлове</string>
+  <string name="tab_hottest_video">Популярни</string>
 </resources>

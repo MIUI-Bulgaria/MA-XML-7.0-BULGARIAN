@@ -87,4 +87,12 @@
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">Можете да изтеглите %d платени песни този месец. Надстройте  вашия профил до Премиум абонамент за изтегляне на още.</item>
     </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> изтеглени</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> изтеглена</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> се изтеглят</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> се изтегля</item>
+    </plurals>
 </resources>

@@ -1551,4 +1551,8 @@ For more info check the message you received from your carrier"</string>
   <string name="roaming_allow_network_dialog_title">Позволяване на роуминг за мобилни данни?</string>
   <string name="summary_app_lock_disable">Заключвайте приложения, за да защитите вашите лични данни</string>
   <string name="title_app_lock_disable">Заключване на прил.</string>
+  <string name="notification_item">Включване на закл. на прил.</string>
+  <string name="pm_auto_start_by_other">Автоматичен старт</string>
+  <string name="pm_auto_start_by_other_app">Разрешава прил. да се стартират от други прил.</string>
+  <string name="pm_auto_start_by_system_event">Разрешава прил. да стартират автоматично</string>
 </resources>
