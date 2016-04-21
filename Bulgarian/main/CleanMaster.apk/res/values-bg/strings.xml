@@ -396,4 +396,7 @@
   <string name="optimizecenter_data_support_tc">С подкрепата на Tencent</string>
   <string name="pref_category_title_engine_settings">Настройки на дефиниции за сканиране</string>
   <string name="pref_title_choose_engine">Дефиниции</string>
+  <string name="dialog_msg_add_white_list_error">Файлът не поддържа добавяне в изключения</string>
+  <string name="dialog_ok_add_white_list_error">Разбрах</string>
+  <string name="dialog_title_add_white_list_error">Внимание</string>
 </resources>
