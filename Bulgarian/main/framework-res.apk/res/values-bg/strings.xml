@@ -591,7 +591,7 @@
   <string name="mmiError">Има проблем с връзката или MMI кодът е невалиден.</string>
   <string name="mmiFdnError">Операцията е ограничена само до фиксираните номера за набиране.</string>
   <string name="mobile_redirected_provisioning_url">http://google.com</string>
-  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+  <string name="month_day_year" formatted="false">%-e. %B %Y</string>
   <string name="more_item_label">Още</string>
   <string name="muted_by">Muted by %1$s</string>
   <string name="needPuk">SIM картата ви е заключена с PUK. Въведете PUK кода, за да я отключите.</string>
