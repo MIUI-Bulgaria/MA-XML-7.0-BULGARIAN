@@ -30,13 +30,13 @@
         <item>Z</item>
     </string-array>
     <string-array name="education">
-       <item>Middle school</item>
-       <item>Prep school</item>
-       <item>High school</item>
-       <item>Vocational school</item>
-       <item>College</item>
-       <item>"Master's degree"</item>
-       <item>"Doctor's degree"</item>
+       <item>Гимназия</item>
+       <item>Начално училище</item>
+       <item>Университет</item>
+       <item>Професионална гимназия</item>
+       <item>Колеж</item>
+       <item>Магистърска степен</item>
+       <item>Докторска степен</item>
     </string-array>
     <string-array name="income">
        <item>&lt; 2000</item>
@@ -47,40 +47,40 @@
        <item>> 12000</item>
     </string-array>
     <string-array name="question_no1">
-       <item>Family</item>
-       <item>"Maternal grandmother's name"</item>
-       <item>"Maternal grandfather's name"</item>
-       <item>"Paternal grandfather's name"</item>
-       <item>"Paternal grandmother's name"</item>
-       <item>"Father's birthday"</item>
-       <item>"Mother's birthday"</item>
-       <item>"What is your parents' age difference (years and months)?"</item>
+       <item>Фамилно име</item>
+       <item>Моминско име на баба ви</item>
+       <item>Ергенско име на дядо ви</item>
+       <item>Име на бащата на дядо ви</item>
+       <item>Име на майката на баба ви</item>
+       <item>Рожденния ден на баща ви</item>
+       <item>Рожденния ден на майка ви</item>
+       <item>Каква е разликата във възрастта на родителите ви (в години и месеци)?"</item>
     </string-array>
     <string-array name="question_no2">
-       <item>Alma mater</item>
-       <item>What was the name of your class president in middle school?</item>
-       <item>What was the name of your class president in elementary school?</item>
-       <item>Your student ID number at college</item>
-       <item>"What's the name of your roommate at college?"</item>
-       <item>"What's the name of your supervisor at college?"</item>
+       <item>Университет</item>
+       <item>Име на класния ръководител в гимназията?</item>
+       <item>Име на класния ръководител в прогимназията?</item>
+       <item>Вашият студентски факултетен номер в Университета и/или Колежа?</item>
+       <item>Име на съквартиранта ви в Колежа?</item>
+       <item>Име на училищния инспектор в Колежа?</item>
     </string-array>
     <string-array name="question_no3">
-       <item>Personal info</item>
-       <item>How do your parents call you?</item>
-       <item>Last 6 digits of your passport number</item>
-       <item>In which hospital were you born?</item>
-       <item>"What's the name of your best friend?"</item>
+       <item>Лична информация</item>
+       <item>Как те наричат галено твоите родители?</item>
+       <item>Последните 6 цифри от номера на паспорта ви?</item>
+       <item>В коя болница сте роден/</item>
+       <item>Име на най-добрия ви приятел?</item>
     </string-array>
     <string-array name="question_no4">
-       <item>First times</item>
-       <item>"What's the name of your first pet?"</item>
-       <item>"What's the name of your first girlfriend/boyfriend?"</item>
-       <item>"What's the name of the company where you got your first job?"</item>
+       <item>Име</item>
+       <item>Име на първия ви домашен любимец?</item>
+       <item>Име на първата ви приятелка/приятел?</item>
+       <item>Име на първата ви работа?</item>
     </string-array>
     <string-array name="question_no5">
-       <item>Marriage</item>
-       <item>When did you get married?</item>
-       <item>"Your spouse's name"</item>
-       <item>"Your spouse's birthday"</item>
+       <item>Семейно положение</item>
+       <item>Къде сключихте брак?</item>
+       <item>Име на съпруг/съпруга?</item>
+       <item>Рожденият ден на съпруг/съпруга? </item>
     </string-array>
 </resources>
