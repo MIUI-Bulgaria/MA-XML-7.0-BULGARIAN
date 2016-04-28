@@ -1409,4 +1409,5 @@
   <string name="wifi_only">Само WiFi</string>
   <string name="wifi_pref_none">Няма избрани предпочитания</string>
   <string name="wifi_preferred">WiFi предпочитания</string>
+  <string name="call_record_loading_content">Зарежда се...</string>
 </resources>

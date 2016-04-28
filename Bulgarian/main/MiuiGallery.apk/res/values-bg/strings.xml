@@ -1067,4 +1067,7 @@
   <string name="slimming">Умаляване…</string>
   <string name="welcome_to_micloud">Добре дошли в  Mi Cloud.</string>
   <string name="welcome_to_slim">Добре дошли в умаления албум.</string>
+  <string name="adding">Добавяне</string>
+  <string name="delete_to_trash_tips">Можете да видите изтритите скоро синхронизирани снимки от кошчето в настройки</string>
+  <string name="video_edit_file_not_exits_tip">Първо трябва да изтеглите видеото</string>
 </resources>

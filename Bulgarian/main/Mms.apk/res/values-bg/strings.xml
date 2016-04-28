@@ -641,4 +641,9 @@
   <string name="title_recv_red_package">Получете Червен пакет</string>
   <string name="title_red_package">Getting rich and good luck</string>
   <string name="title_send_red_package">Проверка на Червен пакет</string>
+  <string name="add_to_browser_favorite_failed">неуспешно</string>
+  <string name="add_to_browser_favorite_success">успешно</string>
+  <string name="delete_wild_sims">Изтриване на номера</string>
+  <string name="delete_wild_sims_confirm">Всички съобщения от тези номера ще бъдат изтрити от вашия телефон. Можете да ги възстановите на i.mi.com.</string>
+  <string name="delete_wild_sims_title">Изтриване на избрани номера</string>  
 </resources>

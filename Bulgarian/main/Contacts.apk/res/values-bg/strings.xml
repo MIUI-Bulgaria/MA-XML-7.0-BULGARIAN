@@ -1338,4 +1338,9 @@
   <string name="unable_get_device_id">Неуспешно взимане на IMEI</string>
   <string name="import_vcard_dialog_message">Импортиране на vCard?</string>
   <string name="missing_required_permission">Деактивирали сте разрешение, което се изисква.</string>
+  <string name="export_to_storage">Експортиране в хранилището</string>
+  <string name="storage_internal_description">Вътрешно хранилище</string>
+  <string name="storage_sd_card">SD карта</string>
+  <string name="storage_sd_card_description">SD карта</string>
+  <string name="storage_usb_description">USB хранилище</string>
 </resources>
