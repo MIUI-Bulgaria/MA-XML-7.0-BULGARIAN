@@ -72,7 +72,7 @@
   <string name="directed_apps_remove">移 除</string>
   <string name="directed_apps_remove_succeed">移除成功</string>
   <string name="dont_save">不保存</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="exception_report_description">为了你能享受到流量宝提供的更好的服务，如果在使用中有任何问题，请你做出选择并上报问题，我们将竭诚为你服务。</string>
   <string name="exception_report_uploaded">异常信息已发送</string>
   <string name="home_header_bottom_message">今日节省:  %1$s      历史节省:  %2$s  (约%3$s元)</string>
@@ -441,8 +441,8 @@
   <string name="v2_dialog_app_blocked_dialog_button_right_text">联网%1$s分钟</string>
   <string name="v2_dialog_app_blocked_dialog_content">【%1$s】当前在%2$s下被禁止联网，你可以选择：</string>
   <string name="v2_dialog_app_blocked_title">流量宝提醒</string>
-  <string name="v2_ending_free" />
-  <string name="v2_ending_used" />
+  <string name="v2_ending_free"/>
+  <string name="v2_ending_used"/>
   <string name="v2_ending_used_with_divider">" / "</string>
   <string name="v2_feedback_chooser_prompt">Send feedback using</string>
   <string name="v2_feedback_disclaimer">"Here's some feedback on my Opera Max Beta for Android experience.

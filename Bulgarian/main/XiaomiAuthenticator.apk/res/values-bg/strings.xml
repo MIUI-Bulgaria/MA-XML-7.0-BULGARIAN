@@ -12,6 +12,8 @@
   <string name="app_name">Xiaomi Удостоверител</string>
   <string name="app_name_lockpattern">Фигура за закл.</string>
   <string name="app_name_short">Удостоверител</string>
+  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
+  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
   <string name="authenticator_page_reactivation">Активирай отново</string>
   <string name="button_add_account">Добавяне на профил</string>
   <string name="button_add_account_manual_entry">Ръчно добавяне на профил</string>
@@ -27,6 +29,7 @@
   <string name="check_code_menu_item">Проверка на ключа</string>
   <string name="check_code_title">Стойност за целостта</string>
   <string name="context_menu_remove_account">Премахване</string>
+  <string name="continue_btn">Продължи</string>
   <string name="copy_to_clipboard">Копиране в буфера</string>
   <string name="correct_enter_password">Правилна парола</string>
   <string name="correct_enter_update_password">Паролата е правилна</string>
@@ -108,6 +111,7 @@
   <string name="privacy_preference_title">Декларация за поверителност</string>
   <string name="progress_loading">Обработва се...</string>
   <string name="remove_Xiaomi_account_dialog_message">Премахването на профила ще &lt;b&gt;премахне възможността ви&lt;/b&gt; да генерирате кодове, но това &lt;b&gt;няма&lt;/b&gt; да изключи удостоверяването в 2 стъпки. Това може да ви попречи да влезете в профила си. &lt;p&gt; Преди премахване: &lt;ul&gt; &lt;li&gt;изключете двуфакторното удостоверяване на самоличността за този профил или&lt;/li&gt; &lt;li&gt;се уверете, че имате алтернативен механизъм за генериране на кодове.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account">Премахни профила</string>
   <string name="remove_account_dialog_button_remove">Премахване</string>
   <string name="remove_account_dialog_message">"Премахването на профила ще &lt;b>премахне възможността ви&lt;/b> да генерирате кодове, но &lt;b>няма&lt;/b> да изключи двуфакторното  удостоверяване на самоличността. Това може да ви попречи да влизате в профила. &lt;p> Преди премахването: &lt;ul> &lt;li>изключете двуфакторното удостоверяване на самоличността за този профил; или&lt;/li> &lt;li>се уверете, че разполагате с алтернативен механизъм за генериране на кодове.&lt;/li> &lt;/ul>"</string>
   <string name="remove_account_dialog_title">Да се премахне ли профила?</string>
@@ -121,6 +125,7 @@
   <string name="security_setting">Сигурност</string>
   <string name="settings_menu_item">Настройки</string>
   <string name="submit">Запазване</string>
+  <string name="success_copy_to_clipboard">Копирано в клипборда</string>
   <string name="success_reset_password">Паролата е нулирана</string>
   <string name="success_set_password">Паролата е настроена</string>
   <string name="summary_lockpattern">Изисква фигура за отключване за MiКредит</string>
@@ -134,12 +139,12 @@
   <string name="timesync_sync_now_connectivity_error_dialog_details">При свързването със сървъра на Google възникна проблем. Моля, проверете мрежовите си настройки и опитайте отново.</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Синхронизиране сега</string>
   <string name="timesync_sync_now_preference_title">Синхронизиране сега</string>
-  <string name="timesync_sync_now_progress_dialog_details">Установява се връзка със сървъра…</string>
+    <string name="timesync_sync_now_progress_dialog_details">Установява се връзка със сървъра…</string>
   <string name="timesync_sync_now_progress_dialog_title">Синхронизиране сега</string>
   <string name="timesync_sync_now_screen_title">Синхронизиране сега</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">Вътрешният часовник на Удостоверител не бе коригиран, защото изглежда, че вече е синхронизиран със сървърите на Google.</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Часът вече е правилен</string>
-    <string name="timesync_sync_now_time_corrected_dialog_details">"Вътрешният часовник на Удостоверител бе коригиран да съответства на часа, посочен от сървърите на Google. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Вътрешният часовник на Удостоверител бе коригиран да съответства на часа, посочен от сървърите на Google. 
 
 Настройките за датата и часа на устройството не бяха променени."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Часът бе поправен</string>
@@ -166,9 +171,4 @@
   <string name="welcome_page_alert">&lt;font color=#fb3500>Забележка:&lt;/font>Не изтривайте ключа, в противен случай няма как да влезете</string>
   <string name="welcome_page_details">Потвърждаването в две стъпки защитава профила ви в Xiaomi дори ако паролата ви бъде открадната.</string>
   <string name="welcome_page_title">Всеки ден защитата на хиляди профили бива пробита.</string>
-  <string name="continue_btn">Продължи</string>
-  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
-  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
-  <string name="remove_account">Премахни профила</string>
-  <string name="success_copy_to_clipboard">Копирано в клипборда</string>
 </resources>

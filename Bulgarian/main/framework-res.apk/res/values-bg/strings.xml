@@ -61,7 +61,7 @@
   <string name="add_account_label">Добавяне на профил</string>
   <string name="aerr_application">За съжаление %1$s спря.</string>
   <string name="aerr_process">За съжаление процесът %1$s спря.</string>
-  <string name="aerr_title" />
+  <string name="aerr_title"/>
   <string name="allow">Разрешаване</string>
   <string name="alwaysUse">Използване по подразбиране за това действие.</string>
   <string name="android_start_title">Android се стартира…</string>
@@ -81,7 +81,8 @@
   <string name="anr_process">"Процесът „%1$s“ не отговаря.
 
 Искате ли да го затворите?"</string>
-  <string name="anr_title" />
+  <string name="anr_title"/>
+  <string name="app_no_restricted_accounts">Това приложение не поддържа профили за потребителски профили с ограничена функционалност</string>
   <string name="app_not_found">Няма намерено приложение за извършване на това действие</string>
   <string name="app_running_notification_text">Докоснете за още информация или за да спрете приложението.</string>
   <string name="app_running_notification_title">%1$s се изпълнява</string>
@@ -137,7 +138,9 @@
   <string name="choose_account_label">Избор на профил</string>
   <string name="chooser_wallpaper">Промяна на тапета</string>
   <string name="clearDefaultHintMsg">Изчистване на стандартната настройка в „Системни настройки“ > „Приложения“ > „Изтеглени“.</string>
-  <string name="common_last_name_prefixes" />
+  <string name="close_miui_optimization_title">Изключи MIUI оптимизация</string>
+  <string name="close_miui_optimization_warning_message">Устройството ще се рестартира, за да приложи промяната. Забележка: изключването на тази функция ще доведе до промени в оформлението и други елементи на интерфейса.</string>
+  <string name="common_last_name_prefixes"/>
   <string name="common_name">Общо име:</string>
   <string name="condition_provider_service_binding_label">Доставчик на условия</string>
   <string name="configure_input_methods">Методи на въвеждане: Настройка</string>
@@ -190,6 +193,15 @@
   <string name="deleteText">Изтриване</string>
   <string name="deleted_key">Изтрихте %1$s</string>
   <string name="deny">Отказване</string>
+  <string name="description_direction_down">Плъзнете надолу за %s.</string>
+  <string name="description_direction_left">Плъзнете наляво за %s.</string>
+  <string name="description_direction_right">Плъзнете надясно за %s.</string>
+  <string name="description_direction_up">Плъзнете нагоре за: %s.</string>
+  <string name="description_target_camera">Камера</string>
+  <string name="description_target_search">Търсене</string>
+  <string name="description_target_silent">Тих режим</string>
+  <string name="description_target_soundon">Включване на звука</string>
+  <string name="description_target_unlock">Отключване</string>
   <string name="description_target_unlock_tablet">Прокарайте пръст, за да отключите.</string>
   <string name="dial_number_using">"Набиране
 с използване на %s"</string>
@@ -273,11 +285,13 @@
   <string name="find_next">Търсене на следващото</string>
   <string name="find_on_page">Намиране в страницата</string>
   <string name="find_previous">Търсене на предишното</string>
+  <string name="fingerprint_identify_msg">Сканиране на отпечатък…</string>
   <string name="fingerprints">Пръстови отпечатъци:</string>
   <string name="force_close">OK</string>
   <string name="format_error">USB хранилището не можа да бъде изтрито.</string>
   <string name="forward_intent_to_owner">Използвате това приложение извън служебния си потребителски профил</string>
   <string name="forward_intent_to_work">Използвате това приложение в служебния си потребителски профил</string>
+  <string name="free_xiaomi_wifi_connect_summary">Чукнет за свързване с %1$s.</string>
   <string name="gadget_host_error_inflating">Приспособлението не можа да бъде добавено.</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="global_action_bug_report">Сигнал за програмна грешка</string>
@@ -305,7 +319,7 @@
   <string name="granularity_label_line">ред</string>
   <string name="granularity_label_link">връзка</string>
   <string name="granularity_label_word">дума</string>
-  <string name="gsm_alphabet_default_charset" />
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Хардуер</string>
   <string name="heavy_weight_notification">%1$s се изпълнява</string>
   <string name="heavy_weight_notification_detail">Докоснете за превключване към приложение</string>
@@ -462,6 +476,8 @@
   <string name="launch_warning_title">Приложението се пренасочи</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Зарежда се...</string>
+  <string name="location_usage_restricted_body">Разрешаване</string>
+  <string name="location_usage_restricted_title">Местоп. на заден план е ограничено</string>
   <string name="lock_to_app_description">"Фиксирането на екрана заключва дисплея в един изглед.
 
 За да го освободите, докоснете и задръжте едновременно бутона за връщане назад и този за общ преглед."</string>
@@ -469,7 +485,10 @@
 
 За да го освободите, докоснете и задръжте бутона за общ преглед."</string>
   <string name="lock_to_app_exit">Екранът е освободен</string>
+  <string name="lock_to_app_negative">НЕ</string>
+  <string name="lock_to_app_positive">СТАРТ</string>
   <string name="lock_to_app_start">Екранът е фиксиран</string>
+  <string name="lock_to_app_title">Използвай закачане на екрана?</string>
   <string name="lock_to_app_toast">За да освободите екрана, докоснете и задръжте едновременно бутона за връщане назад и този за общ преглед.</string>
   <string name="lock_to_app_toast_accessible">За да освободите този екран, докоснете и задръжте бутона „Общ преглед“.</string>
   <string name="lock_to_app_toast_locked">Екранът е фиксиран. Освобождаването не е разрешено от организацията ви.</string>
@@ -481,7 +500,9 @@
   <string name="lockscreen_access_pattern_detected">Фигурата е завършена</string>
   <string name="lockscreen_access_pattern_start">Фигурата е започната</string>
   <string name="lockscreen_airplane_mode_on">Самолетен режим</string>
+  <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">Няма покритие.</string>
+  <string name="lockscreen_charged">Заредена батерия</string>
   <string name="lockscreen_emergency_call">Спешно обаждане</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Направихте опит да отключите телефона неправилно %d пъти. След още %d неуспешни опита ще бъдат възстановени стандартните му фабрични настройки и всички потребителски данни ще бъдат заличени.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Начертахте неправилно фигурата си за отключване %d пъти. След още %d неуспешни опита ще бъдете помолени да отключите телефона посредством данните си за вход в Google.
@@ -501,6 +522,7 @@
   <string name="lockscreen_glogin_username_hint">Потребителско име (имейл)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Натиснете „Меню“, за да отключите.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Натиснете „Меню“, за да отключите или да извършите спешно обаждане.</string>
+  <string name="lockscreen_low_battery">Свържете зарядното си устройство.</string>
   <string name="lockscreen_missing_sim_instructions">Поставете SIM карта.</string>
   <string name="lockscreen_missing_sim_instructions_long">SIM картата липсва или е нечетлива. Поставете SIM карта.</string>
   <string name="lockscreen_missing_sim_message">В телефона няма SIM карта.</string>
@@ -513,6 +535,7 @@
   <string name="lockscreen_permanent_disabled_sim_instructions">"SIM картата ви е деактивирана за постоянно.
 Свържете се с оператора на безжичната си връзка, за да получите друга."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
+  <string name="lockscreen_plugged_in">Зарежда се, %d%%</string>
   <string name="lockscreen_return_to_call">Назад към обаждането</string>
   <string name="lockscreen_screen_locked">Екранът е заключен.</string>
   <string name="lockscreen_sim_error_message_short">Невалидна карта.</string>
@@ -587,6 +610,7 @@
   <string name="minute_picker_description">Кръгов плъзгач за минутите</string>
   <string name="minutes">мин</string>
   <string name="mismatchPin">Въведените от вас ПИН кодове не са идентични.</string>
+  <string name="miui_experience_optimization">Включи MIUI оптимизация</string>
   <string name="mmiComplete">MMI кодът се изпълни.</string>
   <string name="mmiError">Има проблем с връзката или MMI кодът е невалиден.</string>
   <string name="mmiFdnError">Операцията е ограничена само до фиксираните номера за набиране.</string>
@@ -620,7 +644,12 @@
   <string name="old_app_description">Новото приложение да не се стартира.</string>
   <string name="older">По-стари</string>
   <string name="oneMonthDurationPast">Преди 1 месец</string>
+  <string name="open_miui_optimization_title">Включи MIUI оптимизация</string>
+  <string name="open_miui_optimization_warning_message">Устройството ще се рестартира, за да приложи промяната</string>
   <string name="open_permission_deny">Нямате разрешение да отворите тази страница.</string>
+  <string name="optimization_cancel">Отказ</string>
+  <string name="optimization_close">Изключи и рестартирай</string>
+  <string name="optimization_open">Включи</string>
   <string name="orgTypeCustom">По избор</string>
   <string name="orgTypeOther">Друго</string>
   <string name="orgTypeWork">Работа</string>
@@ -683,6 +712,7 @@
   <string name="permdesc_bindVoiceInteraction">Разрешава на притежателя да се свърже с интерфейса от най-високото ниво на услуга за гласово взаимодействие. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
   <string name="permdesc_bindVpnService">Разрешава на притежателя да се обвърже с интерфейса от най-високото ниво на услуга за VPN. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
   <string name="permdesc_bindWallpaper">Разрешава на притежателя да се обвърже с интерфейса от най-високото ниво на тапет. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
+  <string name="permdesc_bind_call_service">Разрешава на приложението да контролира кога и как потребителят вижда екрана за обаждане.</string>
   <string name="permdesc_bind_connection_service">Разрешава на приложението да взаимодейства с телефонни услуги за извършване/получаване на обаждания.</string>
   <string name="permdesc_bind_incall_service">Разрешава на приложението да контролира кога и как потребителят вижда екрана за обаждане.</string>
   <string name="permdesc_bind_trust_agent_service">Разрешава на приложението да се обвърже с услуга за надежден агент.</string>
@@ -693,6 +723,7 @@
   <string name="permdesc_bodySensors">Разрешава на приложението да осъществява достъп до данните от сензорите, които следят физическото ви състояние, като например сърдечния ви ритъм.</string>
   <string name="permdesc_brick">Разрешава на приложението да деактивира целия телефон за постоянно. Това е много опасно.</string>
   <string name="permdesc_broadcastPackageRemoved">Разрешава на приложението да излъчи известие, че е премахнат пакет на приложение. Злонамерените приложения могат да използват това, за да прекратят всяко друго изпълнявано приложение.</string>
+  <string name="permdesc_broadcastScoreNetworks">Allows the app to broadcast a notification that networks need to be scored. Never needed for normal apps.</string>
   <string name="permdesc_broadcastSmsReceived">Разрешава на приложението да излъчва известие, че е получен SMS. Злонамерените приложения могат да използват това, за да фалшифицират входящите SMS съобщения.</string>
   <string name="permdesc_broadcastSticky">Разрешава на приложението да изпраща оставащи излъчвания, които се запазват след края на излъчването. Прекалената употреба може да причини бавна или нестабилна работа на телефона, като го накара да използва твърде много памет.</string>
   <string name="permdesc_broadcastWapPush">Разрешава на приложението да излъчва известие, че е получено WAP PUSH съобщение. Злонамерените приложения могат да използват това, за да фалшифицират получаването на MMS или скрито да заменят съдържанието на произволна уеб страница със злонамерен вариант.</string>
@@ -761,17 +792,20 @@
   <string name="permdesc_killBackgroundProcesses">Разрешава на приложението да прекратява намиращи се на заден план процеси на други приложения. Това може да доведе до спиране на тяхното изпълняване.</string>
   <string name="permdesc_launch_trust_agent_settings">Разрешава на приложението да стартира активност, която променя поведението на надеждния агент.</string>
   <string name="permdesc_locationUpdates">Разрешава на приложението да активира или деактивира известията за актуализиране на местоположението от радиомодула. Не е предназначено за нормални приложения.</string>
+  <string name="permdesc_magnify_display">Разрешава на приложението да променя мащаба на съдържанието на дисплей. Злонамерените приложения може да преобразят съдържанието на дисплея по начин, който изобразява устройството като неизползваемо.</string>
   <string name="permdesc_manageAccounts">Разрешава на приложението да извършва операции като добавяне и премахване на профили и изтриване на паролите им.</string>
   <string name="permdesc_manageActivityStacks">Разрешава на приложението да добавя, премахва и променя стековете за активност, в които се изпълняват другите приложения. Работата им може да бъде нарушена от злонамерени приложения.</string>
   <string name="permdesc_manageAppTokens">Разрешава на приложението да създава и управлява собствени означения, заобикаляйки нормалния им z-ред. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
   <string name="permdesc_manageCaCertificates">Разрешава на приложението да инсталира и деинсталира сертификати от сертифициращи органи като надеждни идентификационни данни.</string>
   <string name="permdesc_manageDeviceAdmins">Разрешава на притежателя да добавя или премахва администратори на активни устройства. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
   <string name="permdesc_manageDocs">Разрешава на приложението да управлява хранилището с документи.</string>
+  <string name="permdesc_manageLocationPolicy">Позволява на приложението да управлява политиките за местоположение и да дефинира специфични за него правила.</string>
   <string name="permdesc_manageMediaProjection">Разрешава на приложението да управлява сесии за прожектиране на мултимедия. Те могат да предоставят на приложенията възможността да заснемат екрана и да записват аудиосъдържание. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
   <string name="permdesc_manageNetworkPolicy">Разрешава на приложението да управлява правилата на мрежата и да определя такива за конкретно приложение.</string>
   <string name="permdesc_manageUsb">Разрешава на приложението да управлява предпочитанията и разрешенията за USB устройства.</string>
   <string name="permdesc_manageUsers">Разрешава на приложенията да управляват потребителите на устройството, включително изброяването, създаването и изтриването им.</string>
   <string name="permdesc_manageVoiceKeyphrases">Разрешава на притежателя да управлява ключовите фрази за функцията за откриване на произнесени активиращи думи. Нормалните приложения би трябвало никога да не се нуждаят от това.</string>
+  <string name="permdesc_markNetworkSocket">Разрешава на приложението да променя означенията на сокетите за маршрутизиране.</string>
   <string name="permdesc_masterClear">Разрешава на приложението изцяло да възстанови системата до фабричните настройки, изтривайки всички данни, конфигурацията и инсталираните приложения.</string>
   <string name="permdesc_mediaContentControl">Разрешава на приложението да контролира възпроизвеждането на мултимедия и да осъществява достъп до информацията за нея (заглавие, автор).</string>
   <string name="permdesc_mediaStorageWrite">Разрешава на приложението да променя съдържанието на вътрешното мултимедийно хранилище.</string>
@@ -825,6 +859,7 @@
   <string name="permdesc_reorderTasks">Разрешава на приложението да прехвърля задачи на преден и на заден план. То може да направи това без вашето потвърждение.</string>
   <string name="permdesc_retrieveWindowToken">Разрешава на приложението да извлича означението за прозорци. Представяйки се за системата, злонамерените приложения може да извършат неупълномощено взаимодействие с прозореца на приложението.</string>
   <string name="permdesc_retrieve_window_content">Разрешава на приложението да извлича съдържанието от активния прозорец. Злонамерените приложения могат да извлекат цялото му съдържание и да проследят целия текст в него освен паролите.</string>
+  <string name="permdesc_retrieve_window_info">Разрешава на приложението да извлича информация за прозорците от съответния мениджър. Злонамерените приложения може да извличат данни, които са предназначени за вътрешно използване от системата.</string>
   <string name="permdesc_route_media_output">Разрешава на приложението да насочва изходящата мултимедия към други външни устройства.</string>
   <string name="permdesc_runSetActivityWatcher">Разрешава на приложението да наблюдава и контролира как системата стартира дейности. Злонамерените приложения могат изцяло да компрометират системата. Това разрешение е нужно само за програмиране, никога за нормална употреба.</string>
   <string name="permdesc_scoreNetworks">Разрешава на приложението да класира мрежите и да повлияе върху това, кои да са предпочитаните за телефона.</string>
@@ -1000,6 +1035,7 @@
   <string name="permlab_bindVoiceInteraction">свързване с услуга за гласово взаимодействие</string>
   <string name="permlab_bindVpnService">обвързване с услуга за VPN</string>
   <string name="permlab_bindWallpaper">обвързване с тапет</string>
+  <string name="permlab_bind_call_service">взаимодействие с екрана за обаждане</string>
   <string name="permlab_bind_connection_service">взаимодействие с телефонни услуги</string>
   <string name="permlab_bind_incall_service">взаимодействие с екрана за обаждане</string>
   <string name="permlab_bind_trust_agent_service">Обвързване с услуга за надежден агент</string>
@@ -1010,6 +1046,7 @@
   <string name="permlab_bodySensors">телесни сензори (като монитори за сърдечния ритъм)</string>
   <string name="permlab_brick">деактивиране на телефона за постоянно</string>
   <string name="permlab_broadcastPackageRemoved">изпращане на излъчване при премахнат пакет</string>
+  <string name="permlab_broadcastScoreNetworks">send score networks broadcast</string>
   <string name="permlab_broadcastSmsReceived">изпращане на излъчване при получен SMS</string>
   <string name="permlab_broadcastSticky">изпращане на оставащи излъчвания</string>
   <string name="permlab_broadcastWapPush">изпращане на излъчване при получено WAP PUSH</string>
@@ -1078,17 +1115,20 @@
   <string name="permlab_killBackgroundProcesses">затваряне на другите приложения</string>
   <string name="permlab_launch_trust_agent_settings">Стартиране на менюто за настройки за надежден агент.</string>
   <string name="permlab_locationUpdates">контролиране на известията за актуализиране на местоположението</string>
+  <string name="permlab_magnify_display">промяна на мащаба на дисплея</string>
   <string name="permlab_manageAccounts">добавяне или премахване на профили</string>
   <string name="permlab_manageActivityStacks">управление на стековете за активност</string>
   <string name="permlab_manageAppTokens">управление на означенията на приложения</string>
   <string name="permlab_manageCaCertificates">управление на надеждните идентификационни данни</string>
   <string name="permlab_manageDeviceAdmins">добавяне или премахване на администратор на устройства</string>
   <string name="permlab_manageDocs">управл. на хранил. с документи</string>
+  <string name="permlab_manageLocationPolicy">управление на местоположения</string>
   <string name="permlab_manageMediaProjection">Управление на сесии за прожектиране на мултимедия</string>
   <string name="permlab_manageNetworkPolicy">управление на правилата на мрежата</string>
   <string name="permlab_manageUsb">управление на предпочитанията и разрешенията за USB устройства</string>
   <string name="permlab_manageUsers">управление на потребителите</string>
   <string name="permlab_manageVoiceKeyphrases">управление на гласовите ключови фрази</string>
+  <string name="permlab_markNetworkSocket">промяна на означенията на сокетите</string>
   <string name="permlab_masterClear">възстановяване на системата до стандартните фабрични настройки</string>
   <string name="permlab_mediaContentControl">контролиране на възпроизвеждането на мултимедия и достъпа до метаданните</string>
   <string name="permlab_mediaStorageWrite">пром./изтр. на съдърж. на вътр. мултим. хранил.</string>
@@ -1142,6 +1182,7 @@
   <string name="permlab_reorderTasks">пренареждане на изпълняваните приложения</string>
   <string name="permlab_retrieveWindowToken">извличане на означението за прозорци</string>
   <string name="permlab_retrieve_window_content">извличане на съдържанието на екрана</string>
+  <string name="permlab_retrieve_window_info">извличане на информация за прозорците</string>
   <string name="permlab_route_media_output">Насочване на изходящата мултимедия</string>
   <string name="permlab_runSetActivityWatcher">наблюдение и контрол на стартирането на всички приложения</string>
   <string name="permlab_scoreNetworks">оценяване на мрежите</string>
@@ -1228,6 +1269,8 @@
   <string name="phoneTypeWork">Служебен</string>
   <string name="phoneTypeWorkMobile">Служебен мобилен</string>
   <string name="phoneTypeWorkPager">Служебен пейджър</string>
+  <string name="pinpuk_attempts">"
+Остават: "</string>
   <string name="policydesc_disableCamera">Предотвратява употребата на камерите на всички устройства.</string>
   <string name="policydesc_disableKeyguardFeatures">Предотвратява използването на някои функции при защита на клавишите.</string>
   <string name="policydesc_encryptedStorage">Изисква съхраняваните данни за приложенията да бъдат шифровани.</string>
@@ -1258,6 +1301,8 @@
   <string name="preposition_for_date">на %s</string>
   <string name="preposition_for_time">в %s</string>
   <string name="preposition_for_year">през %s</string>
+  <string name="print_enable">Активиране на отпечатване</string>
+  <string name="print_remind">Първо активирайте отпечатване</string>
   <string name="print_service_installed_message">Докоснете за активиране</string>
   <string name="print_service_installed_title">Услугата %s е инсталирана</string>
   <string name="progress_erasing">USB хранилището се изтрива...</string>
@@ -1268,6 +1313,7 @@
   <string name="reason_service_unavailable">Услугата за отпечатване не е активирана</string>
   <string name="reason_unknown">неизвестно</string>
   <string name="reboot_confirm">Телефонът ви ще се рестартира.</string>
+  <string name="reboot_progress">Рестарт...</string>
   <string name="reboot_safemode_confirm">Искате ли да рестартирате в безопасен режим? Това ще деактивира всички инсталирани от вас приложения на трети страни. Те ще бъдат възстановени, когато рестартирате отново.</string>
   <string name="reboot_safemode_title">Рестартиране в безопасен режим</string>
   <string name="reboot_title">Рестарт</string>
@@ -1423,7 +1469,11 @@
   <string name="stk_cc_ussd_to_dial">USSD заявката е преобразувана в DIAL заявка.</string>
   <string name="stk_cc_ussd_to_ss">USSD заявката е преобразувана в SS заявка.</string>
   <string name="stk_cc_ussd_to_ussd">USSD заявката е преобразувана в нова USSD заявка.</string>
+  <string name="storage_external_usb">Външно USB хранилище</string>
+  <string name="storage_ic_usb1">Външно IC-USB хранилище 1</string>
+  <string name="storage_ic_usb2">Външно IC-USB хранилище 2</string>
   <string name="storage_internal">Вътрешно хранилище</string>
+  <string name="storage_phone">Съхранение в телефона</string>
   <string name="storage_sd_card">SD карта</string>
   <string name="storage_uicc">UICC хранилище</string>
   <string name="storage_usb">USB хранилище</string>
@@ -1444,6 +1494,10 @@
   <string name="tethered_notification_title">Има активна споделена връзка или безжична точка за достъп</string>
   <string name="textSelectionCABTitle">Избиране на текст</string>
   <string name="text_copied">Текстът е копиран в буферната памет.</string>
+  <string name="throttle_warning_notification_message">Докоснете, за да научите повече за употребата на мобилни данни.</string>
+  <string name="throttle_warning_notification_title">Голям обем на мобилния трафик на данни</string>
+  <string name="throttled_notification_message">Докоснете, за да научите повече за употребата на мобилни данни.</string>
+  <string name="throttled_notification_title">Лимитът за мобилния трафик на данни бе надхвърлен</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Намаляване на часовете</string>
   <string name="time_picker_decrement_minute_button">Намаляване на минутите</string>
@@ -1454,6 +1508,7 @@
   <string name="time_picker_increment_set_pm_button">Задаване на PM</string>
   <string name="time_placeholder">--</string>
   <string name="toolbar_collapse_description">Свиване</string>
+  <string name="transient_navigation_confirmation_long">Плъзнете от края на екрана, за да се покаже панела за навигация</string>
   <string name="turn_off_radio">Изключване на радиото</string>
   <string name="turn_on_radio">Включване на радиото</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Докоснете двукратно за управление на промяната на мащаба</string>
@@ -1481,6 +1536,7 @@
   <string name="usb_storage_stop_title">USB устройството за съхранение се използва</string>
   <string name="usb_storage_title">Връзка през USB</string>
   <string name="use_a_different_app">Използване на друго приложение</string>
+  <string name="use_physical_keyboard">Физическа клавиатура</string>
   <string name="user_owner_label">Лични приложения</string>
   <string name="user_switched">Текущ потребител %1$s.</string>
   <string name="user_switching_message">Превключва се към %1$s…</string>
@@ -1509,111 +1565,11 @@
   <string name="vpn_title_long">VPN е активирана от %s</string>
   <string name="wait">Изчакване</string>
   <string name="wallpaper_binding_label">Тапет</string>
+  <string name="web_user_agent_target_content">"Mobile "</string>
   <string name="webpage_unresponsive">"Страницата не отговаря.
 
 Искате ли да я затворите?"</string>
   <string name="websearch">Уеб търсене</string>
-  <string name="week">седмица</string>
-  <string name="weeks">седмици</string>
-  <string name="whichApplication">Изпълняване на действието чрез</string>
-  <string name="whichApplicationNamed">Завършване на действието посредством %1$s</string>
-  <string name="whichEditApplication">Редактиране чрез</string>
-  <string name="whichEditApplicationNamed">Редактиране чрез %1$s</string>
-  <string name="whichHomeApplication">Избиране на приложение за начало</string>
-  <string name="whichHomeApplicationNamed">Използване на %1$s като начално приложение</string>
-  <string name="whichSendApplication">Споделяне чрез</string>
-  <string name="whichSendApplicationNamed">Споделяне чрез %1$s</string>
-  <string name="whichViewApplication">Отваряне чрез</string>
-  <string name="whichViewApplicationNamed">Отваряне чрез %1$s</string>
-  <string name="widget_default_class_name" />
-  <string name="widget_default_package_name" />
-  <string name="wifi_available_sign_in">Влизане в Wi-Fi мрежа</string>
-  <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
-  <string name="wifi_p2p_enabled_notification_message">Докоснете за настройки</string>
-  <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct е включено</string>
-  <string name="wifi_p2p_enter_pin_message">Въведете задължителния ПИН:</string>
-  <string name="wifi_p2p_failed_message">Wi-Fi Direct не можа да се стартира.</string>
-  <string name="wifi_p2p_frequency_conflict_message">Телефонът временно ще прекрати връзката с Wi-Fi, докато е свързан с/ъс %1$s</string>
-  <string name="wifi_p2p_from_message">От:</string>
-  <string name="wifi_p2p_invitation_sent_title">Поканата е изпратена</string>
-  <string name="wifi_p2p_invitation_to_connect_title">Покана за свързване</string>
-  <string name="wifi_p2p_show_pin_message">ПИН:</string>
-  <string name="wifi_p2p_to_message">До:</string>
-  <string name="wifi_p2p_turnon_message">Стартиране на Wi-Fi Direct. Това ще изключи клиентската програма/точката за достъп до Wi-Fi.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
-  <string name="wifi_watchdog_network_disabled">Не можа да се свърже с Wi-Fi</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" има лоша връзка с интернет."</string>
-  <string name="wireless_display_route_description">Безжичен дисплей</string>
-  <string name="work_profile_deleted">Служебният потребителски профил е изтрит</string>
-  <string name="work_profile_deleted_description">Служебният потребителски профил е изтрит поради липса на администраторско приложение.</string>
-  <string name="work_profile_deleted_details">Администраторското приложение на служебния потребителски профил липсва или е повредено. В резултат на това той и свързаните с него данни са изтрити. За съдействие се свържете с администратора си.</string>
-  <string name="write_fail_reason_cancelled">Анулирано</string>
-  <string name="write_fail_reason_cannot_write">Грешка при записване на съдържанието</string>
-  <string name="year">година</string>
-  <string name="year_picker_description">Списък с години</string>
-  <string name="years">години</string>
-  <string name="yes">OK</string>
-  <string name="zen_mode_forever">За неопределено време</string>
-  <string name="zen_mode_next_alarm_line_one">До следващия будилник</string>
-  <string name="zen_mode_next_alarm_summary">До следващия будилник в %1$s</string>
-  <string name="zen_mode_until">До %1$s</string>
-  <string name="close_miui_optimization_title">Изключи MIUI оптимизация</string>
-  <string name="close_miui_optimization_warning_message">Устройството ще се рестартира, за да приложи промяната. Забележка: изключването на тази функция ще доведе до промени в оформлението и други елементи на интерфейса.</string>
-  <string name="fingerprint_identify_msg">Сканиране на отпечатък…</string>
-  <string name="free_xiaomi_wifi_connect_summary">Чукнет за свързване с %1$s.</string>
-  <string name="miui_experience_optimization">Включи MIUI оптимизация</string>
-  <string name="open_miui_optimization_title">Включи MIUI оптимизация</string>
-  <string name="open_miui_optimization_warning_message">Устройството ще се рестартира, за да приложи промяната</string>
-  <string name="optimization_cancel">Отказ</string>
-  <string name="optimization_close">Изключи и рестартирай</string>
-  <string name="optimization_open">Включи</string>
-  <string name="print_enable">Активиране на отпечатване</string>
-  <string name="print_remind">Първо активирайте отпечатване</string>
-  <string name="app_no_restricted_accounts">Това приложение не поддържа профили за потребителски профили с ограничена функционалност</string>
-  <string name="description_direction_down">Плъзнете надолу за %s.</string>
-  <string name="description_direction_left">Плъзнете наляво за %s.</string>
-  <string name="description_direction_right">Плъзнете надясно за %s.</string>
-  <string name="description_direction_up">Плъзнете нагоре за: %s.</string>
-  <string name="description_target_camera">Камера</string>
-  <string name="description_target_search">Търсене</string>
-  <string name="description_target_silent">Тих режим</string>
-  <string name="description_target_soundon">Включване на звука</string>
-  <string name="description_target_unlock">Отключване</string>
-  <string name="location_usage_restricted_body">Разрешаване</string>
-  <string name="location_usage_restricted_title">Местоп. на заден план е ограничено</string>
-  <string name="lock_to_app_negative">НЕ</string>
-  <string name="lock_to_app_positive">СТАРТ</string>
-  <string name="lock_to_app_title">Използвай закачане на екрана?</string>
-  <string name="lockscreen_battery_short">%d %%</string>
-  <string name="lockscreen_charged">Заредена батерия</string>
-  <string name="lockscreen_low_battery">Свържете зарядното си устройство.</string>
-  <string name="lockscreen_plugged_in">Зарежда се, %d%%</string>
-  <string name="permdesc_bind_call_service">Разрешава на приложението да контролира кога и как потребителят вижда екрана за обаждане.</string>
-  <string name="permdesc_broadcastScoreNetworks">Allows the app to broadcast a notification that networks need to be scored. Never needed for normal apps.</string>
-  <string name="permdesc_magnify_display">Разрешава на приложението да променя мащаба на съдържанието на дисплей. Злонамерените приложения може да преобразят съдържанието на дисплея по начин, който изобразява устройството като неизползваемо.</string>
-  <string name="permdesc_manageLocationPolicy">Позволява на приложението да управлява политиките за местоположение и да дефинира специфични за него правила.</string>
-  <string name="permdesc_markNetworkSocket">Разрешава на приложението да променя означенията на сокетите за маршрутизиране.</string>
-  <string name="permdesc_retrieve_window_info">Разрешава на приложението да извлича информация за прозорците от съответния мениджър. Злонамерените приложения може да извличат данни, които са предназначени за вътрешно използване от системата.</string>
-  <string name="permlab_bind_call_service">взаимодействие с екрана за обаждане</string>
-  <string name="permlab_broadcastScoreNetworks">send score networks broadcast</string>
-  <string name="permlab_magnify_display">промяна на мащаба на дисплея</string>
-  <string name="permlab_manageLocationPolicy">управление на местоположения</string>
-  <string name="permlab_markNetworkSocket">промяна на означенията на сокетите</string>
-  <string name="permlab_retrieve_window_info">извличане на информация за прозорците</string>
-  <string name="pinpuk_attempts">"
-Остават: "</string>
-  <string name="reboot_progress">Рестарт...</string>
-  <string name="storage_external_usb">Външно USB хранилище</string>
-  <string name="storage_ic_usb1">Външно IC-USB хранилище 1</string>
-  <string name="storage_ic_usb2">Външно IC-USB хранилище 2</string>
-  <string name="storage_phone">Съхранение в телефона</string>
-  <string name="throttle_warning_notification_title">Голям обем на мобилния трафик на данни</string>
-  <string name="throttle_warning_notification_message">Докоснете, за да научите повече за употребата на мобилни данни.</string>
-  <string name="throttled_notification_title">Лимитът за мобилния трафик на данни бе надхвърлен</string>
-  <string name="throttled_notification_message">Докоснете, за да научите повече за употребата на мобилни данни.</string>
-  <string name="transient_navigation_confirmation_long">Плъзнете от края на екрана, за да се покаже панела за навигация</string>
-  <string name="use_physical_keyboard">Физическа клавиатура</string>
-  <string name="web_user_agent_target_content">"Mobile "</string>
   <string name="webviewchromium_accessibility_content_view">Изглед в мрежата</string>
   <string name="webviewchromium_accessibility_date_picker_month">Месец</string>
   <string name="webviewchromium_accessibility_date_picker_week">Седмица</string>
@@ -1663,9 +1619,53 @@
   <string name="webviewchromium_profiler_stopped_toast">Профайлерът завърши. Резултатите са в/ъв %1$s.</string>
   <string name="webviewchromium_time_picker_dialog_title">Задаване на час</string>
   <string name="webviewchromium_week_picker_dialog_title">Задаване на седмица</string>
+  <string name="week">седмица</string>
+  <string name="weeks">седмици</string>
+  <string name="whichApplication">Изпълняване на действието чрез</string>
+  <string name="whichApplicationNamed">Завършване на действието посредством %1$s</string>
+  <string name="whichEditApplication">Редактиране чрез</string>
+  <string name="whichEditApplicationNamed">Редактиране чрез %1$s</string>
+  <string name="whichHomeApplication">Избиране на приложение за начало</string>
+  <string name="whichHomeApplicationNamed">Използване на %1$s като начално приложение</string>
+  <string name="whichSendApplication">Споделяне чрез</string>
+  <string name="whichSendApplicationNamed">Споделяне чрез %1$s</string>
+  <string name="whichViewApplication">Отваряне чрез</string>
+  <string name="whichViewApplicationNamed">Отваряне чрез %1$s</string>
+  <string name="widget_default_class_name"/>
+  <string name="widget_default_package_name"/>
+  <string name="wifi_available_sign_in">Влизане в Wi-Fi мрежа</string>
   <string name="wifi_display_notification_connected_message">Установена е връзка с/ъс „%1$s“</string>
   <string name="wifi_display_notification_connected_title">Екранът се предава</string>
   <string name="wifi_display_notification_connecting_message">Установява се връзка с/ъс „%1$s“</string>
   <string name="wifi_display_notification_connecting_title">Екранът се предава</string>
   <string name="wifi_display_notification_disconnect">Прекратяване на връзката</string>
+  <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
+  <string name="wifi_p2p_enabled_notification_message">Докоснете за настройки</string>
+  <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct е включено</string>
+  <string name="wifi_p2p_enter_pin_message">Въведете задължителния ПИН:</string>
+  <string name="wifi_p2p_failed_message">Wi-Fi Direct не можа да се стартира.</string>
+  <string name="wifi_p2p_frequency_conflict_message">Телефонът временно ще прекрати връзката с Wi-Fi, докато е свързан с/ъс %1$s</string>
+  <string name="wifi_p2p_from_message">От:</string>
+  <string name="wifi_p2p_invitation_sent_title">Поканата е изпратена</string>
+  <string name="wifi_p2p_invitation_to_connect_title">Покана за свързване</string>
+  <string name="wifi_p2p_show_pin_message">ПИН:</string>
+  <string name="wifi_p2p_to_message">До:</string>
+  <string name="wifi_p2p_turnon_message">Стартиране на Wi-Fi Direct. Това ще изключи клиентската програма/точката за достъп до Wi-Fi.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+  <string name="wifi_watchdog_network_disabled">Не можа да се свърже с Wi-Fi</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" има лоша връзка с интернет."</string>
+  <string name="wireless_display_route_description">Безжичен дисплей</string>
+  <string name="work_profile_deleted">Служебният потребителски профил е изтрит</string>
+  <string name="work_profile_deleted_description">Служебният потребителски профил е изтрит поради липса на администраторско приложение.</string>
+  <string name="work_profile_deleted_details">Администраторското приложение на служебния потребителски профил липсва или е повредено. В резултат на това той и свързаните с него данни са изтрити. За съдействие се свържете с администратора си.</string>
+  <string name="write_fail_reason_cancelled">Анулирано</string>
+  <string name="write_fail_reason_cannot_write">Грешка при записване на съдържанието</string>
+  <string name="year">година</string>
+  <string name="year_picker_description">Списък с години</string>
+  <string name="years">години</string>
+  <string name="yes">OK</string>
+  <string name="zen_mode_forever">За неопределено време</string>
+  <string name="zen_mode_next_alarm_line_one">До следващия будилник</string>
+  <string name="zen_mode_next_alarm_summary">До следващия будилник в %1$s</string>
+  <string name="zen_mode_until">До %1$s</string>
 </resources>

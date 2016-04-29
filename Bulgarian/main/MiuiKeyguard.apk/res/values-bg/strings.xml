@@ -2,6 +2,8 @@
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth устройството е твърде далече за отключване.</string>
+    <string name="click_to_enter_text">Чукнете за преглед</string>
+    <string name="confirm_pin_msg">Въведете отново PIN код</string>
     <string name="contact_carrier_message">Свържете се с мобилния си оператор ако имате допълнителни въпроси.</string>
     <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
     <string name="delete">Изтриване</string>
@@ -18,17 +20,27 @@
     <string name="find_device_turn_off_flight_mode">Изключете самолетен режим</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Вашето устройство е заключено.
 За да го отключите, моля изключете самолетен режим."</string>
+    <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
+    <string name="fingerprint_not_identified_msg">За да отключите устройството,въведете вашата парола.</string>
+    <string name="fingerprint_not_identified_title">"Не може да се прочете пръстов отпечатък"</string>
+    <string name="fingerprint_try_again_text">Опитай отново</string>
     <string name="forget_password_string">Забравена парола</string>
     <string name="incorrect_pincode">Неправилен PIN код</string>
     <string name="incorrect_pincode_remaining_attempts">Неправилен PIN код, остават %d опита</string>
     <string name="incorrect_pukcode">Неправилен PUK код</string>
     <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код, остават %d опита</string>
+    <string name="input_password_after_boot_msg">"You'll have to enter password after the device reboots."</string>
     <string name="input_password_hint_text">Въведете парола</string>
     <string name="input_pin_code">Въведи PIN</string>
     <string name="input_pin_code_to_unlock">Въведете PIN код за отключване на устройството</string>
     <string name="input_puk_code">Въведете PUK код</string>
     <string name="input_puk_code_to_unlock">Въведете PUK код за отключване на устройството</string>
+    <string name="invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
+    <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
+    <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
+    <string name="keyguard_torch_cover_text">За да остане фенерчето включено, натиснете бутон Захр.</string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
+    <string name="lock_screen_date_12">EE, dd MM</string>
     <string name="lockscreen_access_pattern_cell_added">Клетката е добавена</string>
     <string name="lockscreen_access_pattern_cleared">Фигурата е изчистена</string>
     <string name="lockscreen_access_pattern_detected">Фигурата е завършена</string>
@@ -58,6 +70,8 @@
     <string name="missed_call_text">%d пропуснати обаждания</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
     <string name="miui_unlockscreen_password_wrong">Опитайте отново:</string>
+    <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
+    <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Телефон</string>
     <string name="open_wifi_settings">Настройки на мрежата</string>
     <string name="phone_locked_string">Устройството е заключено</string>
     <string name="phone_locked_timeout_minutes_string">Моля, върнете се след %s минути</string>
@@ -69,6 +83,7 @@
     <string name="screen_on_proximity_sensor_hint">"Принудително прекратяване: натиснете едновременно бутони 'Назад' и 'Звук +'"</string>
     <string name="screen_on_proximity_sensor_summary">Не закривайте горната част от екрана</string>
     <string name="screen_on_proximity_sensor_title">Предпазва от случайни обаждания</string>
+    <string name="set_lock_wallpaper_failed">Няма нов тапет</string>
     <string name="short_pincode_error_msg">Въведете от 4 до 8 цифри</string>
     <string name="short_pukcode_error_msg">Въведете най-малко 8 цифри.</string>
     <string name="starting_camera_string">Стартиране на камерата</string>
@@ -79,19 +94,4 @@
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
     <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
     <string name="wrong_password">Неправилна парола</string>
-    <string name="keyguard_torch_cover_text">За да остане фенерчето включено, натиснете бутон Захр.</string>
-    <string name="confirm_pin_msg">Въведете отново PIN код</string>
-    <string name="invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
-    <string name="click_to_enter_text">Чукнете за преглед</string>
-    <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
-    <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Телефон</string>
-    <string name="fingerprint_not_identified_msg">За да отключите устройството,въведете вашата парола.</string>
-    <string name="fingerprint_not_identified_title">"Не може да се прочете пръстов отпечатък"</string>
-    <string name="fingerprint_try_again_text">Опитай отново</string>
-    <string name="lock_screen_date_12">EE, dd MM</string>
-    <string name="set_lock_wallpaper_failed">Няма нов тапет</string>
-    <string name="input_password_after_boot_msg">"You'll have to enter password after the device reboots."</string>
-    <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
-    <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
-    <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
 </resources>

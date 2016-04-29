@@ -106,7 +106,7 @@ The method above can only be used to determine if the weight of a child is norma
      <string name="baby_weight_report_monthyear_templates1">%1$s months</string>
      <string name="baby_weight_scale_not_nearby_content">Scale is too far away.</string>
      <string name="baby_weight_see_all">&lt;u&gt;View more&lt;/u&gt;</string>
-     <string name="baby_weight_tips" />
+     <string name="baby_weight_tips"/>
      <string name="baby_weight_too_small_weight">No significant change in weight was detected. Are you holding the infant?</string>
      <string name="baby_weight_warning_content">Before you weigh in, make sure scale is on a stable, dry, and flat surface.</string>
      <string name="baby_weight_warning_title">Safety first</string>
@@ -129,7 +129,7 @@ The method above can only be used to determine if the weight of a child is norma
      <string name="bind_mi_band">Pair Mi Band</string>
      <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Band Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
      <string name="bind_mi_weight">Pair Mi Scale</string>
-     <string name="bind_mi_weight_about" />
+     <string name="bind_mi_weight_about"/>
      <string name="bind_mi_weight_howto">Learn more</string>
      <string name="bind_mi_weight_howto_tips">Using Mi Scale</string>
      <string name="bind_new_mili">Добавяне на нова гривна</string>
@@ -466,7 +466,7 @@ Use Mi Scale to record your infant's weight"</string>
      <string name="hint_input_remark_name">Enter message title</string>
      <string name="hint_input_xiaomi_uid">Enter your Mi Account ID</string>
      <string name="hot_des">Енергия</string>
-     <string name="hour_1" />
+     <string name="hour_1"/>
      <string name="hr">Your %s</string>
      <string name="hr_battery_low">Less than 10% battery left in your band</string>
      <string name="hr_btn">Not working out</string>
@@ -774,7 +774,7 @@ by %1$s"</string>
      <string name="mili_unbind_question_content_1">В допълнение вие вече няма да можете да отключите телефона си с тази Mi Band, след като двете устройства не са свързани.</string>
      <string name="mili_weight_unbind_info">"Scale won't be able to talk to this device."</string>
      <string name="mili_weight_unbind_info_1">After you unpair, you can pair with a new scale.</string>
-     <string name="minute" />
+     <string name="minute"/>
      <string name="modify_gender">Пол</string>
      <string name="modify_height">Ръст</string>
      <string name="modify_nickname">Промяна на име</string>
@@ -1121,7 +1121,7 @@ Keep Bluetooth on when running."</string>
      <string name="running_tip_open_ble_label">Turn on Bluetooth</string>
      <string name="running_tip_use_bracelet_content">Track your pace in real-time</string>
      <string name="running_tip_use_bracelet_label">Use Mi Band</string>
-     <string name="running_today_null" />
+     <string name="running_today_null"/>
      <string name="running_unlogin_notice">Sign in to Mi Fit because otherwise running data may be lost.</string>
      <string name="running_unsynchronous">Not synced</string>
      <string name="running_volumn_notice">We recommend to set media volume to low so that you are able to hear voice instructions when running.</string>
@@ -1129,7 +1129,7 @@ Keep Bluetooth on when running."</string>
      <string name="running_watermark_btn_confirm">Save</string>
      <string name="running_watermark_guide_tips">Move watermark to adjust</string>
      <string name="running_watermark_search_location">\#Getting location info#</string>
-     <string name="running_year_null" />
+     <string name="running_year_null"/>
      <string name="s_mili">Mi Band</string>
      <string name="scan_label">Put the QRCode in the square to scan.</string>
      <string name="sdcarderror">"Make sure SD card is inserted and isn't read-only."</string>

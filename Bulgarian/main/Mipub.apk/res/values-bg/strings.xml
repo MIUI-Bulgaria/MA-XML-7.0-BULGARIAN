@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="permdesc_readHmsCommon">Allows app to read Mi Pub app data.</string>
-  <string name="permdesc_writeHmsCommon">Allows app to write Mi Pub app data.</string>
   <string name="activity_not_found_uri">No app was found to handle this action</string>
   <string name="add_attachment">Add attachments</string>
   <string name="add_contact">Contact</string>
@@ -86,6 +84,7 @@
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="invalid_conversation">Invalid conversation</string>
   <string name="left_cancel">Swipe left to cancel</string>
+  <string name="low_memory">"Device's memory is low"</string>
   <string name="menu_add_black">Block this number</string>
   <string name="menu_add_contact">Add to existing contact</string>
   <string name="menu_call">Call</string>
@@ -98,6 +97,9 @@
   <string name="menu_new_contact">New contact</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_yellowpage">View %s</string>
+  <string name="message_block_confirmation">Confirm to not receive messages?</string>
+  <string name="message_block_processing">processing</string>
+  <string name="message_block_reminder">Reminder</string>
   <string name="message_failed">Failed</string>
   <string name="message_pending">Sending</string>
   <string name="message_readed">Read</string>
@@ -135,6 +137,8 @@
   <string name="nosend_message">"Don't send"</string>
   <string name="number_add_hint">Enter phone number</string>
   <string name="open_url_with_web">Open this URL in Browser?</string>
+  <string name="permdesc_readHmsCommon">Allows app to read Mi Pub app data.</string>
+  <string name="permdesc_writeHmsCommon">Allows app to write Mi Pub app data.</string>
   <string name="play">Play</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Additional settings</string>
@@ -186,6 +190,7 @@
   <string name="restore_blocked_message">Restore message</string>
   <string name="retrive_hms_tips">Retrieving…</string>
   <string name="save">Save</string>
+  <string name="scan_result">Results</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messaging</string>
   <string name="search_label">Messaging</string>
@@ -233,13 +238,8 @@
   <string name="view">View</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>
   <string name="view_hms_details">Details</string>
+  <string name="view_hms_details_download">Download</string>
   <string name="view_message_details">View details</string>
   <string name="xiaomi_service_number">Service number</string>
   <string name="yes">OK</string>
-  <string name="message_block_confirmation">Confirm to not receive messages?</string>
-  <string name="message_block_processing">processing</string>
-  <string name="message_block_reminder">Reminder</string>
-  <string name="low_memory">"Device's memory is low"</string>
-  <string name="scan_result">Results</string>
-  <string name="view_hms_details_download">Download</string>
 </resources>

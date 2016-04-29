@@ -37,6 +37,7 @@
   <string name="msg_noantenna_message">Не са открити слушалки. Някой от функциите може да са недостъпни.</string>
   <string name="new_frequency">Нова честота</string>
   <string name="next_station">Следваща станция</string>
+  <string name="notification_rec_title">Чукнете за преглед на записа</string>
   <string name="pre_station">Предишна станция</string>
   <string name="record_completed">Записът завърши</string>
   <string name="record_file_location_format">Съхранено в %s</string>
@@ -61,5 +62,4 @@
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Спящ режим</string>
   <string name="view_stations_list">Преглед на станциите</string>
-  <string name="notification_rec_title">Чукнете за преглед на записа</string>
 </resources>

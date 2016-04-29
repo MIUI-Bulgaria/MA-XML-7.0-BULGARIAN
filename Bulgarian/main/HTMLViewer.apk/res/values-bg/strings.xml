@@ -7,10 +7,10 @@
     <string name="license_host_unreachable">"Не можа да се свърже с мрежата. За да видите информацията, отидете на %s"</string>
     <string name="loading">Зареждане…</string>
     <string name="mibi_license">Условия за ползване на Mi Credit</string>
-    <string name="policy_name">Политика:%s</string>
     <string name="open_wifi_connect_summary">Натиснете, за да настроите</string>
     <string name="open_wifi_connect_title">Свързване към %1$s</string>
     <string name="permdesc_accessDrm">Разрешава достъп на приложението до съдържание, защитено с DRM.</string>
+    <string name="policy_name">Политика:%s</string>
     <string name="settings_license_activity_loading">Зарежда се…</string>
     <string name="settings_license_activity_title">Лицензи с отворен код</string>
     <string name="settings_license_activity_unavailable">Възникна проблем при зареждането на лицензите.</string>
