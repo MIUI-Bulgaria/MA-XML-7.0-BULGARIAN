@@ -1070,4 +1070,8 @@
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
   <string name="yunyi_pocket_camera">Фотоапарат</string>
+  <string name="auto_upload_disable_tip">AutoBackup е деактивирано</string>
+  <string name="auto_upload_disable_toast_long_press_menu">AutoBackup е деактивирано и е добавено в друг албум</string>
+  <string name="auto_upload_enable_toast_long_press_menu">AutoBackup е активирано, върнете се в страницата на албума, за да прегледате</string>
+  <string name="other_album">Други албуми</string>
 </resources>

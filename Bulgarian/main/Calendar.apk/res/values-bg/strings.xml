@@ -401,4 +401,7 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
   <string name="zhushen"/>
+  <string name="dropdown_delete_button_desc">Премахване на %s от получателите</string>
+  <string name="event_info_from">От</string>
+  <string name="event_title">Заглавие</string>
 </resources>
