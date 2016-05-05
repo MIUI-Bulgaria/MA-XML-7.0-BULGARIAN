@@ -121,5 +121,4 @@
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF activate info</string>
   <string name="activate_feature_remote_assist">Remote Assist</string>
-  <string name="activate_sms_postfix">This SMS is used to activate your Mi device</string>
 </resources>
