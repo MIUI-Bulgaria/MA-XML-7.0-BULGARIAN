@@ -26,7 +26,7 @@
   <string name="add_event">Добавяне на събитие</string>
   <string name="add_event_hint">Поставяне на етикет</string>
   <string name="add_sharer">Добави член</string>
-  <string name="add_to_album">Добавяне в албум</string>
+  <string name="add_to_album">Добави в албум</string>
   <string name="add_to_album_bulk_result">Грешка (%d)</string>
   <string name="add_to_album_exist">Тази снимка вече съществува</string>
   <string name="add_to_album_failed">Не може да се добави в албума</string>
@@ -324,7 +324,7 @@
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Мобилен</string>
-  <string name="delete">Изтриване</string>
+  <string name="delete">Изтрий</string>
   <string name="delete_album_failed">"Албумът не може да се изтрие"</string>
   <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
   <string name="delete_album_success">Албумът е изтрит.</string>
@@ -676,7 +676,7 @@
   <string name="open_sync_title">Включване на синхронизацията</string>
   <string name="operation_add_album">Добави в албум</string>
   <string name="operation_add_picture">Добавяне на снимки</string>
-  <string name="operation_add_secret">Добави в скрит албум</string>
+  <string name="operation_add_secret">Скрит албум</string>
   <string name="operation_add_secret_button">Скрий</string>
   <string name="operation_delete">Изтрий</string>
   <string name="operation_delete_confirm_message_folder">"Съдържанието на всички папки ще бъде изтрито. "</string>
