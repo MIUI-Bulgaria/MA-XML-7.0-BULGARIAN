@@ -1560,4 +1560,6 @@ For more info check the message you received from your carrier"</string>
   <string name="lock_mode_title">Настройки за заключване</string>
   <string name="summary_xiaomi_roaming">Само за Китай.</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
+  <string name="ac_firstUseApplock_subTitle">Използвайте заключване на приложения за защита на личните данни</string>
+  <string name="ac_firstUseApplock_title">Изисква се парола за отваряне на избрани приложения</string>
 </resources>
