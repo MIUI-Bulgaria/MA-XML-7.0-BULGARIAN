@@ -1074,4 +1074,16 @@
   <string name="auto_upload_disable_toast_long_press_menu">AutoBackup е деактивирано и е добавено в друг албум</string>
   <string name="auto_upload_enable_toast_long_press_menu">AutoBackup е активирано, върнете се в страницата на албума, за да прегледате</string>
   <string name="other_album">Други албуми</string>
+  <string name="custom_select_title_deselect_all">Размаркиране</string>
+  <string name="custom_select_title_select_all">Избери всички</string>
+  <string name="custom_select_title_select_item">Избери елементи</string>
+  <string name="debugging_tip">Генериране на данни за отстр. на грешки</string>
+  <string name="download_retry_message">Грешка при изтегляне на снимки, проверете мрежата и повторете.</string>
+  <string name="download_retry_text">Нов опит</string>
+  <string name="download_retry_title">Грешка при изтегляне</string>
+  <string name="download_title">Файловете се подготвят...</string>
+  <string name="more_album_hint">, и др.</string>
+  <string name="runtime_permission_ungranted">Галерия се затвори, няма необходимите разрешения</string>
+  <string name="start_debug">Отстраняване на грешки</string>
+  <string name="you_are">"You're the baby's"</string>
 </resources>

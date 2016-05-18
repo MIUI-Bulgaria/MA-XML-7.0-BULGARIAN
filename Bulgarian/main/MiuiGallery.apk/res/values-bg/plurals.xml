@@ -205,4 +205,12 @@
         <item quantity="other">Изтриване на %1$d видеота %2$s?</item>
         <item quantity="one">Изтриване на това видео %2$s?</item>
     </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Избрани %d елементи</item>
+        <item quantity="one">Избран %d елемент</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Грешка при изтегляне: %1$d файла</item>
+        <item quantity="one">Грешка при изтегляне: %1$d файл</item>
+    </plurals>
 </resources>

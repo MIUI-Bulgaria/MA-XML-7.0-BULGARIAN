@@ -121,4 +121,8 @@
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF activate info</string>
   <string name="activate_feature_remote_assist">Remote Assist</string>
+  <string name="activate_feature_default_name">Mi services</string>
+  <string name="explain_send_sms_permission_button">Verify</string>
+  <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
+  <string name="explain_send_sms_permission_title">Verify your phone number</string>
 </resources>

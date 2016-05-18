@@ -473,4 +473,22 @@
   <string name="wipe_data_dialog_title">Някои елементи не са синхронизирани.</string>
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_vcode">Грешен код</string>
+  <string name="account_error_all_space_user_name">"Name can't be all space characters"</string>
+  <string name="find_device_access_denied">"Can't get status, access denied"</string>
+  <string name="find_device_account_error">"Can't get status due to account error"</string>
+  <string name="find_device_bad_response_error">"Can't get status due to server error, try again later"</string>
+  <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again"</string>
+  <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
+  <string name="find_device_interrupted">Action was interrupted, try again later</string>
+  <string name="find_device_io_error">"Can't connect to the network"</string>
+  <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
+  <string name="find_device_operation_failed_error">An error occurred</string>
+  <string name="find_device_operation_failed_error_unknown">An error occurred, try again later</string>
+  <string name="find_device_remote_exception">RPC error</string>
+  <string name="find_device_request_error">"Can't request status info, try again later"</string>
+  <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
+  <string name="find_device_unknown_error">"Can't get status, try again later"</string>
+  <string name="passport_find_device_display_id">unlock number:%s</string>
+  <string name="turn_off_find_device_failed_title">"Can't turn off find device"</string>
+  <string name="turning_off_find_device">Turning off find device…</string>
 </resources>

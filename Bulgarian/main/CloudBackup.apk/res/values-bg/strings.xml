@@ -117,4 +117,5 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="backup_now">Архивирай</string>
   <string name="backup_successfully">Успешно архивиране</string>
   <string name="restore_task_unfinished">Възстановяване на прил., опитайте по-късно</string>
+  <string name="account_error">Грешка в профила</string>
 </resources>

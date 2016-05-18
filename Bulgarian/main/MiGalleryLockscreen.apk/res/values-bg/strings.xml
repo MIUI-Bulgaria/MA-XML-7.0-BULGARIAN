@@ -43,4 +43,5 @@
   <string name="theme_applying">Прилагам…</string>
   <string name="wlan_download">Обновяване по Wi-Fi</string>
   <string name="wlan_download_cn">Обновяване по WLAN</string>
+  <string name="day">Веднъж дневно</string>
 </resources>
