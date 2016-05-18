@@ -5,7 +5,7 @@
   <string name="auto_interval">Авто</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_international">Отказ</string>
-  <string name="change_time">Смяна на тапетите<string>
+  <string name="change_time">Смяна на тапетите</string>
   <string name="day">1 ден</string>
   <string name="declaration">Получавате всеки ден нови тапети за вашия заключен екран безплатно.</string>
   <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
@@ -36,8 +36,8 @@
   <string name="sst_subscribe_title">Мои категории</string>
   <string name="sst_wifi_only_desc">Изключете тази услуга, за да спестите мобилни данни</string>
   <string name="sst_wifi_only_title">Използване на мобилни данни при обновяване на тапетите</string>
-  <string name="summary">С използването на тази услуга, вие се съгласявате с нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика за поверителност&lt;/a&gt;. Услугата се нуждае от връзка с интернет, за да работи нормално.</string>
-  <string name="summary_international">С използването на тази услуга, вие се съгласявате с нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика за поверителност&lt;/a&gt;. Услугата се нуждае от връзка с интернет, за да работи нормално.</string>
+  <string name="summary">"С използването на тази услуга, вие се съгласявате с нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика за поверителност&lt;/a&gt;. Услугата се нуждае от връзка с интернет, за да работи нормално."</string>
+  <string name="summary_international">"С използването на тази услуга, вие се съгласявате с нашите &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Потребителско споразумение&lt;/a&gt; и &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Политика за поверителност&lt;/a&gt;. Услугата се нуждае от връзка с интернет, за да работи нормално."</string>
   <string name="theme_apply_failured">Не мога да приложа тапета, опитайте по-късно.</string>
   <string name="theme_apply_success">Тапетът е приложен.</string>
   <string name="theme_applying">Прилагам…</string>
