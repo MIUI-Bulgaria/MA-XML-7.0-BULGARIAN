@@ -522,4 +522,7 @@
   <string name="micloud_notif_title_sync_progress">Синхр. се</string>
   <string name="micloud_website">Cloud Данни</string>
   <string name="sub_alert_notif_content">Включете MiCloud</string>
+  <string name="micloud_request_permission_confirm">Разбрах</string>
+  <string name="micloud_request_permission_content">Mi Cloud има нужда от разрешения за синхр. на данни. Позволете достъп на Mi Cloud до Календар, Контакти, Mi профил, състояние на SIM картата, списък с обаждания и съобщения.</string>
+  <string name="micloud_request_permission_title">Mi Cloud се нуждае от разрешения</string>
 </resources>

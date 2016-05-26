@@ -1085,5 +1085,15 @@
   <string name="more_album_hint">, и др.</string>
   <string name="runtime_permission_ungranted">Галерия се затвори, няма необходимите разрешения</string>
   <string name="start_debug">Отстраняване на грешки</string>
-  <string name="you_are">"You're the baby's"</string>
+  <string name="album_detail_clear_local_page_empty">Няма архивирани снимки или видео за изтриване</string>
+  <string name="backup_detail_page_title">Mi Cloud резервни копия</string>
+  <string name="backup_waiting_button_text">Архивирай сега</string>
+  <string name="backuping">Архивира се %1$d/%2$d</string>
+  <string name="clear_local_photo_direction">Ако изтриете снимки или видео от вашето устройство, те все още ще бъдат на разположение в Mi Cloud</string>
+  <string name="cloud_space_full_button_text">Вземи още Mi Cloud хранилище</string>
+  <string name="network_unsatisfied_button_text">Свързване с мрежата</string>
+  <string name="operation_do_delete_local_thumnail">Изтрий от устройството</string>
+  <string name="operation_enter_delte_thumbnail">Изтриване на архивирани снимки или видео от устройството</string>
+  <string name="release_space_finish_format">Освободени %s от локалното хранилище</string>
+  <string name="sync_off_button_text">Turn on sync</string>
 </resources>
