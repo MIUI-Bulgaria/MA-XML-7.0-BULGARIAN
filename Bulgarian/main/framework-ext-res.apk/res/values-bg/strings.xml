@@ -135,4 +135,5 @@
   <string name="unknown_caller">Неизвестен</string>
   <string name="add_frequent_phrases">Добавяне на чести фрази</string>
   <string name="frequent_phrases">Чести фрази</string>
+  <string name="status_bar_toggle_cast">Предаване</string>
 </resources>
