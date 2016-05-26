@@ -4550,5 +4550,4 @@ Wi‑Fi асистента за Wi‑Fi"</string>
   <string name="virtual_sim_global_title">Услуги за мобилни данни</string>
   <string name="wifi_enable_data_and_wifi_roam">Превкл. м/у данни и Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Запазване на вкл. данни и Wi-Fi за превключване към данни при слаба вкъзка през Wi-Fi.</string>
-  <string name="touch_assistant">Тъч асистент</string>
 </resources>
